@@ -4,9 +4,9 @@ Dónde recuperan el balón los equipos en campo rival, y cuántos de esos robos
 acaban en tiro. Pipeline reproducible sobre 1.295.354 eventos de StatsBomb Open
 Data, con un panel interactivo en Streamlit.
 
-**Panel en vivo:** laliga-high-turnovers.streamlit.app
+**[→ Abrir el panel interactivo](https://laliga-high-turnovers.streamlit.app)**
 
-![Mapa de robos altos](docs/pitch_all.png)
+[![Panel de robos altos](docs/preview.png)](https://laliga-high-turnovers.streamlit.app)
 
 ## El hallazgo
 
