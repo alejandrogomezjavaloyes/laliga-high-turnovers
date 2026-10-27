@@ -1,0 +1,2057 @@
+match_id,team,start_x,start_y,start_type,start_player,ended_in_shot,shots,shot_xg,is_goal,seconds_to_shot
+265839,Barcelona,78.9,23.4,Ball Recovery,Neymar da Silva Santos Junior,False,0,0.0,False,
+265839,Barcelona,85.8,71.1,Ball Recovery,Lionel Andrés Messi Cuccittini,True,1,0.0099,False,58.0
+265839,Barcelona,79.7,32.9,Ball Recovery,Neymar da Silva Santos Junior,False,0,0.0,False,
+265839,Barcelona,91.1,28.6,Duel,Arda Turan,True,1,0.0585,False,2.0
+265839,Sevilla,84.9,75.5,Ball Recovery,Jorge Andújar Moreno,True,1,0.1145,False,6.0
+265839,Barcelona,77.9,8.5,Pass,Arda Turan,False,0,0.0,False,
+265839,Sevilla,100.5,73.5,Pass,Víctor Machín Pérez,False,0,0.0,False,
+265839,Sevilla,85.8,7.1,Ball Recovery,Kevin Gameiro,False,0,0.0,False,
+265894,Barcelona,87.6,20.5,Pass,Luis Alberto Suárez Díaz,False,0,0.0,False,
+265894,Málaga,89.0,9.0,Ball Recovery,Gonzalo Castro Irizábal,False,0,0.0,False,
+265894,Barcelona,91.3,76.7,Pass,Luis Alberto Suárez Díaz,False,0,0.0,False,
+265894,Barcelona,89.3,71.3,Pass,Arda Turan,False,0,0.0,False,
+265894,Málaga,76.9,11.9,Pass,Ignacio Camacho Barnola,True,1,0.1224,True,5.0
+265894,Málaga,79.9,76.2,Ball Recovery,Juan Pablo Añor Acosta,False,0,0.0,False,
+265894,Barcelona,75.3,3.2,Pass,Andrés Iniesta Luján,False,0,0.0,False,
+265894,Barcelona,89.0,1.9,Pass,Sergi Roberto Carnicer,False,0,0.0,False,
+265894,Barcelona,80.2,3.5,Pass,Andrés Iniesta Luján,False,0,0.0,False,
+265894,Barcelona,93.6,11.2,Pass,Arda Turan,False,0,0.0,False,
+265894,Barcelona,82.0,5.8,Pass,Andrés Iniesta Luján,False,0,0.0,False,
+265894,Málaga,79.3,65.4,Pass,Roque Luis Santa Cruz Cantero,False,0,0.0,False,
+265958,Barcelona,80.6,27.5,Pass,Lionel Andrés Messi Cuccittini,False,0,0.0,False,
+265958,Espanyol,75.8,3.6,Duel,Víctor Sánchez Mata,False,0,0.0,False,
+265958,Barcelona,102.3,72.5,Ball Recovery,Luis Alberto Suárez Díaz,False,0,0.0,False,
+266056,Barcelona,80.8,77.0,Pass,Ivan Rakitić,False,0,0.0,False,
+266056,Eibar,89.7,4.0,Ball Recovery,Adrián González Morales,False,0,0.0,False,
+266056,Eibar,84.2,64.3,Pass,Josip Radošević,False,0,0.0,False,
+266056,Eibar,84.4,48.7,Pass,Borja González Tomás,False,0,0.0,False,
+266056,Eibar,105.5,71.5,Ball Recovery,Sergio Enrich Ametller,False,0,0.0,False,
+266056,Eibar,95.3,1.4,Ball Recovery,Adrián González Morales,False,0,0.0,False,
+266056,Eibar,86.6,76.7,Duel,Josip Radošević,False,0,0.0,False,
+266106,Villarreal,75.3,72.8,Pass,Denis Suárez Fernández,False,0,0.0,False,
+266106,Barcelona,107.8,23.4,Pass,Neymar da Silva Santos Junior,True,1,0.0412,False,1.0
+266106,Villarreal,80.8,3.2,Ball Recovery,Roberto Soldado Rillo,True,2,0.4026,True,6.0
+266106,Villarreal,87.1,57.4,Ball Recovery,Cédric Bakambu,True,1,0.0075,False,7.0
+266106,Villarreal,80.6,80.0,Pass,Manuel Trigueros Muñoz,False,0,0.0,False,
+266149,Barcelona,80.2,38.6,Interception,Andrés Iniesta Luján,True,1,0.126,False,84.0
+266149,Barcelona,74.6,4.1,Ball Recovery,Sergi Roberto Carnicer,False,0,0.0,False,
+266160,Levante UD,89.9,15.2,Pass,Jefferson Andrés Lerma Solís,False,0,0.0,False,
+266160,Barcelona,84.8,13.6,Duel,Luis Alberto Suárez Díaz,False,0,0.0,False,
+266160,Levante UD,87.0,71.3,Duel,Iván López Mendoza,True,1,0.0252,False,5.0
+266160,Levante UD,87.0,3.7,Ball Recovery,Antonio García Aranda,False,0,0.0,False,
+266160,Levante UD,88.0,9.5,Pass,Simão Mate,False,0,0.0,False,
+266160,Levante UD,80.8,11.8,Ball Recovery,Antonio García Aranda,False,0,0.0,False,
+266160,Levante UD,101.3,14.0,Pass,Mauricio Andrés Cuero Castillo,True,1,0.0295,False,6.0
+266166,Atlético Madrid,75.0,66.2,Pass,Antoine Griezmann,True,1,0.0174,False,49.0
+266166,Atlético Madrid,103.1,69.0,Ball Recovery,Antoine Griezmann,True,1,0.0225,False,3.0
+266166,Barcelona,79.4,36.9,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+266236,Athletic Club,78.1,5.8,Pass,Markel Susaeta Laskurain,False,0,0.0,False,
+266254,Barcelona,89.7,5.6,Duel,Andrés Iniesta Luján,True,1,0.2512,False,6.0
+266254,Barcelona,88.5,63.8,Ball Recovery,Lionel Andrés Messi Cuccittini,True,1,0.1824,False,6.0
+266254,Barcelona,105.5,11.2,Ball Recovery,Neymar da Silva Santos Junior,False,0,0.0,False,
+266310,Barcelona,97.0,68.4,Pass,Daniel Alves da Silva,False,0,0.0,False,
+266310,RC Deportivo La Coruña,86.0,64.3,Ball Recovery,Pedro Mosquera Parada,False,0,0.0,False,
+266424,Real Madrid,82.7,21.2,Ball Recovery,Luka Modrić,False,0,0.0,False,
+266424,Real Madrid,82.5,54.2,Ball Recovery,Toni Kroos,False,0,0.0,False,
+266424,Real Madrid,82.1,34.2,Ball Recovery,Luka Modrić,True,1,0.0441,False,3.0
+266424,Barcelona,104.5,19.9,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+266424,Barcelona,83.1,27.1,Pass,Lionel Andrés Messi Cuccittini,False,0,0.0,False,
+266424,Barcelona,89.8,57.2,Pass,Daniel Alves da Silva,False,0,0.0,False,
+266424,Barcelona,84.4,47.2,Pass,Lionel Andrés Messi Cuccittini,False,0,0.0,False,
+266424,Barcelona,86.3,31.8,Pass,Andrés Iniesta Luján,False,0,0.0,False,
+266424,Barcelona,86.3,3.0,Pass,Jordi Alba Ramos,False,0,0.0,False,
+266424,Barcelona,87.1,6.8,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+266424,Barcelona,75.3,28.8,Pass,Andrés Iniesta Luján,False,0,0.0,False,
+266424,Barcelona,75.0,3.6,Pass,Jordi Alba Ramos,False,0,0.0,False,
+266424,Barcelona,76.9,18.0,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+266424,Barcelona,76.6,30.4,Pass,Sergi Roberto Carnicer,False,0,0.0,False,
+266424,Barcelona,85.2,25.1,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+266424,Real Madrid,106.3,6.2,Duel,Toni Kroos,False,0,0.0,False,
+266424,Barcelona,90.3,13.5,Ball Recovery,Neymar da Silva Santos Junior,False,0,0.0,False,
+266467,Celta Vigo,77.2,67.5,Duel,Augusto Matías Fernández,True,1,0.0357,False,9.0
+266467,Barcelona,85.8,9.8,Pass,Jérémy Mathieu,False,0,0.0,False,
+266467,Barcelona,75.7,68.7,Pass,Lionel Andrés Messi Cuccittini,False,0,0.0,False,
+266467,Barcelona,79.8,42.7,Pass,Ivan Rakitić,False,0,0.0,False,
+266467,Barcelona,96.1,51.6,Pass,Lionel Andrés Messi Cuccittini,False,0,0.0,False,
+266490,Barcelona,89.8,63.1,Pass,Sandro Ramírez Castillo,False,0,0.0,False,
+266490,Levante UD,87.8,11.6,Pass,Nabil Ghilas,False,0,0.0,False,
+266490,Levante UD,77.9,22.0,Pass,Jefferson Andrés Lerma Solís,False,0,0.0,False,
+266490,Barcelona,90.2,73.8,Pass,Ivan Rakitić,False,0,0.0,False,
+266490,Barcelona,74.9,3.8,Ball Recovery,Neymar da Silva Santos Junior,False,0,0.0,False,
+266490,Barcelona,89.9,47.0,Ball Recovery,Lionel Andrés Messi Cuccittini,False,0,0.0,False,
+266490,Barcelona,75.5,8.5,Pass,Javier Alejandro Mascherano,False,0,0.0,False,
+266490,Barcelona,83.3,75.3,Duel,Marc Bartra Aregall,True,1,0.2407,True,11.0
+266490,Barcelona,108.6,50.7,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+266498,Barcelona,76.6,13.2,Duel,Andrés Iniesta Luján,False,0,0.0,False,
+266498,Barcelona,84.4,24.7,Pass,Aleix Vidal Parreu,False,0,0.0,False,
+266498,Barcelona,81.0,60.2,Ball Recovery,Andrés Iniesta Luján,False,0,0.0,False,
+266498,Getafe,84.8,69.3,Ball Recovery,Emiliano Buendía,False,0,0.0,False,
+266498,Barcelona,78.8,50.0,Ball Recovery,Aleix Vidal Parreu,False,0,0.0,False,
+266557,Valencia,80.1,24.9,Ball Recovery,Enzo Nicolás Pérez,False,0,0.0,False,
+266557,Barcelona,114.5,11.2,Ball Recovery,Luis Alberto Suárez Díaz,False,0,0.0,False,
+266557,Barcelona,75.1,73.8,Pass,Sergio Busquets i Burgos,False,0,0.0,False,
+266620,Granada,89.6,58.5,Ball Recovery,Rubén Rochina Naixes,True,1,0.0074,False,2.0
+266620,Granada,77.8,45.7,Pass,Rene Krhin,False,0,0.0,False,
+266620,Barcelona,84.3,5.3,Pass,Arda Turan,False,0,0.0,False,
+266620,Barcelona,79.4,64.8,Pass,Sergi Roberto Carnicer,False,0,0.0,False,
+266620,Barcelona,85.1,67.4,Pass,Luis Alberto Suárez Díaz,False,0,0.0,False,
+266620,Barcelona,77.2,4.2,Ball Recovery,Arda Turan,False,0,0.0,False,
+266620,Granada,85.8,55.5,Ball Recovery,Edgar Antonio Méndez Ortega,False,0,0.0,False,
+266620,Barcelona,77.1,13.5,Pass,Arda Turan,False,0,0.0,False,
+266620,Barcelona,77.3,58.7,Pass,Sergi Roberto Carnicer,False,0,0.0,False,
+266620,Barcelona,96.1,25.2,Pass,Lionel Andrés Messi Cuccittini,True,1,0.0435,False,11.0
+266653,Barcelona,79.5,11.0,Pass,Ivan Rakitić,False,0,0.0,False,
+266653,Barcelona,76.7,12.2,Pass,Ivan Rakitić,False,0,0.0,False,
+266653,Barcelona,85.5,77.2,Ball Recovery,Ivan Rakitić,True,1,0.0734,False,9.0
+266653,Barcelona,91.2,6.4,Ball Recovery,Sergio Busquets i Burgos,False,0,0.0,False,
+266653,Barcelona,82.8,12.7,Pass,Andrés Iniesta Luján,False,0,0.0,False,
+266653,Rayo Vallecano,92.5,60.8,Interception,Adrián Embarba Blázquez,True,1,0.6941,True,19.0
+266653,Barcelona,94.7,72.6,Ball Recovery,Lionel Andrés Messi Cuccittini,False,0,0.0,False,
+266664,Real Sociedad,96.5,62.7,Ball Recovery,Asier Illarramendi Andonegi,True,1,0.1194,True,7.0
+266664,Barcelona,87.9,19.2,Pass,Jordi Alba Ramos,False,0,0.0,False,
+266670,Espanyol,79.1,60.9,Ball Recovery,Felipe Salvador Caicedo Corozo,False,0,0.0,False,
+266670,Barcelona,84.0,77.1,Duel,Daniel Alves da Silva,False,0,0.0,False,
+266670,Espanyol,81.1,78.3,Pass,Hernán Arsenio Pérez González,False,0,0.0,False,
+266815,Barcelona,78.8,72.1,Pass,Aleix Vidal Parreu,False,0,0.0,False,
+266815,Sporting Gijón,98.6,11.5,Duel,Roberto Canella Suárez,False,0,0.0,False,
+266885,Real Sociedad,85.2,8.0,Pass,Yuri Berchiche Izeta,False,0,0.0,False,
+266885,Barcelona,95.8,54.7,Ball Recovery,Andrés Iniesta Luján,False,0,0.0,False,
+266885,Barcelona,78.0,5.7,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+266885,Real Sociedad,89.8,6.9,Pass,Íñigo Martínez Berridi,False,0,0.0,False,
+266885,Barcelona,81.7,44.0,Ball Recovery,Lionel Andrés Messi Cuccittini,True,1,0.1289,False,6.0
+266885,Barcelona,92.3,26.6,Pass,Sergio Busquets i Burgos,False,0,0.0,False,
+266885,Real Sociedad,94.2,13.0,Ball Recovery,Yuri Berchiche Izeta,True,1,0.017,False,3.0
+266885,Real Sociedad,117.7,2.2,Duel,Héctor Hernández Ortega,True,1,0.0641,False,5.0
+266885,Real Sociedad,101.0,65.7,Pass,Xabier Prieto Argarate,True,1,0.079,False,2.0
+266961,RC Deportivo La Coruña,80.7,39.2,Pass,Lucas Pérez Martínez,False,0,0.0,False,
+266961,RC Deportivo La Coruña,86.8,47.8,Ball Recovery,Juan Domínguez Lamas,False,0,0.0,False,
+266961,Barcelona,78.7,76.3,Ball Recovery,Ivan Rakitić,False,0,0.0,False,
+266961,Barcelona,80.5,76.5,Duel,Sergi Roberto Carnicer,False,0,0.0,False,
+266986,Barcelona,74.9,17.3,Ball Recovery,Jordi Alba Ramos,True,2,0.1566,False,7.0
+266986,Barcelona,76.4,51.0,Ball Recovery,Andrés Iniesta Luján,False,0,0.0,False,
+266986,Barcelona,81.9,20.3,Pass,Sergio Busquets i Burgos,True,1,0.0712,False,54.0
+267273,Las Palmas,97.7,53.7,Ball Recovery,Nabil El Zhar,False,0,0.0,False,
+267273,Las Palmas,91.7,17.8,Duel,Willian José da Silva,True,1,0.0431,False,3.0
+267273,Las Palmas,82.9,2.2,Duel,Jonathan Viera Ramos,False,0,0.0,False,
+267273,Las Palmas,84.2,18.4,Ball Recovery,Willian José da Silva,True,1,0.0076,False,2.0
+267273,Barcelona,87.1,59.4,Ball Recovery,Daniel Alves da Silva,True,1,0.0538,False,13.0
+267273,Las Palmas,93.6,69.9,Interception,Pedro Taunausú Domínguez Placeres,True,1,0.0718,False,18.0
+267273,Barcelona,74.9,49.7,Pass,Ivan Rakitić,False,0,0.0,False,
+267274,Barcelona,82.5,74.7,Pass,Daniel Alves da Silva,False,0,0.0,False,
+267274,Valencia,84.3,75.3,Pass,Danilo Barbosa da Silva,False,0,0.0,False,
+267274,Barcelona,74.7,67.8,Ball Recovery,Luis Alberto Suárez Díaz,True,1,0.0783,True,7.0
+267327,Real Betis,91.0,11.8,Pass,Alfred John Momar N''Diaye,False,0,0.0,False,
+267327,Real Betis,75.1,46.2,Ball Recovery,Ricky van Wolfswinkel,True,1,0.0589,False,8.0
+267327,Real Betis,80.4,52.5,Ball Recovery,Álvaro Cejudo Carmona,False,0,0.0,False,
+267422,Málaga,84.3,52.7,Pass,Fernando Damián Tissone,True,1,0.0367,False,3.0
+267422,Barcelona,84.1,42.7,Ball Recovery,Lionel Andrés Messi Cuccittini,True,1,0.0579,False,5.0
+267506,Granada,81.7,3.0,Ball Recovery,Rubén Salvador Pérez Del Mármol,False,0,0.0,False,
+267506,Barcelona,92.4,9.8,Pass,Ivan Rakitić,False,0,0.0,False,
+267506,Granada,98.7,74.3,Ball Recovery,Adalberto Peñaranda Maestre,False,0,0.0,False,
+267506,Granada,97.6,75.4,Pass,Jean-Sylvain Claude Babin,False,0,0.0,False,
+267533,Barcelona,77.2,34.6,Interception,Ivan Rakitić,True,1,0.0631,False,7.0
+267533,Barcelona,77.0,66.9,Pass,Sergio Busquets i Burgos,False,0,0.0,False,
+267533,Real Madrid,76.7,77.1,Ball Recovery,Luka Modrić,False,0,0.0,False,
+267576,Atlético Madrid,82.5,67.5,Ball Recovery,Saúl Ñíguez Esclapez,False,0,0.0,False,
+267576,Atlético Madrid,75.0,32.4,Ball Recovery,Gabriel Fernández Arenas,False,0,0.0,False,
+267576,Atlético Madrid,92.7,4.2,Interception,Jorge Resurrección Merodio,False,0,0.0,False,
+267576,Atlético Madrid,80.2,76.6,Ball Recovery,Juan Francisco Torres Belén,False,0,0.0,False,
+267576,Atlético Madrid,81.8,66.1,Pass,Jorge Resurrección Merodio,False,0,0.0,False,
+267611,Barcelona,76.5,57.9,Ball Recovery,Sergio Busquets i Burgos,False,0,0.0,False,
+267611,Las Palmas,76.4,68.0,Pass,Mubarak Wakaso,False,0,0.0,False,
+267611,Barcelona,74.7,31.7,Duel,Neymar da Silva Santos Junior,False,0,0.0,False,
+267611,Barcelona,79.6,15.1,Interception,Ivan Rakitić,False,0,0.0,False,
+267611,Barcelona,79.4,78.2,Ball Recovery,Sergi Roberto Carnicer,False,0,0.0,False,
+267611,Las Palmas,87.4,55.2,Duel,Nabil El Zhar,False,0,0.0,False,
+3825562,Sevilla,75.0,8.7,Pass,Benoît Trémoulinas,False,0,0.0,False,
+3825562,Sevilla,99.2,64.5,Duel,Víctor Machín Pérez,False,0,0.0,False,
+3825562,Sevilla,84.4,59.8,Ball Recovery,Vicente Iborra De La Fuente,False,0,0.0,False,
+3825563,Atlético Madrid,78.3,7.3,Pass,Tiago Cardoso Mendes,True,1,0.0358,False,4.0
+3825563,Atlético Madrid,81.2,10.8,Pass,Tiago Cardoso Mendes,False,0,0.0,False,
+3825563,Atlético Madrid,81.2,13.0,Interception,Jorge Resurrección Merodio,False,0,0.0,False,
+3825563,Las Palmas,75.1,3.9,Duel,Hernán Daniel Santana Trujillo,False,0,0.0,False,
+3825563,Atlético Madrid,93.7,3.4,Ball Recovery,Antoine Griezmann,True,1,0.01,False,27.0
+3825563,Las Palmas,74.6,2.0,Pass,Sergio Ezequiel Araújo,False,0,0.0,False,
+3825564,RC Deportivo La Coruña,76.0,57.5,Duel,Celso Borges Mora,True,2,0.0837,False,9.0
+3825564,RC Deportivo La Coruña,82.8,50.2,Ball Recovery,Alberto Lopo García,False,0,0.0,False,
+3825564,Real Sociedad,78.1,78.9,Pass,Joseba Zaldúa Bengoetxea,False,0,0.0,False,
+3825564,Real Sociedad,77.0,71.2,Pass,Xabier Prieto Argarate,False,0,0.0,False,
+3825564,Real Sociedad,90.4,75.6,Pass,Joseba Zaldúa Bengoetxea,False,0,0.0,False,
+3825564,Real Sociedad,99.9,58.7,Pass,Xabier Prieto Argarate,False,0,0.0,False,
+3825564,Real Sociedad,91.4,57.9,Pass,Jonathas Cristian de Jesus,False,0,0.0,False,
+3825564,Real Sociedad,87.4,51.2,Pass,Carlos Alberto Vela Garrido,False,0,0.0,False,
+3825564,Real Sociedad,83.5,40.6,Pass,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825564,Real Sociedad,86.8,10.0,Pass,Alberto De La Bella Madureño,False,0,0.0,False,
+3825564,Real Sociedad,87.0,11.7,Pass,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825564,Real Sociedad,77.0,7.7,Pass,Alberto De La Bella Madureño,False,0,0.0,False,
+3825564,Real Sociedad,76.2,66.7,Pass,Joseba Zaldúa Bengoetxea,False,0,0.0,False,
+3825564,Real Sociedad,85.6,62.7,Pass,Armindo Tué Na Bangna,False,0,0.0,False,
+3825564,Real Sociedad,77.0,70.6,Pass,Joseba Zaldúa Bengoetxea,False,0,0.0,False,
+3825564,Real Sociedad,75.0,65.6,Pass,Markel Bergara Larrañaga,False,0,0.0,False,
+3825564,Real Sociedad,83.7,78.7,Pass,Xabier Prieto Argarate,False,0,0.0,False,
+3825564,Real Sociedad,76.8,76.8,Pass,Joseba Zaldúa Bengoetxea,False,0,0.0,False,
+3825564,RC Deportivo La Coruña,82.5,74.2,Ball Recovery,Federico Nicolás Cartabia,False,0,0.0,False,
+3825565,Getafe,76.2,73.5,Duel,Damián Nicolás Suárez Suárez,False,0,0.0,False,
+3825565,Espanyol,78.0,76.8,Pass,Anaitz Arbilla Zabala,False,0,0.0,False,
+3825565,Getafe,87.1,74.5,Ball Recovery,Emiliano Buendía,False,0,0.0,False,
+3825566,Valencia,80.0,40.3,Pass,Rodrigo Javier De Paul,False,0,0.0,False,
+3825566,Valencia,79.9,75.7,Ball Recovery,João Pedro Cavaco Cancelo,False,0,0.0,False,
+3825566,Rayo Vallecano,78.5,4.7,Ball Recovery,José Raúl Baena Urdiales,False,0,0.0,False,
+3825567,Real Madrid,77.3,26.8,Pass,Marcelo Vieira da Silva Júnior,True,1,0.0405,False,10.0
+3825567,Real Madrid,80.1,55.1,Ball Recovery,Francisco Román Alarcón Suárez,False,0,0.0,False,
+3825567,Real Madrid,98.8,71.6,Duel,Daniel Carvajal Ramos,False,0,0.0,False,
+3825568,Real Betis,81.8,20.1,Ball Recovery,Álvaro Cejudo Carmona,False,0,0.0,False,
+3825568,Real Betis,106.2,49.0,Ball Recovery,Cristiano Piccini,True,1,0.0203,False,5.0
+3825568,Real Betis,78.3,75.2,Pass,Cristiano Piccini,False,0,0.0,False,
+3825568,Real Betis,90.0,73.8,Pass,Álvaro Cejudo Carmona,False,0,0.0,False,
+3825568,Real Betis,76.2,47.3,Duel,Cristiano Piccini,True,1,0.0123,False,6.0
+3825568,Villarreal,79.3,56.6,Ball Recovery,Matías Nahuel Leiva Esquivel,False,0,0.0,False,
+3825568,Villarreal,80.5,12.5,Pass,Bruno Soriano Llido,False,0,0.0,False,
+3825569,Celta Vigo,88.0,70.3,Pass,Fabián Ariel Orellana Valenzuela,False,0,0.0,False,
+3825569,Celta Vigo,79.8,34.6,Ball Recovery,Fabián Ariel Orellana Valenzuela,False,0,0.0,False,
+3825570,Granada,94.5,73.5,Ball Recovery,Youssef El-Arabi,False,0,0.0,False,
+3825570,Eibar,83.4,26.1,Ball Recovery,Saúl Berjón Pérez,False,0,0.0,False,
+3825571,Espanyol,84.6,41.8,Pass,Gerard Moreno Balaguero,False,0,0.0,False,
+3825571,Villarreal,78.7,16.6,Ball Recovery,Tomás Pina Isla,False,0,0.0,False,
+3825573,Real Sociedad,76.5,7.5,Pass,Íñigo Martínez Berridi,False,0,0.0,False,
+3825573,Real Sociedad,80.8,14.6,Pass,Alberto De La Bella Madureño,False,0,0.0,False,
+3825573,Real Sociedad,86.7,32.5,Pass,Carlos Alberto Vela Garrido,False,0,0.0,False,
+3825573,Real Sociedad,80.8,26.0,Pass,Armindo Tué Na Bangna,False,0,0.0,False,
+3825573,Real Sociedad,99.7,76.3,Pass,Xabier Prieto Argarate,False,0,0.0,False,
+3825573,Real Sociedad,92.5,74.8,Pass,Aritz Elustondo Irribaria,False,0,0.0,False,
+3825573,Real Sociedad,86.0,62.2,Pass,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825573,Real Sociedad,86.0,59.2,Pass,Armindo Tué Na Bangna,False,0,0.0,False,
+3825573,Real Sociedad,93.8,74.8,Pass,Aritz Elustondo Irribaria,False,0,0.0,False,
+3825573,Real Sociedad,115.2,72.8,Pass,Xabier Prieto Argarate,False,0,0.0,False,
+3825573,Sporting Gijón,75.7,53.2,Pass,Carlos Carmona Bonet,True,1,0.0065,False,2.0
+3825573,Real Sociedad,77.4,63.4,Duel,Aritz Elustondo Irribaria,True,1,0.0402,False,12.0
+3825573,Sporting Gijón,80.1,77.3,Pass,Alen Halilović,False,0,0.0,False,
+3825573,Real Sociedad,95.1,59.2,Ball Recovery,Armindo Tué Na Bangna,True,1,0.0371,False,3.0
+3825573,Real Sociedad,74.6,53.9,Pass,Markel Bergara Larrañaga,True,1,0.0441,False,37.0
+3825574,Celta Vigo,78.8,4.9,Duel,Augusto Matías Fernández,False,0,0.0,False,
+3825574,Celta Vigo,78.4,34.6,Pass,Augusto Matías Fernández,False,0,0.0,False,
+3825574,Celta Vigo,77.1,67.0,Ball Recovery,Pedro Pablo Hernández,False,0,0.0,False,
+3825574,Celta Vigo,81.5,64.5,Pass,Hugo Mallo Novegil,False,0,0.0,False,
+3825574,Celta Vigo,83.9,22.6,Pass,Daniel Wass,False,0,0.0,False,
+3825575,Las Palmas,75.1,60.2,Pass,Sergio Ezequiel Araújo,False,0,0.0,False,
+3825576,RC Deportivo La Coruña,76.1,79.8,Ball Recovery,Juan Francisco Moreno Fuertes,True,1,0.0076,False,9.0
+3825576,Valencia,117.8,11.9,Duel,Rodrigo Javier De Paul,False,0,0.0,False,
+3825576,RC Deportivo La Coruña,96.1,43.6,Pass,Lucas Pérez Martínez,True,1,0.0418,False,27.0
+3825576,Valencia,80.4,12.0,Ball Recovery,Rodrigo Javier De Paul,False,0,0.0,False,
+3825577,Getafe,80.9,14.9,Pass,Víctor Rodríguez Romero,False,0,0.0,False,
+3825577,Getafe,75.3,32.0,Pass,Emiliano Buendía,False,0,0.0,False,
+3825577,Getafe,87.1,73.3,Pass,Pedro León Sánchez Gil,False,0,0.0,False,
+3825577,Granada,81.6,75.9,Interception,Hugo Miguel Almeida Costa Lopes,False,0,0.0,False,
+3825578,Athletic Club,82.3,31.7,Ball Recovery,Beñat Etxebarria Urkiaga,True,1,0.0262,False,8.0
+3825579,Sevilla,88.0,15.2,Pass,Vicente Iborra De La Fuente,True,1,0.0275,False,33.0
+3825579,Sevilla,98.9,16.9,Ball Recovery,António Alberto Bastos Pimparel,False,0,0.0,False,
+3825579,Sevilla,74.9,50.0,Ball Recovery,José Antonio Reyes Calderón,False,0,0.0,False,
+3825579,Sevilla,74.7,75.5,Pass,Jorge Andújar Moreno,False,0,0.0,False,
+3825579,Sevilla,77.8,69.1,Pass,Jorge Andújar Moreno,False,0,0.0,False,
+3825579,Sevilla,103.8,66.6,Pass,José Antonio Reyes Calderón,False,0,0.0,False,
+3825579,Sevilla,116.3,60.2,Pass,Víctor Machín Pérez,False,0,0.0,False,
+3825579,Sevilla,91.4,12.3,Pass,Yevhen Konoplyanka,False,0,0.0,False,
+3825579,Sevilla,103.5,2.1,Pass,Kevin Gameiro,False,0,0.0,False,
+3825579,Sevilla,86.9,23.7,Pass,Éver Maximiliano David Banega,False,0,0.0,False,
+3825579,Sevilla,89.6,65.4,Pass,Jorge Andújar Moreno,False,0,0.0,False,
+3825579,Sevilla,94.3,55.1,Pass,Michael Krohn-Dehli,False,0,0.0,False,
+3825579,Sevilla,109.3,74.0,Pass,Víctor Machín Pérez,True,1,0.0382,False,32.0
+3825580,Sevilla,81.8,76.5,Pass,Grzegorz Krychowiak,False,0,0.0,False,
+3825580,Levante UD,86.8,74.3,Interception,Víctor Camarasa Ferrando,False,0,0.0,False,
+3825580,Sevilla,84.2,35.3,Pass,Fernando Llorente Torres,False,0,0.0,False,
+3825580,Sevilla,86.5,64.1,Pass,Jorge Andújar Moreno,False,0,0.0,False,
+3825580,Levante UD,93.7,33.2,Interception,Deyverson Brum Silva Acosta,True,1,0.0733,False,3.0
+3825580,Levante UD,74.4,68.6,Pass,José María Martín-Bejarano Serrano,True,1,0.0315,False,15.0
+3825582,Real Betis,78.5,50.7,Ball Recovery,Joaquín Sánchez Rodríguez,True,1,0.1207,False,31.0
+3825582,Real Betis,114.0,17.8,Ball Recovery,Petros Matheus dos Santos Araújo,True,1,0.0421,False,7.0
+3825582,Real Sociedad,112.8,13.1,Ball Recovery,Jonathas Cristian de Jesus,False,0,0.0,False,
+3825582,Real Sociedad,76.2,21.5,Pass,Alberto De La Bella Madureño,False,0,0.0,False,
+3825582,Real Sociedad,76.8,69.0,Pass,Gonzalo Castro Irizábal,False,0,0.0,False,
+3825583,Valencia,82.4,72.4,Ball Recovery,Daniel Parejo Muñoz,False,0,0.0,False,
+3825583,Valencia,79.0,59.3,Pass,Daniel Parejo Muñoz,False,0,0.0,False,
+3825583,Valencia,80.2,16.2,Pass,Aymen Abdennour,False,0,0.0,False,
+3825583,Valencia,75.9,7.5,Pass,José Luis Gayà Peña,False,0,0.0,False,
+3825583,Valencia,77.1,58.4,Pass,Sofiane Feghouli,False,0,0.0,False,
+3825584,Villarreal,79.1,8.8,Pass,Tomás Pina Isla,True,1,0.0365,False,5.0
+3825584,Villarreal,115.3,0.4,Ball Receipt*,Cédric Bakambu,False,0,0.0,False,
+3825584,Villarreal,96.0,21.8,Pass,Samuel Castillejo Azuaga,True,1,0.0935,True,2.0
+3825584,Villarreal,90.3,53.2,Ball Recovery,Manuel Trigueros Muñoz,True,1,0.3677,True,3.0
+3825584,Villarreal,85.2,47.1,Pass,Tomás Pina Isla,True,1,0.0619,False,6.0
+3825585,Celta Vigo,76.5,18.6,Duel,Augusto Matías Fernández,True,1,0.0634,False,16.0
+3825585,Celta Vigo,77.5,3.1,Pass,Jonathan Castro Otto,False,0,0.0,False,
+3825585,Celta Vigo,83.7,37.7,Pass,Iago Aspas Juncal,False,0,0.0,False,
+3825585,Celta Vigo,75.5,50.1,Pass,Pedro Pablo Hernández,False,0,0.0,False,
+3825585,Celta Vigo,97.2,55.0,Ball Recovery,Pedro Pablo Hernández,True,1,0.0371,False,2.0
+3825585,Celta Vigo,93.0,61.5,Ball Recovery,Iago Aspas Juncal,True,1,0.434,True,3.0
+3825585,Celta Vigo,82.8,54.8,Pass,Pedro Pablo Hernández,True,2,0.1105,False,10.0
+3825585,Celta Vigo,82.8,58.7,Interception,Fabián Ariel Orellana Valenzuela,False,0,0.0,False,
+3825585,Celta Vigo,78.3,39.7,Interception,Pedro Pablo Hernández,False,0,0.0,False,
+3825585,Celta Vigo,81.3,22.2,Ball Recovery,Fabián Ariel Orellana Valenzuela,False,0,0.0,False,
+3825585,Celta Vigo,92.6,12.1,Duel,Manuel Agudo Durán,False,0,0.0,False,
+3825586,Málaga,80.7,38.4,Ball Recovery,José Luis García del Pozo,False,0,0.0,False,
+3825586,Málaga,85.9,12.0,Duel,José Luis García del Pozo,False,0,0.0,False,
+3825586,Málaga,87.7,71.6,Ball Recovery,José Luis García del Pozo,False,0,0.0,False,
+3825586,Málaga,101.0,71.6,Ball Recovery,Nordin Amrabat,False,0,0.0,False,
+3825586,Málaga,76.7,51.5,Duel,José Luis García del Pozo,False,0,0.0,False,
+3825586,Eibar,81.3,58.0,Pass,Sergio Enrich Ametller,False,0,0.0,False,
+3825586,Eibar,82.5,72.2,Ball Recovery,Ander Capa Rodríguez,False,0,0.0,False,
+3825586,Eibar,74.3,9.6,Duel,Antonio Manuel Luna Rodríguez,False,0,0.0,False,
+3825587,Athletic Club,76.4,20.2,Pass,Íñigo Lekue Martínez,False,0,0.0,False,
+3825587,Athletic Club,103.8,67.8,Ball Recovery,Raúl García Escudero,True,1,0.1615,False,5.0
+3825587,Athletic Club,77.2,54.6,Pass,Aritz Aduriz Zubeldia,False,0,0.0,False,
+3825587,Getafe,78.1,32.5,Duel,Mehdi Lacen,False,0,0.0,False,
+3825587,Athletic Club,81.0,65.6,Ball Recovery,Mikel Rico Moreno,False,0,0.0,False,
+3825588,Rayo Vallecano,86.9,31.5,Pass,José Raúl Baena Urdiales,True,1,0.4468,True,4.0
+3825588,Rayo Vallecano,82.5,14.1,Pass,Adrián Embarba Blázquez,False,0,0.0,False,
+3825588,Rayo Vallecano,76.7,47.4,Pass,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825588,Rayo Vallecano,95.6,69.6,Pass,Pablo Hernández Domínguez,False,0,0.0,False,
+3825588,Rayo Vallecano,82.6,30.7,Pass,José Ignacio Martínez García,False,0,0.0,False,
+3825588,RC Deportivo La Coruña,78.2,20.0,Interception,Fayçal Fajr,True,1,0.0239,False,5.0
+3825588,RC Deportivo La Coruña,79.5,60.7,Pass,Celso Borges Mora,False,0,0.0,False,
+3825588,Rayo Vallecano,91.5,72.9,Ball Recovery,Alhassane Bangoura,False,0,0.0,False,
+3825588,Rayo Vallecano,76.8,10.9,Ball Recovery,José Raúl Baena Urdiales,False,0,0.0,False,
+3825589,Getafe,84.6,8.1,Duel,Roberto Lago Soto,False,0,0.0,False,
+3825589,Málaga,83.5,67.5,Duel,Sérgio Paulo Barbosa Valente,False,0,0.0,False,
+3825589,Málaga,91.6,10.0,Duel,Fernando Damián Tissone,False,0,0.0,False,
+3825589,Málaga,77.3,18.8,Pass,Arthur Etienne Boka,False,0,0.0,False,
+3825589,Málaga,77.5,20.7,Ball Recovery,Nordin Amrabat,True,1,0.1623,False,6.0
+3825589,Málaga,93.5,77.2,Pass,Fernando Damián Tissone,False,0,0.0,False,
+3825589,Getafe,106.8,66.3,Interception,Pedro León Sánchez Gil,True,1,0.1195,False,2.0
+3825590,Granada,76.7,63.2,Ball Recovery,Javier Márquez Moreno,False,0,0.0,False,
+3825590,Real Madrid,84.7,61.9,Ball Recovery,Karim Benzema,False,0,0.0,False,
+3825590,Real Madrid,95.7,11.4,Ball Recovery,Marcelo Vieira da Silva Júnior,False,0,0.0,False,
+3825590,Granada,88.7,41.3,Ball Recovery,Nicolás Federico López Alonso,False,0,0.0,False,
+3825590,Granada,77.5,55.5,Duel,Rene Krhin,False,0,0.0,False,
+3825591,Valencia,79.6,71.3,Pass,Daniel Parejo Muñoz,False,0,0.0,False,
+3825591,Valencia,95.4,8.0,Duel,Javier Fuego Martínez,False,0,0.0,False,
+3825592,Real Sociedad,81.2,26.5,Pass,Imanol Agirretxe Arruti,True,1,0.3164,False,5.0
+3825592,Espanyol,79.2,72.5,Pass,Roberto Antonio Correa Silva,False,0,0.0,False,
+3825592,Espanyol,88.4,70.8,Ball Recovery,Hernán Arsenio Pérez González,True,3,0.16,False,11.0
+3825592,Espanyol,74.5,77.1,Ball Recovery,Enzo Pablo Roco Roco,False,0,0.0,False,
+3825592,Real Sociedad,82.1,59.4,Pass,Imanol Agirretxe Arruti,False,0,0.0,False,
+3825592,Real Sociedad,80.8,67.9,Pass,Sergio Canales Madrazo,False,0,0.0,False,
+3825592,Espanyol,86.4,18.1,Ball Recovery,Jorge Franco Alviz,False,0,0.0,False,
+3825593,Eibar,84.4,33.1,Ball Recovery,Sergio Enrich Ametller,False,0,0.0,False,
+3825593,Atlético Madrid,81.2,3.0,Pass,Tiago Cardoso Mendes,False,0,0.0,False,
+3825593,Atlético Madrid,79.1,25.4,Pass,Antoine Griezmann,True,1,0.0277,False,3.0
+3825593,Eibar,85.4,7.4,Pass,Saúl Berjón Pérez,False,0,0.0,False,
+3825593,Eibar,74.9,21.4,Pass,Adrián González Morales,False,0,0.0,False,
+3825593,Eibar,84.7,10.3,Ball Recovery,Antonio Manuel Luna Rodríguez,True,1,0.0059,False,8.0
+3825593,Eibar,79.6,21.8,Duel,Mikel Arruabarrena Aranbide,False,0,0.0,False,
+3825594,Sevilla,80.9,44.4,Interception,Michael Krohn-Dehli,True,1,0.0829,False,5.0
+3825594,Sevilla,82.0,25.8,Ball Recovery,Michael Krohn-Dehli,True,1,0.3114,True,10.0
+3825594,Celta Vigo,80.0,52.6,Ball Recovery,Fabián Ariel Orellana Valenzuela,False,0,0.0,False,
+3825595,Villarreal,92.7,70.3,Pass,Tomás Pina Isla,False,0,0.0,False,
+3825595,Athletic Club,77.9,51.6,Duel,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825596,RC Deportivo La Coruña,106.6,10.2,Ball Recovery,Fernando Navarro i Corbacho,False,0,0.0,False,
+3825596,Sporting Gijón,81.5,75.9,Pass,Ignacio Cases Mora,False,0,0.0,False,
+3825596,RC Deportivo La Coruña,90.2,15.9,Ball Recovery,Sidnei Rechel da Silva Júnior,False,0,0.0,False,
+3825597,Las Palmas,74.5,4.1,Pass,Juan Emmanuel Culio,False,0,0.0,False,
+3825597,Rayo Vallecano,88.0,74.8,Pass,José Raúl Baena Urdiales,False,0,0.0,False,
+3825597,Rayo Vallecano,75.5,67.9,Ball Recovery,José Raúl Baena Urdiales,False,0,0.0,False,
+3825597,Rayo Vallecano,100.6,0.4,Pass,Pablo Hernández Domínguez,True,2,0.251,False,5.0
+3825598,Getafe,77.1,73.4,Duel,Pedro León Sánchez Gil,False,0,0.0,False,
+3825598,Atlético Madrid,83.2,17.5,Ball Recovery,Diego Roberto Godín Leal,False,0,0.0,False,
+3825599,Valencia,75.8,43.9,Ball Recovery,Zakaria Bakkali,True,1,0.3305,False,3.0
+3825599,Espanyol,75.3,38.0,Duel,Hernán Arsenio Pérez González,True,1,0.1707,False,5.0
+3825599,Espanyol,77.3,53.6,Pass,Gerard Moreno Balaguero,False,0,0.0,False,
+3825599,Espanyol,114.5,56.3,Pass,Hernán Arsenio Pérez González,True,2,0.0914,False,2.0
+3825599,Valencia,77.1,5.5,Pass,Pablo Daniel Piatti,False,0,0.0,False,
+3825601,Rayo Vallecano,113.4,17.3,Ball Recovery,Adrián Embarba Blázquez,True,1,0.675,False,3.0
+3825601,Rayo Vallecano,86.3,21.5,Pass,Jozabed Sánchez Ruiz,True,1,0.1959,False,2.0
+3825601,Rayo Vallecano,91.4,68.0,Pass,José Ignacio Martínez García,False,0,0.0,False,
+3825602,Athletic Club,77.7,60.7,Ball Recovery,Raúl García Escudero,False,0,0.0,False,
+3825602,Real Madrid,112.8,42.7,Interception,Karim Benzema,True,1,0.6429,True,1.0
+3825602,Real Madrid,83.2,68.0,Ball Recovery,Kléper Laveran Lima Ferreira,False,0,0.0,False,
+3825602,Athletic Club,77.2,11.9,Pass,Mikel Balenziaga Oruesagasti,False,0,0.0,False,
+3825602,Athletic Club,89.4,15.5,Pass,Sabin Merino Zuloaga,True,1,0.1526,False,21.0
+3825602,Athletic Club,77.5,57.0,Pass,Markel Susaeta Laskurain,False,0,0.0,False,
+3825602,Real Madrid,85.8,55.8,Ball Recovery,Daniel Carvajal Ramos,True,1,0.0317,False,2.0
+3825602,Athletic Club,77.2,43.0,Pass,Mikel Rico Moreno,False,0,0.0,False,
+3825603,Real Betis,76.8,47.8,Ball Recovery,Petros Matheus dos Santos Araújo,True,1,0.5842,False,3.0
+3825604,Granada,86.9,76.6,Ball Recovery,Hugo Miguel Almeida Costa Lopes,False,0,0.0,False,
+3825604,Valencia,83.2,60.1,Pass,João Pedro Cavaco Cancelo,False,0,0.0,False,
+3825604,Valencia,109.7,64.3,Pass,Sofiane Feghouli,False,0,0.0,False,
+3825604,Granada,95.9,73.5,Interception,Rene Krhin,False,0,0.0,False,
+3825605,Rayo Vallecano,79.5,67.6,Pass,José Raúl Baena Urdiales,False,0,0.0,False,
+3825605,Rayo Vallecano,87.9,9.1,Ball Recovery,Tiago Manuel Dias Correia,False,0,0.0,False,
+3825605,Rayo Vallecano,110.5,3.6,Pass,Tiago Manuel Dias Correia,False,0,0.0,False,
+3825605,Rayo Vallecano,106.9,16.7,Pass,Jozabed Sánchez Ruiz,False,0,0.0,False,
+3825605,Rayo Vallecano,96.2,33.4,Pass,Javier Guerra Rodríguez,True,1,0.0296,False,3.0
+3825605,Rayo Vallecano,77.9,41.0,Pass,Javier Guerra Rodríguez,False,0,0.0,False,
+3825605,Rayo Vallecano,79.1,69.8,Pass,José Ignacio Martínez García,False,0,0.0,False,
+3825605,Rayo Vallecano,99.9,78.4,Pass,Alhassane Bangoura,False,0,0.0,False,
+3825605,Sevilla,89.5,4.2,Ball Recovery,José Antonio Reyes Calderón,True,1,0.0326,False,6.0
+3825606,Real Madrid,79.1,13.6,Pass,Francisco Román Alarcón Suárez,False,0,0.0,False,
+3825606,Real Madrid,85.3,60.8,Pass,Daniel Carvajal Ramos,False,0,0.0,False,
+3825606,Real Madrid,76.8,22.9,Pass,Francisco Román Alarcón Suárez,False,0,0.0,False,
+3825606,Real Madrid,74.7,60.8,Pass,Francisco Román Alarcón Suárez,False,0,0.0,False,
+3825606,Real Madrid,83.3,14.7,Pass,Marcelo Vieira da Silva Júnior,False,0,0.0,False,
+3825606,Real Madrid,90.0,5.7,Pass,Cristiano Ronaldo dos Santos Aveiro,False,0,0.0,False,
+3825606,Real Madrid,90.0,18.7,Pass,Marcelo Vieira da Silva Júnior,False,0,0.0,False,
+3825606,Real Madrid,105.8,7.5,Pass,Mateo Kovačić,False,0,0.0,False,
+3825606,Real Madrid,98.1,13.3,Pass,Marcelo Vieira da Silva Júnior,False,0,0.0,False,
+3825606,Málaga,94.5,59.3,Ball Recovery,Juan Pablo Añor Acosta,False,0,0.0,False,
+3825607,Atlético Madrid,89.0,35.4,Pass,Saúl Ñíguez Esclapez,False,0,0.0,False,
+3825607,Atlético Madrid,82.4,40.6,Duel,Antoine Griezmann,False,0,0.0,False,
+3825607,Atlético Madrid,86.5,11.5,Duel,Antoine Griezmann,True,1,0.0725,False,14.0
+3825608,Eibar,78.7,58.1,Duel,Daniel García Carrillo,True,2,0.4981,False,5.0
+3825608,Eibar,89.3,30.1,Ball Recovery,Adrián González Morales,True,1,0.0701,False,5.0
+3825609,Athletic Club,85.0,33.3,Pass,Raúl García Escudero,False,0,0.0,False,
+3825609,Athletic Club,88.0,70.5,Interception,Mikel San José Domínguez,False,0,0.0,False,
+3825609,Athletic Club,86.4,8.3,Pass,Mikel Balenziaga Oruesagasti,False,0,0.0,False,
+3825609,Athletic Club,83.8,7.2,Ball Recovery,Sabin Merino Zuloaga,False,0,0.0,False,
+3825609,Athletic Club,74.6,73.6,Pass,Mikel San José Domínguez,False,0,0.0,False,
+3825609,Real Sociedad,81.1,23.1,Ball Recovery,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825610,Sporting Gijón,111.3,64.3,Ball Receipt*,Alen Halilović,False,0,0.0,False,
+3825610,Real Betis,80.3,51.4,Ball Recovery,Álvaro Cejudo Carmona,True,1,0.3336,True,5.0
+3825610,Real Betis,75.8,18.7,Pass,Joaquín Sánchez Rodríguez,False,0,0.0,False,
+3825610,Sporting Gijón,80.2,74.6,Pass,Alberto Lora Ramos,False,0,0.0,False,
+3825610,Real Betis,80.5,16.0,Pass,Jorge Molina Vidal,False,0,0.0,False,
+3825611,RC Deportivo La Coruña,88.6,25.0,Pass,Lucas Pérez Martínez,False,0,0.0,False,
+3825611,RC Deportivo La Coruña,90.4,38.6,Pass,Fayçal Fajr,False,0,0.0,False,
+3825611,RC Deportivo La Coruña,83.3,16.4,Ball Recovery,Pedro Mosquera Parada,False,0,0.0,False,
+3825611,RC Deportivo La Coruña,98.1,64.9,Ball Recovery,Fayçal Fajr,False,0,0.0,False,
+3825611,RC Deportivo La Coruña,77.5,75.6,Pass,Celso Borges Mora,True,1,0.0499,False,20.0
+3825611,RC Deportivo La Coruña,86.9,5.4,Duel,Fayçal Fajr,False,0,0.0,False,
+3825612,Getafe,79.7,73.4,Ball Recovery,Pedro León Sánchez Gil,False,0,0.0,False,
+3825612,Getafe,77.8,70.5,Interception,Víctor Rodríguez Romero,True,1,0.0463,False,16.0
+3825612,Getafe,79.6,77.1,Ball Recovery,Ángel Lafita Castillo,False,0,0.0,False,
+3825612,Getafe,79.2,80.0,Ball Recovery,Pablo Sarabia García,True,1,0.0771,False,27.0
+3825613,Getafe,86.5,15.1,Duel,Víctor Rodríguez Romero,False,0,0.0,False,
+3825613,Getafe,113.2,24.8,Pass,Álvaro Vázquez García,False,0,0.0,False,
+3825613,Celta Vigo,85.7,12.9,Pass,Jonathan Castro Otto,False,0,0.0,False,
+3825613,Celta Vigo,92.7,6.1,Ball Recovery,Jonathan Castro Otto,False,0,0.0,False,
+3825613,Celta Vigo,85.7,52.9,Duel,Pedro Pablo Hernández,False,0,0.0,False,
+3825614,RC Deportivo La Coruña,87.6,7.2,Ball Recovery,Pedro Mosquera Parada,False,0,0.0,False,
+3825615,Espanyol,79.1,9.7,Pass,Rubén Duarte Sánchez,False,0,0.0,False,
+3825615,Espanyol,77.3,63.4,Duel,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825615,Sporting Gijón,82.2,65.7,Pass,Sergio Álvarez Díaz,False,0,0.0,False,
+3825615,Espanyol,78.9,4.9,Interception,Rubén Duarte Sánchez,False,0,0.0,False,
+3825615,Sporting Gijón,78.6,60.7,Pass,Jonathan Rodríguez Menéndez,False,0,0.0,False,
+3825615,Sporting Gijón,82.2,13.3,Pass,Alen Halilović,False,0,0.0,False,
+3825616,Málaga,91.6,58.0,Pass,Sérgio Paulo Barbosa Valente,False,0,0.0,False,
+3825616,Málaga,80.6,12.8,Pass,Juan Carlos Pérez López,False,0,0.0,False,
+3825616,Málaga,82.9,76.8,Pass,Roberto José Rosales Altuve,False,0,0.0,False,
+3825616,Málaga,90.9,4.4,Duel,Pablo Fornals Malla,False,0,0.0,False,
+3825616,Málaga,88.2,17.1,Pass,Juan Carlos Pérez López,False,0,0.0,False,
+3825617,Sevilla,82.2,78.9,Ball Recovery,Jorge Andújar Moreno,True,1,0.0254,False,4.0
+3825617,Barcelona,80.3,70.1,Interception,Munir El Haddadi Mohamed,False,0,0.0,False,
+3825617,Barcelona,75.4,60.3,Pass,Javier Alejandro Mascherano,True,1,0.0285,False,10.0
+3825617,Barcelona,81.1,24.7,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+3825617,Sevilla,81.5,45.7,Ball Recovery,Víctor Machín Pérez,False,0,0.0,False,
+3825617,Sevilla,74.9,22.8,Pass,Kevin Gameiro,False,0,0.0,False,
+3825617,Sevilla,92.2,20.1,Pass,Kevin Gameiro,False,0,0.0,False,
+3825617,Barcelona,79.0,32.2,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+3825617,Barcelona,76.2,38.6,Pass,Ivan Rakitić,False,0,0.0,False,
+3825617,Barcelona,76.4,32.0,Pass,Sergio Busquets i Burgos,False,0,0.0,False,
+3825617,Barcelona,76.0,39.9,Pass,Javier Alejandro Mascherano,False,0,0.0,False,
+3825617,Barcelona,74.7,53.6,Pass,Ivan Rakitić,False,0,0.0,False,
+3825617,Barcelona,74.9,49.6,Pass,Javier Alejandro Mascherano,False,0,0.0,False,
+3825617,Barcelona,75.8,32.9,Pass,Sergio Busquets i Burgos,False,0,0.0,False,
+3825617,Barcelona,79.6,39.1,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+3825617,Barcelona,80.9,51.7,Pass,Ivan Rakitić,False,0,0.0,False,
+3825617,Sevilla,78.1,78.5,Ball Recovery,Víctor Machín Pérez,False,0,0.0,False,
+3825617,Sevilla,79.3,58.9,Pass,Fernando Llorente Torres,False,0,0.0,False,
+3825617,Sevilla,79.5,58.4,Pass,Víctor Machín Pérez,False,0,0.0,False,
+3825617,Sevilla,90.5,69.1,Pass,Víctor Machín Pérez,False,0,0.0,False,
+3825617,Sevilla,89.5,51.8,Pass,Michael Krohn-Dehli,False,0,0.0,False,
+3825618,Las Palmas,76.8,61.3,Duel,Mubarak Wakaso,False,0,0.0,False,
+3825618,Las Palmas,81.5,29.2,Ball Recovery,Willian José da Silva,False,0,0.0,False,
+3825619,Villarreal,101.4,67.5,Pass,Tomás Pina Isla,False,0,0.0,False,
+3825619,Villarreal,82.4,65.8,Ball Recovery,Tomás Pina Isla,False,0,0.0,False,
+3825619,Levante UD,75.8,53.6,Ball Recovery,Nabil Ghilas,True,1,0.0486,False,8.0
+3825620,Rayo Vallecano,74.3,26.7,Pass,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825620,Real Betis,85.6,40.2,Pass,Francisco Portillo Soler,False,0,0.0,False,
+3825620,Real Betis,93.1,68.8,Ball Recovery,Petros Matheus dos Santos Araújo,False,0,0.0,False,
+3825620,Rayo Vallecano,80.1,46.1,Ball Recovery,Jozabed Sánchez Ruiz,True,1,0.0193,False,2.0
+3825620,Rayo Vallecano,79.6,7.2,Pass,Diego Javier Llorente Ríos,True,1,0.0654,False,18.0
+3825620,Rayo Vallecano,82.2,67.8,Interception,José Raúl Baena Urdiales,False,0,0.0,False,
+3825620,Rayo Vallecano,101.4,21.8,Pass,Tiago Manuel Dias Correia,False,0,0.0,False,
+3825620,Rayo Vallecano,94.8,31.2,Pass,Javier Guerra Rodríguez,False,0,0.0,False,
+3825620,Real Betis,77.3,66.7,Interception,Cristiano Piccini,False,0,0.0,False,
+3825620,Rayo Vallecano,87.3,27.3,Ball Recovery,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825620,Rayo Vallecano,78.3,11.1,Ball Recovery,Tiago Manuel Dias Correia,False,0,0.0,False,
+3825620,Rayo Vallecano,80.7,31.6,Pass,Tiago Manuel Dias Correia,False,0,0.0,False,
+3825620,Rayo Vallecano,77.9,54.7,Pass,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825620,Rayo Vallecano,92.2,60.7,Pass,Javier Guerra Rodríguez,False,0,0.0,False,
+3825620,Rayo Vallecano,116.4,63.5,Pass,Alhassane Bangoura,True,1,0.3445,False,4.0
+3825621,Atlético Madrid,83.9,11.1,Pass,Gabriel Fernández Arenas,False,0,0.0,False,
+3825621,Real Madrid,78.8,2.3,Interception,Mateo Kovačić,False,0,0.0,False,
+3825621,Atlético Madrid,74.5,73.7,Pass,Gabriel Fernández Arenas,False,0,0.0,False,
+3825621,Atlético Madrid,115.3,57.3,Pass,Juan Francisco Torres Belén,False,0,0.0,False,
+3825622,Valencia,84.0,27.6,Pass,André Filipe Tavares Gomes,False,0,0.0,False,
+3825623,Valencia,78.0,69.7,Duel,Daniel Parejo Muñoz,False,0,0.0,False,
+3825623,Málaga,86.4,65.0,Pass,Ricardo Jorge Luz Horta,False,0,0.0,False,
+3825623,Málaga,74.7,61.8,Duel,Charles Días Barbosa de Oliveira,False,0,0.0,False,
+3825624,Eibar,80.1,31.7,Pass,Saúl Berjón Pérez,True,1,0.0194,False,2.0
+3825624,Sevilla,81.0,4.2,Pass,Timothée Kolodziejczak,False,0,0.0,False,
+3825624,Eibar,91.8,47.8,Ball Recovery,Saúl Berjón Pérez,False,0,0.0,False,
+3825625,Real Madrid,80.7,11.1,Ball Recovery,Marcelo Vieira da Silva Júnior,True,1,0.1251,True,5.0
+3825625,Real Madrid,75.6,31.9,Ball Recovery,Toni Kroos,True,1,0.0646,True,5.0
+3825625,Real Madrid,91.6,17.1,Pass,Marcelo Vieira da Silva Júnior,True,1,0.0444,False,2.0
+3825625,Real Madrid,87.3,13.9,Pass,Cristiano Ronaldo dos Santos Aveiro,False,0,0.0,False,
+3825625,Levante UD,90.8,74.4,Pass,José Luis Morales Nogales,False,0,0.0,False,
+3825625,Real Madrid,77.7,71.0,Ball Recovery,Francisco Román Alarcón Suárez,True,2,0.0746,False,8.0
+3825625,Real Madrid,76.6,25.8,Pass,Carlos Henrique Casimiro,False,0,0.0,False,
+3825625,Real Madrid,83.0,17.1,Pass,Marcelo Vieira da Silva Júnior,False,0,0.0,False,
+3825625,Real Madrid,74.5,71.8,Pass,Danilo Luiz da Silva,False,0,0.0,False,
+3825625,Real Madrid,81.1,76.5,Ball Recovery,Danilo Luiz da Silva,True,1,0.1025,False,30.0
+3825625,Real Madrid,74.5,34.2,Duel,Lucas Vázquez Iglesias,True,1,0.2214,True,9.0
+3825626,Espanyol,106.1,68.3,Ball Recovery,Felipe Salvador Caicedo Corozo,True,1,0.0086,False,2.0
+3825626,Real Betis,83.2,29.2,Ball Recovery,Rubén Castro Martín,True,1,0.0447,False,3.0
+3825626,Real Betis,95.6,20.1,Ball Recovery,Álvaro Cejudo Carmona,False,0,0.0,False,
+3825626,Real Betis,76.8,69.7,Interception,Petros Matheus dos Santos Araújo,False,0,0.0,False,
+3825626,Real Betis,76.7,76.0,Interception,Rubén Castro Martín,False,0,0.0,False,
+3825626,Real Betis,78.0,73.0,Pass,Ricky van Wolfswinkel,False,0,0.0,False,
+3825627,Rayo Vallecano,79.0,60.3,Duel,Alhassane Bangoura,True,1,0.023,False,18.0
+3825627,Barcelona,92.7,57.5,Interception,Sergio Busquets i Burgos,True,1,0.4106,False,2.0
+3825627,Barcelona,77.3,44.4,Ball Recovery,Sandro Ramírez Castillo,False,0,0.0,False,
+3825627,Rayo Vallecano,86.5,41.9,Duel,Jozabed Sánchez Ruiz,True,1,0.102,False,3.0
+3825627,Rayo Vallecano,76.8,61.8,Pass,Javier Guerra Rodríguez,False,0,0.0,False,
+3825627,Rayo Vallecano,76.8,32.5,Ball Recovery,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825627,Barcelona,82.4,11.9,Ball Recovery,Sergi Roberto Carnicer,False,0,0.0,False,
+3825627,Rayo Vallecano,99.5,66.7,Pass,Alhassane Bangoura,False,0,0.0,False,
+3825627,Rayo Vallecano,80.7,46.1,Duel,Jozabed Sánchez Ruiz,False,0,0.0,False,
+3825627,Rayo Vallecano,109.8,5.7,Ball Recovery,Tiago Manuel Dias Correia,True,1,0.028,False,4.0
+3825627,Rayo Vallecano,84.6,73.5,Ball Recovery,Jozabed Sánchez Ruiz,False,0,0.0,False,
+3825627,Rayo Vallecano,83.7,29.2,Ball Recovery,Roberto Trashorras Gayoso,True,1,0.0202,False,18.0
+3825628,Getafe,74.6,13.1,Pass,Víctor Rodríguez Romero,False,0,0.0,False,
+3825628,Las Palmas,75.7,36.8,Pass,Juan Emmanuel Culio,False,0,0.0,False,
+3825628,Las Palmas,80.8,6.8,Pass,Javier Garrido Behovide,False,0,0.0,False,
+3825628,Las Palmas,77.2,23.4,Pass,Sergio Ezequiel Araújo,False,0,0.0,False,
+3825628,Las Palmas,75.4,75.5,Pass,David Simón Rodríguez Santana,False,0,0.0,False,
+3825628,Getafe,83.3,73.9,Pass,Álvaro Vázquez García,False,0,0.0,False,
+3825628,Las Palmas,79.3,73.9,Pass,Nabil El Zhar,False,0,0.0,False,
+3825628,Las Palmas,89.3,20.8,Pass,Jonathan Viera Ramos,False,0,0.0,False,
+3825628,Getafe,84.7,2.1,Ball Recovery,Moisés Gómez Bordonado,False,0,0.0,False,
+3825628,Las Palmas,74.9,32.4,Ball Recovery,Juan Carlos Valerón Santana,False,0,0.0,False,
+3825629,Villarreal,77.4,5.2,Interception,Roberto Soldado Rillo,False,0,0.0,False,
+3825629,Celta Vigo,82.9,61.0,Ball Recovery,Daniel Wass,False,0,0.0,False,
+3825629,Celta Vigo,98.6,72.2,Pass,Théo Bongonda Mbul''Ofeko Batombo,False,0,0.0,False,
+3825629,Celta Vigo,86.9,64.2,Pass,Hugo Mallo Novegil,False,0,0.0,False,
+3825630,Athletic Club,77.7,18.7,Ball Recovery,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825630,RC Deportivo La Coruña,82.0,9.7,Interception,Fernando Navarro i Corbacho,False,0,0.0,False,
+3825630,RC Deportivo La Coruña,76.2,48.2,Pass,Alejandro Arribas Garrido,False,0,0.0,False,
+3825631,Atlético Madrid,74.7,24.4,Ball Recovery,Filipe Luís Kasmirski,False,0,0.0,False,
+3825631,Real Sociedad,80.2,9.4,Pass,Alberto De La Bella Madureño,False,0,0.0,False,
+3825631,Real Sociedad,84.0,59.2,Duel,Imanol Agirretxe Arruti,False,0,0.0,False,
+3825631,Atlético Madrid,78.4,61.6,Ball Recovery,Jorge Resurrección Merodio,False,0,0.0,False,
+3825631,Real Sociedad,86.6,13.0,Interception,David Zurutuza Veillet,False,0,0.0,False,
+3825631,Atlético Madrid,76.4,22.5,Pass,Filipe Luís Kasmirski,False,0,0.0,False,
+3825631,Atlético Madrid,92.4,50.2,Ball Recovery,Filipe Luís Kasmirski,False,0,0.0,False,
+3825632,Granada,90.2,74.8,Ball Recovery,Youssef El-Arabi,True,2,0.7811,True,10.0
+3825632,Sporting Gijón,79.2,75.3,Pass,Alen Halilović,False,0,0.0,False,
+3825632,Sporting Gijón,91.3,76.4,Pass,Pablo Pérez Rodríguez,False,0,0.0,False,
+3825632,Sporting Gijón,87.4,69.0,Pass,Omar Mascarell González,False,0,0.0,False,
+3825633,Rayo Vallecano,107.4,41.3,Ball Recovery,Antonio Rodríguez Martínez,False,0,0.0,False,
+3825633,Rayo Vallecano,89.7,3.3,Pass,Roberto Trashorras Gayoso,True,1,0.1111,False,7.0
+3825633,Rayo Vallecano,93.5,32.4,Ball Recovery,Antonio Rodríguez Martínez,False,0,0.0,False,
+3825633,Rayo Vallecano,77.3,74.6,Pass,José Raúl Baena Urdiales,False,0,0.0,False,
+3825633,Rayo Vallecano,102.5,19.7,Duel,Javier Guerra Rodríguez,False,0,0.0,False,
+3825634,Granada,75.5,15.8,Duel,Cristiano Biraghi,False,0,0.0,False,
+3825634,Real Betis,77.7,17.5,Pass,Alfred John Momar N''Diaye,False,0,0.0,False,
+3825635,Celta Vigo,88.5,4.0,Interception,Manuel Agudo Durán,True,1,0.0254,False,7.0
+3825635,Real Madrid,75.5,76.9,Pass,Lucas Vázquez Iglesias,False,0,0.0,False,
+3825635,Celta Vigo,81.2,36.9,Pass,Augusto Matías Fernández,False,0,0.0,False,
+3825635,Celta Vigo,76.8,51.0,Ball Recovery,Manuel Agudo Durán,False,0,0.0,False,
+3825635,Celta Vigo,82.6,50.2,Duel,Nemanja Radoja,True,1,0.1067,False,8.0
+3825636,RC Deportivo La Coruña,80.0,24.1,Pass,Lucas Pérez Martínez,False,0,0.0,False,
+3825636,Málaga,79.4,15.9,Pass,Adnane Tighadouini,False,0,0.0,False,
+3825636,Málaga,95.2,68.9,Ball Recovery,Roberto José Rosales Altuve,False,0,0.0,False,
+3825636,RC Deportivo La Coruña,74.9,49.7,Interception,Celso Borges Mora,True,1,0.0105,False,13.0
+3825637,Barcelona,77.1,35.7,Interception,Sergio Busquets i Burgos,False,0,0.0,False,
+3825637,Barcelona,74.9,68.8,Pass,Sandro Ramírez Castillo,False,0,0.0,False,
+3825637,Barcelona,92.0,68.0,Pass,Luis Alberto Suárez Díaz,False,0,0.0,False,
+3825637,Barcelona,79.0,39.5,Pass,Sergio Busquets i Burgos,False,0,0.0,False,
+3825637,Barcelona,83.1,20.7,Pass,Jordi Alba Ramos,False,0,0.0,False,
+3825637,Barcelona,97.2,20.5,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+3825637,Barcelona,96.1,29.0,Pass,Luis Alberto Suárez Díaz,False,0,0.0,False,
+3825637,Barcelona,77.5,74.8,Pass,Daniel Alves da Silva,False,0,0.0,False,
+3825637,Barcelona,77.5,16.0,Ball Recovery,Javier Alejandro Mascherano,False,0,0.0,False,
+3825637,Eibar,76.8,11.3,Ball Recovery,Borja González Tomás,False,0,0.0,False,
+3825637,Eibar,92.0,12.4,Pass,Takashi Inui,True,1,0.2611,False,5.0
+3825637,Barcelona,75.4,16.0,Pass,Sergio Busquets i Burgos,False,0,0.0,False,
+3825637,Eibar,84.4,69.1,Pass,Sergio Gontán Gallardo,False,0,0.0,False,
+3825637,Eibar,74.9,68.8,Interception,Mauro Javier Dos Santos,False,0,0.0,False,
+3825637,Barcelona,82.4,12.8,Interception,Sergio Busquets i Burgos,False,0,0.0,False,
+3825638,Atlético Madrid,75.0,67.0,Duel,Jorge Resurrección Merodio,True,1,0.0309,False,15.0
+3825638,Atlético Madrid,75.0,75.3,Ball Recovery,Juan Francisco Torres Belén,False,0,0.0,False,
+3825638,Atlético Madrid,91.2,7.0,Pass,Tiago Cardoso Mendes,False,0,0.0,False,
+3825638,Atlético Madrid,74.5,7.6,Ball Recovery,Yannick Ferreira Carrasco,False,0,0.0,False,
+3825638,Atlético Madrid,76.7,13.2,Duel,Antoine Griezmann,False,0,0.0,False,
+3825639,Las Palmas,77.6,71.8,Ball Recovery,Nabil El Zhar,False,0,0.0,False,
+3825640,Levante UD,77.6,49.4,Pass,Deyverson Brum Silva Acosta,False,0,0.0,False,
+3825640,Levante UD,79.6,36.2,Ball Recovery,Zouhair Feddal,True,1,0.1162,False,11.0
+3825640,Real Sociedad,75.2,67.3,Duel,Markel Bergara Larrañaga,False,0,0.0,False,
+3825640,Levante UD,85.8,78.0,Pass,José Luis Morales Nogales,False,0,0.0,False,
+3825640,Real Sociedad,78.9,71.8,Pass,Carlos Alberto Vela Garrido,False,0,0.0,False,
+3825640,Real Sociedad,78.4,53.3,Pass,Mikel Oyarzabal Ugarte,True,1,0.0283,False,4.0
+3825641,Athletic Club,87.8,23.0,Ball Recovery,Markel Susaeta Laskurain,False,0,0.0,False,
+3825642,Atlético Madrid,83.2,8.4,Ball Recovery,Diego Roberto Godín Leal,True,1,0.0489,True,68.0
+3825642,Atlético Madrid,100.1,8.3,Duel,Antoine Griezmann,False,0,0.0,False,
+3825642,RC Deportivo La Coruña,83.2,57.3,Duel,Lucas Pérez Martínez,True,1,0.0435,False,74.0
+3825642,RC Deportivo La Coruña,79.3,14.1,Interception,Fayçal Fajr,False,0,0.0,False,
+3825642,Atlético Madrid,78.1,11.0,Ball Recovery,Saúl Ñíguez Esclapez,False,0,0.0,False,
+3825643,Real Madrid,92.3,19.2,Ball Recovery,Jesé Rodríguez Ruiz,True,1,0.4265,True,4.0
+3825643,Real Madrid,105.3,11.0,Pass,Jesé Rodríguez Ruiz,False,0,0.0,False,
+3825643,Real Madrid,85.6,26.6,Pass,Toni Kroos,False,0,0.0,False,
+3825643,Real Madrid,83.1,4.5,Ball Recovery,Carlos Henrique Casimiro,False,0,0.0,False,
+3825643,Real Madrid,87.0,42.0,Ball Recovery,Francisco Román Alarcón Suárez,False,0,0.0,False,
+3825643,Real Madrid,79.8,13.6,Ball Recovery,Cristiano Ronaldo dos Santos Aveiro,True,1,0.1768,True,9.0
+3825643,Real Madrid,88.1,73.2,Interception,Lucas Vázquez Iglesias,False,0,0.0,False,
+3825643,Las Palmas,75.1,40.8,Ball Recovery,Willian José da Silva,False,0,0.0,False,
+3825643,Real Madrid,95.5,27.5,Ball Recovery,Cristiano Ronaldo dos Santos Aveiro,False,0,0.0,False,
+3825643,Real Madrid,81.0,21.6,Pass,Jesé Rodríguez Ruiz,False,0,0.0,False,
+3825643,Real Madrid,86.0,77.7,Duel,Carlos Henrique Casimiro,False,0,0.0,False,
+3825644,Celta Vigo,85.8,17.9,Ball Recovery,Daniel Wass,False,0,0.0,False,
+3825644,Real Sociedad,78.6,66.4,Pass,Joseba Zaldúa Bengoetxea,False,0,0.0,False,
+3825644,Real Sociedad,75.3,71.4,Pass,Xabier Prieto Argarate,False,0,0.0,False,
+3825644,Celta Vigo,96.5,75.2,Duel,Fabián Ariel Orellana Valenzuela,False,0,0.0,False,
+3825644,Celta Vigo,78.3,32.3,Duel,Manuel Agudo Durán,True,1,0.1045,False,5.0
+3825644,Celta Vigo,74.9,11.9,Interception,Andreu Fontàs Prat,True,1,0.0241,False,34.0
+3825645,Barcelona,87.2,44.4,Duel,Daniel Alves da Silva,False,0,0.0,False,
+3825645,Barcelona,75.7,14.9,Interception,Jordi Alba Ramos,False,0,0.0,False,
+3825645,Barcelona,82.0,10.5,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+3825645,Barcelona,90.3,18.1,Pass,Luis Alberto Suárez Díaz,False,0,0.0,False,
+3825645,Barcelona,86.2,3.8,Pass,Luis Alberto Suárez Díaz,False,0,0.0,False,
+3825645,Barcelona,77.0,8.5,Pass,Jordi Alba Ramos,False,0,0.0,False,
+3825645,Barcelona,75.7,16.7,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+3825645,Barcelona,86.8,15.6,Pass,Sergi Roberto Carnicer,False,0,0.0,False,
+3825645,Barcelona,118.6,19.9,Pass,Luis Alberto Suárez Díaz,False,0,0.0,False,
+3825645,Barcelona,86.4,12.8,Pass,Daniel Alves da Silva,False,0,0.0,False,
+3825645,Barcelona,83.7,13.6,Ball Recovery,Daniel Alves da Silva,False,0,0.0,False,
+3825645,Barcelona,80.3,9.8,Pass,Neymar da Silva Santos Junior,False,0,0.0,False,
+3825645,Barcelona,83.2,28.4,Ball Recovery,Ivan Rakitić,False,0,0.0,False,
+3825645,Barcelona,76.0,73.3,Ball Recovery,Sandro Ramírez Castillo,True,1,0.0779,False,47.0
+3825646,Villarreal,75.4,10.2,Interception,Roberto Soldado Rillo,True,1,0.071,False,11.0
+3825647,Valencia,79.0,10.7,Ball Recovery,Pablo Daniel Piatti,False,0,0.0,False,
+3825647,Levante UD,96.9,40.6,Duel,Roger Martí Salvador,False,0,0.0,False,
+3825647,Valencia,84.3,13.5,Ball Recovery,José Luis Gayà Peña,True,2,0.0581,False,8.0
+3825647,Valencia,85.3,18.9,Ball Recovery,Enzo Nicolás Pérez,False,0,0.0,False,
+3825647,Levante UD,91.4,71.8,Interception,José Luis Morales Nogales,False,0,0.0,False,
+3825647,Valencia,80.6,3.3,Pass,Javier Fuego Martínez,True,1,0.0396,False,6.0
+3825647,Valencia,94.5,37.6,Ball Recovery,Francisco Alcácer García,True,2,1.2574,True,1.0
+3825648,Eibar,74.7,25.4,Duel,Gonzalo Escalante,False,0,0.0,False,
+3825648,Eibar,82.5,76.3,Pass,Ander Capa Rodríguez,False,0,0.0,False,
+3825648,Rayo Vallecano,86.8,5.2,Pass,Răzvan Dincă Raț,False,0,0.0,False,
+3825648,Eibar,79.4,5.7,Duel,Saúl Berjón Pérez,False,0,0.0,False,
+3825648,Eibar,77.8,69.2,Interception,Sergio Gontán Gallardo,False,0,0.0,False,
+3825649,Sporting Gijón,93.7,3.9,Pass,Jonathan Rodríguez Menéndez,False,0,0.0,False,
+3825649,Sporting Gijón,103.5,79.0,Interception,Pablo Pérez Rodríguez,False,0,0.0,False,
+3825649,Málaga,84.8,4.7,Ball Recovery,José Luis García del Pozo,True,1,0.0267,False,4.0
+3825650,Athletic Club,86.7,8.4,Duel,Mikel San José Domínguez,False,0,0.0,False,
+3825650,Athletic Club,102.2,66.6,Pass,Iñaki Williams Arthuer,False,0,0.0,False,
+3825650,Athletic Club,108.7,11.8,Pass,Mikel Balenziaga Oruesagasti,False,0,0.0,False,
+3825650,Athletic Club,76.7,7.3,Pass,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825650,Athletic Club,85.4,66.5,Pass,Xabier Etxeita Gorritxategi,False,0,0.0,False,
+3825650,Athletic Club,90.1,53.9,Pass,Iñaki Williams Arthuer,False,0,0.0,False,
+3825650,Real Betis,83.6,41.4,Pass,Ricky van Wolfswinkel,False,0,0.0,False,
+3825650,Athletic Club,80.1,64.6,Interception,Raúl García Escudero,False,0,0.0,False,
+3825650,Athletic Club,75.7,37.8,Duel,Beñat Etxebarria Urkiaga,True,3,0.6316,False,5.0
+3825650,Real Betis,82.6,66.3,Duel,Didier Digard,False,0,0.0,False,
+3825651,Espanyol,74.5,71.8,Ball Recovery,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825651,Granada,74.3,67.5,Ball Recovery,Dimitri Foulquier,False,0,0.0,False,
+3825651,Espanyol,90.3,13.2,Ball Recovery,Marco Asensio Willemsen,False,0,0.0,False,
+3825651,Espanyol,75.0,20.4,Pass,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825651,Granada,75.6,2.8,Pass,Francisco Medina Luna,False,0,0.0,False,
+3825652,Las Palmas,77.3,36.5,Ball Receipt*,José Vicente Gómez Umpiérrez,False,0,0.0,False,
+3825652,Real Sociedad,84.7,4.9,Ball Recovery,Sergio Canales Madrazo,False,0,0.0,False,
+3825652,Real Sociedad,76.5,38.6,Ball Recovery,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825653,Eibar,81.9,7.2,Pass,Eddy Silvestre Pascual İsrafilov,False,0,0.0,False,
+3825653,Getafe,74.7,11.8,Pass,Roberto Lago Soto,False,0,0.0,False,
+3825653,Getafe,75.3,16.8,Pass,Víctor Rodríguez Romero,False,0,0.0,False,
+3825653,Eibar,86.5,6.8,Ball Recovery,Saúl Berjón Pérez,False,0,0.0,False,
+3825653,Eibar,103.9,64.8,Ball Recovery,Saúl Berjón Pérez,True,1,0.0774,False,5.0
+3825653,Eibar,86.5,68.9,Ball Recovery,Sergio Gontán Gallardo,False,0,0.0,False,
+3825654,Celta Vigo,109.2,20.2,Ball Recovery,Manuel Agudo Durán,False,0,0.0,False,
+3825654,Valencia,92.8,58.1,Ball Recovery,Daniel Parejo Muñoz,False,0,0.0,False,
+3825654,Celta Vigo,76.1,76.8,Ball Recovery,Dejan Dražić,False,0,0.0,False,
+3825655,Granada,77.9,39.3,Ball Recovery,Javier Márquez Moreno,False,0,0.0,False,
+3825655,Rayo Vallecano,89.0,31.2,Pass,Roberto Trashorras Gayoso,True,1,0.0352,False,4.0
+3825657,Málaga,89.8,17.1,Interception,Sérgio Paulo Barbosa Valente,False,0,0.0,False,
+3825658,Atlético Madrid,116.5,4.0,Ball Recovery,Yannick Ferreira Carrasco,False,0,0.0,False,
+3825658,Atlético Madrid,81.6,64.9,Ball Recovery,Gabriel Fernández Arenas,False,0,0.0,False,
+3825659,Athletic Club,86.1,67.0,Pass,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825659,Athletic Club,78.1,5.2,Duel,Markel Susaeta Laskurain,False,0,0.0,False,
+3825659,Athletic Club,82.3,29.9,Pass,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825660,Barcelona,77.7,4.5,Pass,Jordi Alba Ramos,False,0,0.0,False,
+3825660,Barcelona,76.2,21.0,Interception,Sergio Busquets i Burgos,False,0,0.0,False,
+3825660,Barcelona,74.4,17.6,Ball Recovery,Andrés Iniesta Luján,True,1,0.0291,False,5.0
+3825660,Barcelona,83.0,73.7,Pass,Munir El Haddadi Mohamed,True,1,0.0296,False,20.0
+3825660,Barcelona,75.1,21.1,Pass,Jérémy Mathieu,False,0,0.0,False,
+3825660,Barcelona,82.8,46.4,Ball Recovery,Sergio Busquets i Burgos,True,1,0.3582,True,3.0
+3825660,Barcelona,77.5,74.2,Ball Recovery,Luis Alberto Suárez Díaz,False,0,0.0,False,
+3825660,Barcelona,76.4,26.0,Ball Recovery,Andrés Iniesta Luján,True,1,0.0361,False,7.0
+3825661,Sevilla,103.2,10.4,Pass,Yevhen Konoplyanka,False,0,0.0,False,
+3825661,Sevilla,110.4,4.4,Pass,Benoît Trémoulinas,False,0,0.0,False,
+3825661,Sevilla,77.3,5.9,Duel,Éver Maximiliano David Banega,True,1,0.0416,False,15.0
+3825661,Sevilla,93.1,76.2,Pass,Mariano Ferreira Filho,False,0,0.0,False,
+3825661,Real Madrid,87.4,19.3,Pass,Luka Modrić,True,1,0.0626,False,2.0
+3825661,Sevilla,90.9,76.3,Ball Recovery,Fernando Llorente Torres,True,2,0.0793,False,29.0
+3825662,RC Deportivo La Coruña,82.8,47.9,Pass,Alejandro Bergantiños García,False,0,0.0,False,
+3825662,Celta Vigo,76.7,8.0,Ball Recovery,Pedro Pablo Hernández,False,0,0.0,False,
+3825662,RC Deportivo La Coruña,76.9,0.3,Duel,Pedro Mosquera Parada,False,0,0.0,False,
+3825663,Málaga,96.5,55.1,Ball Recovery,Roberto José Rosales Altuve,False,0,0.0,False,
+3825663,Espanyol,79.7,47.4,Interception,Marco Asensio Willemsen,False,0,0.0,False,
+3825663,Málaga,88.3,41.4,Pass,Charles Días Barbosa de Oliveira,False,0,0.0,False,
+3825663,Málaga,99.1,24.8,Pass,Pablo Fornals Malla,True,1,0.1413,False,2.0
+3825663,Málaga,76.9,78.6,Pass,Sérgio Paulo Barbosa Valente,False,0,0.0,False,
+3825663,Espanyol,95.0,77.6,Ball Recovery,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825663,Espanyol,83.2,6.2,Pass,Rubén Duarte Sánchez,False,0,0.0,False,
+3825664,Real Sociedad,77.3,72.6,Pass,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825664,Real Sociedad,76.5,69.3,Pass,Imanol Agirretxe Arruti,False,0,0.0,False,
+3825664,Real Sociedad,85.6,14.9,Pass,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825664,Real Sociedad,88.6,1.7,Pass,Yuri Berchiche Izeta,False,0,0.0,False,
+3825664,Real Sociedad,85.4,9.8,Pass,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825664,Real Sociedad,86.3,22.5,Pass,Xabier Prieto Argarate,False,0,0.0,False,
+3825664,Real Sociedad,75.5,61.2,Pass,Aritz Elustondo Irribaria,False,0,0.0,False,
+3825664,Real Sociedad,88.0,72.0,Pass,Armindo Tué Na Bangna,False,0,0.0,False,
+3825664,Real Sociedad,76.0,67.9,Pass,Aritz Elustondo Irribaria,False,0,0.0,False,
+3825664,Real Sociedad,75.2,8.6,Ball Recovery,Yuri Berchiche Izeta,False,0,0.0,False,
+3825665,Athletic Club,76.6,72.4,Pass,Markel Susaeta Laskurain,False,0,0.0,False,
+3825665,Granada,94.4,59.8,Interception,Robert Ibáñez Castro,True,2,0.2833,True,6.0
+3825665,Granada,82.0,9.5,Pass,Francisco Manuel Rico Castro,False,0,0.0,False,
+3825665,Granada,107.0,26.5,Ball Recovery,Francisco Manuel Rico Castro,False,0,0.0,False,
+3825666,Atlético Madrid,91.3,14.1,Ball Receipt*,Gabriel Fernández Arenas,False,0,0.0,False,
+3825666,Real Betis,79.5,17.3,Ball Recovery,Alfred John Momar N''Diaye,False,0,0.0,False,
+3825667,Eibar,101.0,43.4,Duel,Sergio Enrich Ametller,True,1,0.5598,False,2.0
+3825667,Villarreal,76.9,63.6,Pass,Samuel Castillejo Azuaga,False,0,0.0,False,
+3825667,Villarreal,107.3,52.2,Pass,Cédric Bakambu,True,1,0.371,False,1.0
+3825667,Eibar,111.4,11.1,Pass,Gonzalo Escalante,False,0,0.0,False,
+3825667,Eibar,81.0,46.4,Pass,Sergio Gontán Gallardo,False,0,0.0,False,
+3825667,Eibar,96.2,69.3,Pass,Borja González Tomás,False,0,0.0,False,
+3825667,Eibar,113.0,58.9,Pass,Sergio Gontán Gallardo,False,0,0.0,False,
+3825667,Eibar,80.7,50.8,Pass,Daniel García Carrillo,False,0,0.0,False,
+3825667,Eibar,82.7,14.9,Ball Recovery,Daniel García Carrillo,True,1,0.0305,False,13.0
+3825668,Levante UD,81.2,19.7,Ball Recovery,Rubén García Santos,False,0,0.0,False,
+3825668,Levante UD,80.4,55.2,Ball Recovery,José Luis Morales Nogales,False,0,0.0,False,
+3825668,Levante UD,79.5,39.8,Ball Recovery,Deyverson Brum Silva Acosta,False,0,0.0,False,
+3825668,Sporting Gijón,77.9,59.6,Pass,Omar Mascarell González,False,0,0.0,False,
+3825669,Rayo Vallecano,110.7,8.9,Ball Recovery,Jozabed Sánchez Ruiz,True,1,0.0277,False,8.0
+3825669,Getafe,86.5,74.2,Ball Recovery,Juan Antonio Rodríguez Villamuela,False,0,0.0,False,
+3825669,Getafe,82.6,56.2,Duel,Juan Antonio Rodríguez Villamuela,False,0,0.0,False,
+3825669,Rayo Vallecano,77.6,73.9,Pass,Pablo Hernández Domínguez,False,0,0.0,False,
+3825669,Rayo Vallecano,77.6,78.1,Pass,Adrián Embarba Blázquez,False,0,0.0,False,
+3825669,Rayo Vallecano,100.6,65.5,Pass,Pablo Hernández Domínguez,True,1,0.1901,False,1.0
+3825669,Getafe,76.3,41.0,Duel,Pablo Sarabia García,True,1,0.0295,False,18.0
+3825669,Rayo Vallecano,79.5,70.9,Ball Recovery,José Raúl Baena Urdiales,False,0,0.0,False,
+3825669,Rayo Vallecano,78.6,77.1,Pass,Roberto Román Triguero,False,0,0.0,False,
+3825670,Levante UD,96.5,28.0,Interception,José Antonio García Rabasco,True,2,0.9512,False,2.0
+3825670,Real Betis,82.4,44.4,Pass,Daniel Ceballos Fernández,False,0,0.0,False,
+3825671,Sporting Gijón,100.2,56.0,Ball Recovery,Carlos Castro García,True,1,0.2917,True,1.0
+3825671,Celta Vigo,77.7,59.3,Interception,Iago Aspas Juncal,True,1,0.1179,False,5.0
+3825672,Málaga,81.3,36.7,Pass,Juan Carlos Pérez López,False,0,0.0,False,
+3825672,Granada,78.8,73.3,Pass,Robert Ibáñez Castro,False,0,0.0,False,
+3825672,Granada,80.5,28.2,Duel,Javier Márquez Moreno,False,0,0.0,False,
+3825672,Granada,75.8,11.8,Pass,David Rodríguez Lombán,False,0,0.0,False,
+3825672,Granada,75.0,71.4,Pass,Jean-Sylvain Claude Babin,True,1,0.0091,False,2.0
+3825673,RC Deportivo La Coruña,83.4,9.5,Ball Recovery,Jonathan Javier Rodríguez Portillo,False,0,0.0,False,
+3825673,RC Deportivo La Coruña,81.7,11.0,Pass,Luis Carlos Correia Pinto,False,0,0.0,False,
+3825673,RC Deportivo La Coruña,90.3,5.0,Pass,Lucas Pérez Martínez,False,0,0.0,False,
+3825673,RC Deportivo La Coruña,80.1,12.4,Ball Recovery,Fernando Navarro i Corbacho,False,0,0.0,False,
+3825673,RC Deportivo La Coruña,79.0,59.2,Pass,Alejandro Bergantiños García,False,0,0.0,False,
+3825673,RC Deportivo La Coruña,79.8,50.4,Ball Recovery,Lucas Pérez Martínez,False,0,0.0,False,
+3825673,RC Deportivo La Coruña,101.2,34.6,Ball Recovery,Fayçal Fajr,True,1,0.2647,False,1.0
+3825673,RC Deportivo La Coruña,88.4,41.1,Pass,Juan Francisco Moreno Fuertes,False,0,0.0,False,
+3825674,Atlético Madrid,76.7,14.9,Pass,Óliver Torres Muñoz,True,1,0.038,False,38.0
+3825674,Atlético Madrid,87.2,31.0,Duel,Thomas Teye Partey,True,1,0.0434,False,38.0
+3825675,Athletic Club,80.3,12.0,Pass,Aymeric Laporte,False,0,0.0,False,
+3825675,Athletic Club,83.3,33.6,Interception,Aritz Aduriz Zubeldia,True,1,0.0535,False,11.0
+3825675,Rayo Vallecano,75.0,71.6,Ball Recovery,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825675,Rayo Vallecano,74.4,67.3,Ball Recovery,Roberto Román Triguero,False,0,0.0,False,
+3825675,Athletic Club,115.5,70.4,Ball Recovery,Iñaki Williams Arthuer,False,0,0.0,False,
+3825675,Athletic Club,75.4,20.1,Duel,Íñigo Lekue Martínez,False,0,0.0,False,
+3825675,Rayo Vallecano,79.7,12.2,Ball Recovery,Tiago Manuel Dias Correia,False,0,0.0,False,
+3825676,Getafe,75.7,75.2,Pass,Juan Antonio Rodríguez Villamuela,False,0,0.0,False,
+3825676,Getafe,90.3,68.5,Pass,Damián Nicolás Suárez Suárez,True,1,0.0207,False,3.0
+3825676,Getafe,78.2,40.2,Pass,Roberto Lago Soto,False,0,0.0,False,
+3825676,Villarreal,78.9,12.5,Ball Recovery,Tomás Pina Isla,False,0,0.0,False,
+3825676,Getafe,91.2,49.7,Interception,Álvaro Vázquez García,True,1,0.4265,False,4.0
+3825676,Getafe,79.9,8.4,Duel,Juan Antonio Rodríguez Villamuela,False,0,0.0,False,
+3825677,Valencia,87.4,79.2,Ball Recovery,João Pedro Cavaco Cancelo,False,0,0.0,False,
+3825677,Sevilla,83.3,57.7,Ball Recovery,Víctor Machín Pérez,True,1,0.0721,False,11.0
+3825677,Sevilla,86.3,15.3,Ball Recovery,Grzegorz Krychowiak,True,1,0.0525,False,17.0
+3825677,Sevilla,96.7,15.2,Interception,José Antonio Reyes Calderón,False,0,0.0,False,
+3825678,Eibar,101.5,9.1,Pass,Adrián González Morales,False,0,0.0,False,
+3825678,Eibar,76.0,22.2,Pass,Daniel García Carrillo,True,1,0.0149,False,2.0
+3825678,Eibar,76.8,40.3,Duel,Gonzalo Escalante,True,1,0.0369,False,12.0
+3825678,Eibar,75.0,67.7,Interception,Gonzalo Escalante,False,0,0.0,False,
+3825678,Real Madrid,75.6,76.0,Interception,Lucas Vázquez Iglesias,False,0,0.0,False,
+3825678,Eibar,80.9,14.6,Interception,Saúl Berjón Pérez,False,0,0.0,False,
+3825678,Real Madrid,75.6,29.1,Pass,Lucas Vázquez Iglesias,False,0,0.0,False,
+3825679,Real Betis,88.7,30.2,Ball Recovery,Alfred John Momar N''Diaye,False,0,0.0,False,
+3825679,Real Betis,87.1,38.2,Duel,Petros Matheus dos Santos Araújo,False,0,0.0,False,
+3825679,Celta Vigo,89.3,62.4,Ball Recovery,Hugo Mallo Novegil,False,0,0.0,False,
+3825680,RC Deportivo La Coruña,75.3,76.1,Ball Recovery,Rubén Gracia Calmache,False,0,0.0,False,
+3825680,RC Deportivo La Coruña,85.3,65.9,Pass,Lucas Pérez Martínez,False,0,0.0,False,
+3825680,RC Deportivo La Coruña,115.8,8.2,Pass,Jonathan Javier Rodríguez Portillo,False,0,0.0,False,
+3825680,Sevilla,88.7,53.9,Pass,José Antonio Reyes Calderón,False,0,0.0,False,
+3825680,Sevilla,115.1,73.7,Pass,Mariano Ferreira Filho,False,0,0.0,False,
+3825681,Getafe,78.3,72.8,Pass,Pablo Sarabia García,False,0,0.0,False,
+3825681,Real Madrid,77.5,74.6,Pass,Kléper Laveran Lima Ferreira,False,0,0.0,False,
+3825682,Granada,76.9,16.1,Pass,Adalberto Peñaranda Maestre,False,0,0.0,False,
+3825682,Granada,84.2,12.2,Pass,Adalberto Peñaranda Maestre,False,0,0.0,False,
+3825682,Granada,85.2,51.6,Pass,Youssef El-Arabi,False,0,0.0,False,
+3825682,Granada,88.3,63.3,Pass,Rubén Salvador Pérez Del Mármol,False,0,0.0,False,
+3825682,Atlético Madrid,75.6,62.7,Pass,Saúl Ñíguez Esclapez,False,0,0.0,False,
+3825682,Granada,90.5,65.6,Ball Recovery,Robert Ibáñez Castro,True,1,0.0516,False,5.0
+3825682,Atlético Madrid,102.1,21.6,Ball Recovery,Óliver Torres Muñoz,False,0,0.0,False,
+3825683,Real Sociedad,75.9,9.9,Ball Recovery,Sergio Canales Madrazo,True,1,0.0988,True,6.0
+3825683,Eibar,79.9,62.9,Duel,Daniel García Carrillo,False,0,0.0,False,
+3825683,Real Sociedad,91.0,19.5,Pass,Sergio Canales Madrazo,False,0,0.0,False,
+3825683,Real Sociedad,85.7,11.2,Pass,Esteban Félix Granero Molina,False,0,0.0,False,
+3825683,Eibar,79.8,42.9,Ball Recovery,Sergio Enrich Ametller,False,0,0.0,False,
+3825683,Real Sociedad,74.5,67.3,Ball Recovery,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825683,Eibar,88.8,30.3,Pass,Borja González Tomás,False,0,0.0,False,
+3825684,Villarreal,100.2,60.2,Pass,Jonathan dos Santos Ramírez,False,0,0.0,False,
+3825684,Rayo Vallecano,74.7,3.3,Pass,Pablo Hernández Domínguez,False,0,0.0,False,
+3825684,Villarreal,109.7,10.4,Interception,Roberto Soldado Rillo,False,0,0.0,False,
+3825684,Villarreal,89.5,63.3,Pass,Roberto Soldado Rillo,False,0,0.0,False,
+3825685,Sporting Gijón,82.8,18.7,Interception,Daniel Arnaud N''Di	,True,2,0.0287,False,9.0
+3825685,Sporting Gijón,78.6,59.8,Pass,Arnaldo Antonio Sanabria Ayala,False,0,0.0,False,
+3825685,Las Palmas,87.5,22.2,Pass,Jonathan Viera Ramos,True,1,0.0723,False,29.0
+3825685,Sporting Gijón,84.6,37.8,Duel,Arnaldo Antonio Sanabria Ayala,False,0,0.0,False,
+3825685,Sporting Gijón,85.1,58.4,Interception,Arnaldo Antonio Sanabria Ayala,False,0,0.0,False,
+3825685,Sporting Gijón,75.6,40.5,Pass,Carlos Castro García,False,0,0.0,False,
+3825686,Málaga,76.7,15.2,Ball Recovery,Pablo Fornals Malla,True,1,0.0708,False,12.0
+3825686,Málaga,76.1,72.6,Pass,Raúl Albentosa Redal,False,0,0.0,False,
+3825687,Levante UD,100.3,69.9,Ball Recovery,Deyverson Brum Silva Acosta,True,1,0.1638,False,4.0
+3825688,Real Sociedad,85.5,27.8,Ball Recovery,Carlos Alberto Vela Garrido,True,1,0.0267,False,7.0
+3825688,Getafe,75.5,10.3,Pass,Mehdi Lacen,False,0,0.0,False,
+3825688,Real Sociedad,77.2,4.0,Pass,Armindo Tué Na Bangna,False,0,0.0,False,
+3825688,Real Sociedad,79.8,2.5,Pass,Armindo Tué Na Bangna,False,0,0.0,False,
+3825688,Real Sociedad,81.2,8.6,Pass,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825688,Real Sociedad,95.3,10.7,Pass,Armindo Tué Na Bangna,False,0,0.0,False,
+3825688,Real Sociedad,106.9,13.0,Pass,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825688,Real Sociedad,81.0,21.8,Pass,Sergio Canales Madrazo,False,0,0.0,False,
+3825688,Real Sociedad,98.6,14.9,Pass,Carlos Alberto Vela Garrido,False,0,0.0,False,
+3825688,Real Sociedad,107.2,9.8,Pass,Alberto De La Bella Madureño,False,0,0.0,False,
+3825688,Getafe,85.7,14.1,Duel,Alexis Ruano Delgado,True,1,0.0603,False,5.0
+3825688,Getafe,76.9,4.9,Interception,Pablo Sarabia García,False,0,0.0,False,
+3825689,Espanyol,81.9,28.9,Pass,Gerard Moreno Balaguero,False,0,0.0,False,
+3825689,Celta Vigo,87.5,14.7,Pass,Fabián Ariel Orellana Valenzuela,True,1,0.1825,False,5.0
+3825689,Espanyol,77.0,24.1,Pass,Mamadou Sylla Diallo,False,0,0.0,False,
+3825689,Espanyol,99.5,5.7,Pass,Víctor Guillermo Álvarez Delgado,False,0,0.0,False,
+3825689,Espanyol,110.2,72.5,Ball Recovery,Javier López Rodríguez,False,0,0.0,False,
+3825690,Real Betis,90.4,18.6,Pass,Jorge Molina Vidal,False,0,0.0,False,
+3825690,Las Palmas,106.6,21.2,Pass,Jonathan Viera Ramos,False,0,0.0,False,
+3825690,Las Palmas,107.7,30.6,Pass,Pedro Taunausú Domínguez Placeres,False,0,0.0,False,
+3825690,Las Palmas,90.2,3.7,Pass,Jonathan Viera Ramos,False,0,0.0,False,
+3825690,Las Palmas,85.7,15.0,Pass,Pedro Taunausú Domínguez Placeres,False,0,0.0,False,
+3825690,Las Palmas,85.0,25.0,Pass,Roque Mesa Quevedo,False,0,0.0,False,
+3825690,Las Palmas,81.8,50.0,Pass,Jerónimo Figueroa Cabrera,False,0,0.0,False,
+3825690,Real Betis,78.4,67.0,Pass,Cristiano Piccini,True,1,0.0951,False,16.0
+3825691,Granada,77.5,67.7,Pass,Dimitri Foulquier,False,0,0.0,False,
+3825691,Levante UD,78.4,34.6,Pass,Víctor Camarasa Ferrando,False,0,0.0,False,
+3825691,Levante UD,82.9,71.5,Duel,Deyverson Brum Silva Acosta,False,0,0.0,False,
+3825691,Levante UD,75.1,61.5,Ball Recovery,Rubén García Santos,False,0,0.0,False,
+3825691,Granada,96.0,56.4,Pass,Dimitri Foulquier,False,0,0.0,False,
+3825692,Sevilla,92.4,14.3,Pass,Sergio Escudero Palomo,False,0,0.0,False,
+3825692,Sporting Gijón,82.3,58.9,Ball Recovery,Luis Hernández Rodríguez,False,0,0.0,False,
+3825693,Atlético Madrid,89.1,24.3,Duel,Gabriel Fernández Arenas,True,1,0.0067,False,21.0
+3825693,Athletic Club,76.0,39.6,Ball Recovery,Iñaki Williams Arthuer,False,0,0.0,False,
+3825693,Athletic Club,88.1,13.3,Interception,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825693,Atlético Madrid,83.3,22.6,Duel,Yannick Ferreira Carrasco,False,0,0.0,False,
+3825693,Atlético Madrid,82.2,2.2,Pass,Filipe Luís Kasmirski,False,0,0.0,False,
+3825693,Athletic Club,96.2,14.8,Ball Recovery,Mikel Balenziaga Oruesagasti,True,1,0.0404,False,5.0
+3825693,Atlético Madrid,87.0,61.6,Ball Recovery,Gabriel Fernández Arenas,False,0,0.0,False,
+3825693,Atlético Madrid,83.0,8.3,Pass,Filipe Luís Kasmirski,False,0,0.0,False,
+3825693,Atlético Madrid,97.8,2.0,Pass,Yannick Ferreira Carrasco,False,0,0.0,False,
+3825693,Atlético Madrid,90.1,5.3,Pass,Jorge Resurrección Merodio,False,0,0.0,False,
+3825693,Atlético Madrid,88.3,66.4,Pass,Saúl Ñíguez Esclapez,True,1,0.0318,False,28.0
+3825693,Athletic Club,87.0,42.1,Pass,Aritz Aduriz Zubeldia,False,0,0.0,False,
+3825693,Atlético Madrid,85.9,62.4,Ball Recovery,Gabriel Fernández Arenas,False,0,0.0,False,
+3825694,Eibar,76.2,60.0,Ball Recovery,Borja González Tomás,False,0,0.0,False,
+3825694,Valencia,80.4,71.9,Pass,Antonio Barragán Fernández,False,0,0.0,False,
+3825695,Villarreal,75.4,62.8,Pass,Manuel Trigueros Muñoz,False,0,0.0,False,
+3825695,Real Madrid,85.3,4.1,Ball Recovery,Marcelo Vieira da Silva Júnior,False,0,0.0,False,
+3825695,Villarreal,77.7,24.4,Ball Recovery,Bruno Soriano Llido,False,0,0.0,False,
+3825695,Real Madrid,80.5,71.5,Interception,Gareth Frank Bale,True,1,0.0729,False,4.0
+3825695,Villarreal,77.1,32.1,Pass,Denis Suárez Fernández,False,0,0.0,False,
+3825695,Real Madrid,78.3,71.7,Pass,Cristiano Ronaldo dos Santos Aveiro,False,0,0.0,False,
+3825695,Real Madrid,81.6,57.7,Pass,Luka Modrić,False,0,0.0,False,
+3825695,Real Madrid,99.1,73.0,Pass,Danilo Luiz da Silva,False,0,0.0,False,
+3825695,Real Madrid,88.5,71.5,Pass,Luka Modrić,False,0,0.0,False,
+3825695,Real Madrid,88.5,57.4,Pass,James David Rodríguez Rubio,False,0,0.0,False,
+3825695,Real Madrid,95.9,21.2,Pass,Marcelo Vieira da Silva Júnior,False,0,0.0,False,
+3825695,Real Madrid,111.1,59.0,Pass,Danilo Luiz da Silva,False,0,0.0,False,
+3825695,Real Madrid,91.2,18.7,Pass,Luka Modrić,False,0,0.0,False,
+3825696,Málaga,76.5,2.9,Duel,Egor Filipenko,False,0,0.0,False,
+3825696,Málaga,75.5,26.3,Ball Recovery,José Luis García del Pozo,False,0,0.0,False,
+3825696,Málaga,90.8,40.9,Pass,José Luis García del Pozo,True,1,0.1754,False,2.0
+3825696,Rayo Vallecano,86.5,3.1,Pass,Jozabed Sánchez Ruiz,False,0,0.0,False,
+3825696,Rayo Vallecano,97.3,2.4,Pass,José Ignacio Martínez García,False,0,0.0,False,
+3825697,Getafe,80.0,72.0,Pass,Pablo Sarabia García,False,0,0.0,False,
+3825697,Getafe,79.6,25.7,Ball Recovery,Stefan Šćepović,False,0,0.0,False,
+3825697,Valencia,77.8,20.0,Ball Recovery,André Filipe Tavares Gomes,False,0,0.0,False,
+3825698,Eibar,85.4,29.1,Pass,Sergio Enrich Ametller,False,0,0.0,False,
+3825698,Eibar,77.3,60.2,Interception,Daniel García Carrillo,False,0,0.0,False,
+3825699,Real Betis,84.2,60.2,Pass,Joaquín Sánchez Rodríguez,False,0,0.0,False,
+3825699,Real Betis,90.3,4.9,Pass,Alfred John Momar N''Diaye,True,1,0.0127,False,2.0
+3825699,Sevilla,95.5,53.1,Interception,Víctor Machín Pérez,False,0,0.0,False,
+3825700,Rayo Vallecano,78.3,79.0,Duel,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825700,Real Madrid,76.3,71.3,Pass,Kléper Laveran Lima Ferreira,False,0,0.0,False,
+3825700,Real Madrid,77.7,62.2,Pass,Cristiano Ronaldo dos Santos Aveiro,False,0,0.0,False,
+3825700,Real Madrid,77.9,72.5,Pass,Luka Modrić,False,0,0.0,False,
+3825700,Real Madrid,77.0,47.7,Pass,Karim Benzema,False,0,0.0,False,
+3825700,Real Madrid,79.1,40.6,Ball Recovery,Luka Modrić,True,2,0.0372,False,16.0
+3825700,Real Madrid,80.0,11.2,Ball Recovery,Danilo Luiz da Silva,True,1,0.0762,True,28.0
+3825701,Málaga,74.9,43.1,Pass,José Luis García del Pozo,True,3,0.3498,False,9.0
+3825701,Málaga,79.2,54.7,Ball Recovery,Nordin Amrabat,False,0,0.0,False,
+3825701,Málaga,81.1,54.3,Ball Recovery,José Luis García del Pozo,True,2,0.2716,False,14.0
+3825701,Málaga,92.2,76.6,Ball Receipt*,Roberto José Rosales Altuve,False,0,0.0,False,
+3825701,Atlético Madrid,76.0,71.6,Pass,Juan Francisco Torres Belén,False,0,0.0,False,
+3825701,Atlético Madrid,86.3,68.4,Ball Recovery,Jorge Resurrección Merodio,True,1,0.0244,False,4.0
+3825701,Málaga,83.2,74.8,Pass,Roberto José Rosales Altuve,True,1,0.0364,False,114.0
+3825701,Atlético Madrid,89.0,64.5,Pass,Fernando José Torres Sanz,False,0,0.0,False,
+3825701,Atlético Madrid,78.8,74.8,Pass,Yannick Ferreira Carrasco,False,0,0.0,False,
+3825701,Atlético Madrid,83.3,69.2,Pass,Fernando José Torres Sanz,False,0,0.0,False,
+3825701,Atlético Madrid,116.6,70.3,Ball Recovery,Fernando José Torres Sanz,False,0,0.0,False,
+3825702,Villarreal,80.1,41.4,Pass,Jonathan dos Santos Ramírez,False,0,0.0,False,
+3825702,Villarreal,79.7,4.3,Interception,Denis Suárez Fernández,False,0,0.0,False,
+3825702,Real Sociedad,77.1,7.0,Pass,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825702,Real Sociedad,77.5,18.1,Ball Recovery,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825702,Villarreal,97.9,4.9,Ball Recovery,Cédric Bakambu,False,0,0.0,False,
+3825702,Real Sociedad,76.1,62.4,Pass,Aritz Elustondo Irribaria,False,0,0.0,False,
+3825702,Real Sociedad,92.5,48.3,Pass,Armindo Tué Na Bangna,False,0,0.0,False,
+3825702,Real Sociedad,97.0,71.9,Pass,Carlos Alberto Vela Garrido,False,0,0.0,False,
+3825702,Real Sociedad,100.0,62.6,Pass,Armindo Tué Na Bangna,False,0,0.0,False,
+3825702,Villarreal,75.6,51.0,Pass,Matías Nahuel Leiva Esquivel,False,0,0.0,False,
+3825702,Real Sociedad,95.0,63.2,Ball Recovery,Imanol Agirretxe Arruti,False,0,0.0,False,
+3825703,Athletic Club,83.9,59.0,Pass,Raúl García Escudero,False,0,0.0,False,
+3825703,Athletic Club,74.7,31.7,Ball Recovery,Markel Susaeta Laskurain,False,0,0.0,False,
+3825703,Athletic Club,79.8,65.9,Interception,Raúl García Escudero,False,0,0.0,False,
+3825703,Athletic Club,91.6,10.4,Pass,Markel Susaeta Laskurain,False,0,0.0,False,
+3825703,Levante UD,76.7,71.6,Pass,David Navarro Pedrós,False,0,0.0,False,
+3825703,Athletic Club,77.7,62.9,Ball Recovery,Iñaki Williams Arthuer,False,0,0.0,False,
+3825703,Athletic Club,76.0,12.3,Pass,Mikel Balenziaga Oruesagasti,False,0,0.0,False,
+3825703,Athletic Club,77.5,52.3,Duel,Raúl García Escudero,False,0,0.0,False,
+3825703,Athletic Club,77.0,72.5,Duel,Óscar de Marcos Arana,True,1,0.5278,True,6.0
+3825703,Athletic Club,76.2,35.0,Pass,Mikel San José Domínguez,False,0,0.0,False,
+3825704,Granada,88.9,56.9,Interception,Rubén Rochina Naixes,False,0,0.0,False,
+3825704,Celta Vigo,75.5,7.8,Pass,Daniel Wass,True,1,0.0132,False,4.0
+3825704,Celta Vigo,77.8,17.5,Interception,Fabián Ariel Orellana Valenzuela,False,0,0.0,False,
+3825705,Eibar,82.0,17.7,Pass,Daniel García Carrillo,False,0,0.0,False,
+3825705,Eibar,110.1,5.4,Duel,Saúl Berjón Pérez,True,1,0.0302,False,4.0
+3825705,Eibar,93.1,71.7,Pass,Gonzalo Escalante,False,0,0.0,False,
+3825705,Eibar,77.9,37.5,Duel,Antonio Manuel Luna Rodríguez,False,0,0.0,False,
+3825705,Eibar,102.0,73.9,Duel,Saúl Berjón Pérez,False,0,0.0,False,
+3825706,Celta Vigo,83.5,66.6,Pass,Iago Aspas Juncal,False,0,0.0,False,
+3825706,Celta Vigo,86.1,59.7,Pass,Daniel Wass,False,0,0.0,False,
+3825706,Athletic Club,93.8,21.0,Pass,Aritz Aduriz Zubeldia,True,1,0.0566,False,3.0
+3825706,Athletic Club,75.2,9.6,Pass,Aymeric Laporte,False,0,0.0,False,
+3825707,Granada,82.8,63.6,Ball Recovery,Nicolás Federico López Alonso,False,0,0.0,False,
+3825707,Granada,75.4,61.8,Pass,Adalberto Peñaranda Maestre,False,0,0.0,False,
+3825707,Granada,85.6,15.1,Ball Recovery,Cristiano Biraghi,False,0,0.0,False,
+3825708,Levante UD,75.4,25.2,Pass,Víctor Camarasa Ferrando,False,0,0.0,False,
+3825708,Levante UD,77.8,8.3,Pass,Nabil Ghilas,False,0,0.0,False,
+3825708,Levante UD,83.7,8.8,Pass,Roger Martí Salvador,False,0,0.0,False,
+3825708,Levante UD,111.7,9.9,Ball Recovery,Roger Martí Salvador,False,0,0.0,False,
+3825708,Levante UD,82.2,62.2,Pass,Nabil Ghilas,True,1,0.021,False,35.0
+3825708,Levante UD,75.6,65.3,Pass,Jefferson Andrés Lerma Solís,False,0,0.0,False,
+3825708,Levante UD,86.8,14.1,Pass,Jordi Xumetra Feliu,True,1,0.0454,False,3.0
+3825709,Sevilla,77.2,74.9,Duel,Víctor Machín Pérez,False,0,0.0,False,
+3825709,Sevilla,84.0,75.5,Pass,Mariano Ferreira Filho,False,0,0.0,False,
+3825709,Sevilla,76.6,61.5,Pass,Sebastián Carlos Cristóforo Pepe,True,1,0.1455,False,16.0
+3825709,Sevilla,76.3,46.3,Interception,Víctor Machín Pérez,True,2,0.7304,True,5.0
+3825709,Sevilla,82.2,44.2,Pass,Timothée Kolodziejczak,False,0,0.0,False,
+3825709,Espanyol,98.2,5.6,Pass,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825709,Espanyol,110.3,16.0,Pass,Víctor Sánchez Mata,True,1,0.0386,False,2.0
+3825709,Sevilla,103.8,6.4,Pass,Sebastián Carlos Cristóforo Pepe,False,0,0.0,False,
+3825709,Espanyol,97.0,10.3,Pass,Jorge Franco Alviz,False,0,0.0,False,
+3825709,Espanyol,79.1,13.7,Pass,Joan Jordán Moreno,False,0,0.0,False,
+3825709,Espanyol,91.6,4.4,Pass,Rubén Duarte Sánchez,False,0,0.0,False,
+3825709,Espanyol,97.3,6.8,Pass,Jorge Franco Alviz,False,0,0.0,False,
+3825709,Espanyol,98.2,3.5,Pass,Rubén Duarte Sánchez,False,0,0.0,False,
+3825709,Espanyol,83.5,53.0,Duel,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825709,Espanyol,92.6,54.6,Ball Recovery,Javier López Rodríguez,False,0,0.0,False,
+3825709,Espanyol,79.4,74.1,Pass,Marco Asensio Willemsen,False,0,0.0,False,
+3825709,Espanyol,95.7,55.1,Pass,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825709,Espanyol,86.5,61.3,Pass,Javier López Rodríguez,False,0,0.0,False,
+3825709,Espanyol,103.1,70.8,Pass,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825709,Espanyol,92.7,66.9,Pass,Javier López Rodríguez,False,0,0.0,False,
+3825709,Espanyol,93.1,56.6,Pass,Joan Jordán Moreno,False,0,0.0,False,
+3825709,Espanyol,98.2,73.7,Pass,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825709,Espanyol,90.5,66.3,Pass,Javier López Rodríguez,False,0,0.0,False,
+3825709,Espanyol,87.8,47.7,Pass,Álvaro González Soberón,True,1,0.0573,False,5.0
+3825709,Espanyol,76.1,4.0,Pass,Enzo Pablo Roco Roco,False,0,0.0,False,
+3825710,Real Madrid,93.0,3.1,Pass,Cristiano Ronaldo dos Santos Aveiro,False,0,0.0,False,
+3825710,Real Madrid,108.5,12.6,Pass,James David Rodríguez Rubio,False,0,0.0,False,
+3825710,Real Madrid,113.9,14.0,Pass,Cristiano Ronaldo dos Santos Aveiro,False,0,0.0,False,
+3825710,Real Madrid,89.5,23.7,Pass,Toni Kroos,False,0,0.0,False,
+3825710,Real Sociedad,90.8,62.7,Pass,Jonathas Cristian de Jesus,False,0,0.0,False,
+3825710,Real Sociedad,108.8,10.2,Pass,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825710,Real Sociedad,104.8,20.7,Pass,Yuri Berchiche Izeta,False,0,0.0,False,
+3825711,Atlético Madrid,95.7,62.0,Ball Recovery,Fernando José Torres Sanz,True,1,0.0219,False,4.0
+3825711,Atlético Madrid,78.5,67.3,Duel,Saúl Ñíguez Esclapez,False,0,0.0,False,
+3825711,Atlético Madrid,83.7,5.3,Pass,Fernando José Torres Sanz,False,0,0.0,False,
+3825711,Atlético Madrid,79.8,50.0,Duel,Jorge Resurrección Merodio,True,1,0.027,False,10.0
+3825711,Atlético Madrid,88.5,22.2,Ball Recovery,Jackson Arley Martínez Valencia,True,1,0.0502,False,5.0
+3825711,Atlético Madrid,78.8,63.3,Pass,Jackson Arley Martínez Valencia,True,1,0.0743,False,9.0
+3825712,RC Deportivo La Coruña,74.4,69.7,Ball Recovery,Juan Francisco Moreno Fuertes,False,0,0.0,False,
+3825712,Getafe,79.0,69.7,Pass,Ángel Lafita Castillo,False,0,0.0,False,
+3825712,Getafe,92.2,53.2,Pass,Víctor Rodríguez Romero,False,0,0.0,False,
+3825712,RC Deportivo La Coruña,103.8,5.9,Interception,Miguel Filipe Nunes Cardoso,False,0,0.0,False,
+3825713,Villarreal,77.4,9.4,Duel,Adrián Marín Gómez,False,0,0.0,False,
+3825713,Villarreal,82.9,62.0,Ball Recovery,Roberto Soldado Rillo,False,0,0.0,False,
+3825713,Villarreal,91.6,52.6,Pass,Roberto Soldado Rillo,False,0,0.0,False,
+3825713,Valencia,77.2,74.1,Ball Recovery,Daniel Parejo Muñoz,False,0,0.0,False,
+3825713,Valencia,78.1,20.5,Ball Recovery,Álvaro Negredo Sánchez,False,0,0.0,False,
+3825713,Valencia,76.0,16.2,Ball Recovery,Rúben Miguel Nunes Vezo,False,0,0.0,False,
+3825713,Valencia,79.0,59.2,Interception,Rúben Miguel Nunes Vezo,False,0,0.0,False,
+3825714,Atlético Madrid,80.5,63.9,Ball Recovery,Juan Francisco Torres Belén,False,0,0.0,False,
+3825714,Atlético Madrid,74.7,6.5,Ball Recovery,Filipe Luís Kasmirski,False,0,0.0,False,
+3825714,Atlético Madrid,75.0,46.8,Pass,Antoine Griezmann,False,0,0.0,False,
+3825715,Málaga,77.5,24.1,Pass,Weligton Róbson Pena de Oliveira,False,0,0.0,False,
+3825715,Málaga,77.9,47.8,Ball Recovery,Raúl Albentosa Redal,False,0,0.0,False,
+3825715,Celta Vigo,85.2,74.6,Pass,Gustavo Daniel Cabral Cáceres,False,0,0.0,False,
+3825715,Celta Vigo,77.7,36.1,Pass,Daniel Wass,True,1,0.0074,False,4.0
+3825715,Málaga,84.1,21.3,Pass,Raúl Albentosa Redal,True,1,0.1751,False,4.0
+3825716,Real Sociedad,105.3,5.4,Ball Recovery,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825716,Real Sociedad,85.0,51.1,Pass,Jonathas Cristian de Jesus,True,1,0.015,False,32.0
+3825716,Real Sociedad,78.8,74.5,Ball Recovery,Carlos Martínez Díez,False,0,0.0,False,
+3825716,Real Sociedad,74.4,28.3,Ball Recovery,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825716,Rayo Vallecano,77.7,65.0,Pass,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825717,Granada,82.6,51.6,Ball Recovery,Rene Krhin,False,0,0.0,False,
+3825717,Granada,78.6,21.6,Ball Recovery,Rene Krhin,False,0,0.0,False,
+3825717,Sevilla,78.6,66.9,Pass,Vicente Iborra De La Fuente,True,2,1.0203,True,12.0
+3825717,Granada,91.7,14.3,Pass,Adalberto Peñaranda Maestre,False,0,0.0,False,
+3825717,Granada,79.1,17.2,Pass,Rene Krhin,False,0,0.0,False,
+3825717,Granada,86.9,7.3,Pass,Edgar Antonio Méndez Ortega,False,0,0.0,False,
+3825717,Granada,82.0,33.8,Ball Recovery,Edgar Antonio Méndez Ortega,False,0,0.0,False,
+3825717,Granada,75.6,27.6,Duel,Rubén Salvador Pérez Del Mármol,False,0,0.0,False,
+3825718,Valencia,98.3,12.0,Pass,Rodrigo Javier De Paul,False,0,0.0,False,
+3825718,Valencia,79.9,7.1,Pass,André Filipe Tavares Gomes,False,0,0.0,False,
+3825718,Real Madrid,96.4,8.4,Ball Recovery,Cristiano Ronaldo dos Santos Aveiro,False,0,0.0,False,
+3825719,Las Palmas,90.9,66.3,Ball Recovery,Nabil El Zhar,True,1,0.1045,False,6.0
+3825719,Athletic Club,94.8,73.5,Ball Recovery,Raúl García Escudero,True,1,0.3821,False,5.0
+3825719,Athletic Club,78.8,56.6,Ball Recovery,Mikel San José Domínguez,False,0,0.0,False,
+3825719,Athletic Club,75.6,65.2,Ball Recovery,Mikel Rico Moreno,False,0,0.0,False,
+3825719,Las Palmas,79.3,40.9,Pass,Sergio Ezequiel Araújo,False,0,0.0,False,
+3825720,Real Betis,79.3,15.0,Pass,Daniel Ceballos Fernández,False,0,0.0,False,
+3825720,Real Betis,77.4,63.3,Duel,Alfred John Momar N''Diaye,False,0,0.0,False,
+3825720,Real Betis,75.5,15.6,Ball Recovery,Alfred John Momar N''Diaye,False,0,0.0,False,
+3825720,Real Betis,85.6,69.7,Ball Recovery,Petros Matheus dos Santos Araújo,False,0,0.0,False,
+3825721,RC Deportivo La Coruña,77.0,20.1,Duel,Fernando Navarro i Corbacho,False,0,0.0,False,
+3825721,RC Deportivo La Coruña,95.1,66.3,Ball Recovery,Lucas Pérez Martínez,True,1,0.4001,True,3.0
+3825721,RC Deportivo La Coruña,80.9,74.4,Pass,Juan Francisco Moreno Fuertes,False,0,0.0,False,
+3825721,RC Deportivo La Coruña,78.1,61.5,Ball Recovery,Lucas Pérez Martínez,False,0,0.0,False,
+3825721,RC Deportivo La Coruña,82.4,22.0,Pass,Lucas Pérez Martínez,False,0,0.0,False,
+3825722,Getafe,81.4,35.8,Ball Recovery,Víctor Rodríguez Romero,False,0,0.0,False,
+3825722,Sporting Gijón,103.0,5.5,Ball Recovery,Ignacio Cases Mora,False,0,0.0,False,
+3825722,Getafe,95.8,23.7,Pass,Víctor Rodríguez Romero,False,0,0.0,False,
+3825722,Getafe,102.3,6.0,Pass,Roberto Lago Soto,False,0,0.0,False,
+3825722,Getafe,87.2,15.6,Ball Recovery,Mehdi Lacen,False,0,0.0,False,
+3825722,Getafe,85.4,46.3,Ball Recovery,Stefan Šćepović,False,0,0.0,False,
+3825723,Levante UD,81.9,24.1,Interception,Pedro López Muñoz,False,0,0.0,False,
+3825723,Rayo Vallecano,76.2,4.7,Pass,José Antonio Dorado Ramírez,False,0,0.0,False,
+3825723,Rayo Vallecano,74.7,13.1,Pass,Jozabed Sánchez Ruiz,False,0,0.0,False,
+3825723,Rayo Vallecano,115.5,38.1,Ball Recovery,Jozabed Sánchez Ruiz,True,1,0.0222,False,1.0
+3825723,Levante UD,77.9,68.4,Interception,Pedro López Muñoz,True,1,0.0786,False,27.0
+3825723,Rayo Vallecano,98.7,13.9,Ball Recovery,Nicolás Ladislao Fedor Flores,False,0,0.0,False,
+3825723,Rayo Vallecano,75.7,58.5,Ball Recovery,Joaquín José Marín Ruiz,True,1,0.0241,False,10.0
+3825723,Levante UD,78.5,72.7,Pass,Pedro López Muñoz,False,0,0.0,False,
+3825724,Real Madrid,75.8,7.4,Ball Recovery,Toni Kroos,True,1,0.0181,False,8.0
+3825724,Real Madrid,80.1,45.3,Pass,Toni Kroos,True,1,0.0359,False,12.0
+3825724,Real Madrid,80.9,14.3,Pass,Marcelo Vieira da Silva Júnior,True,1,0.0922,False,6.0
+3825724,Real Madrid,75.5,66.2,Pass,Kléper Laveran Lima Ferreira,False,0,0.0,False,
+3825724,Real Madrid,97.2,14.3,Duel,Cristiano Ronaldo dos Santos Aveiro,True,1,0.0115,False,6.0
+3825724,RC Deportivo La Coruña,91.9,24.8,Ball Recovery,Luis Alberto Romero Alconchel,True,1,0.0385,False,1.0
+3825725,Real Betis,87.0,70.3,Duel,Cristiano Piccini,False,0,0.0,False,
+3825725,Real Betis,88.2,4.1,Ball Recovery,Daniel Ceballos Fernández,False,0,0.0,False,
+3825725,Real Betis,85.3,62.9,Ball Recovery,Rubén Castro Martín,False,0,0.0,False,
+3825726,Athletic Club,98.0,9.9,Duel,Mikel Balenziaga Oruesagasti,False,0,0.0,False,
+3825726,Athletic Club,74.9,53.7,Duel,Mikel San José Domínguez,False,0,0.0,False,
+3825726,Athletic Club,86.9,15.5,Interception,Iker Muniain Goñi,True,1,0.1733,False,7.0
+3825727,Espanyol,76.1,1.1,Duel,Joan Jordán Moreno,False,0,0.0,False,
+3825727,Espanyol,75.1,71.0,Pass,Javier López Rodríguez,False,0,0.0,False,
+3825727,Espanyol,84.3,67.5,Duel,Gerard Moreno Balaguero,False,0,0.0,False,
+3825727,Eibar,109.1,4.2,Ball Recovery,Takashi Inui,False,0,0.0,False,
+3825727,Espanyol,91.4,9.4,Pass,Felipe Salvador Caicedo Corozo,False,0,0.0,False,
+3825727,Espanyol,79.8,38.5,Pass,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825727,Eibar,101.0,62.8,Pass,Simone Verdi,False,0,0.0,False,
+3825728,Atlético Madrid,77.7,70.0,Duel,Gabriel Fernández Arenas,True,1,0.0111,False,29.0
+3825728,Atlético Madrid,86.8,5.8,Pass,Saúl Ñíguez Esclapez,False,0,0.0,False,
+3825728,Atlético Madrid,80.8,40.6,Pass,Luciano Vietto,False,0,0.0,False,
+3825728,Celta Vigo,77.5,8.1,Ball Recovery,Jonathan Castro Otto,False,0,0.0,False,
+3825728,Celta Vigo,87.2,32.9,Pass,Borja Fernández Fernández,False,0,0.0,False,
+3825728,Celta Vigo,87.1,41.5,Pass,Iago Aspas Juncal,False,0,0.0,False,
+3825729,Villarreal,79.1,14.4,Duel,Adrián Marín Gómez,True,1,0.0988,False,5.0
+3825729,Sporting Gijón,85.1,77.8,Pass,Alberto Lora Ramos,False,0,0.0,False,
+3825729,Sporting Gijón,98.9,47.0,Ball Recovery,Arnaldo Antonio Sanabria Ayala,False,0,0.0,False,
+3825729,Villarreal,92.7,5.1,Pass,Denis Suárez Fernández,False,0,0.0,False,
+3825730,Valencia,76.2,58.6,Pass,Santiago Mina Lorenzo,False,0,0.0,False,
+3825730,Valencia,83.0,72.6,Pass,Antonio Barragán Fernández,False,0,0.0,False,
+3825730,Real Sociedad,75.0,15.0,Ball Recovery,Armindo Tué Na Bangna,False,0,0.0,False,
+3825730,Real Sociedad,74.7,45.2,Ball Recovery,Rubén Pardo Gutiérrez,True,1,0.0532,False,11.0
+3825730,Real Sociedad,83.0,27.9,Duel,Jonathas Cristian de Jesus,False,0,0.0,False,
+3825730,Real Sociedad,77.8,8.8,Duel,Jonathas Cristian de Jesus,False,0,0.0,False,
+3825730,Real Sociedad,74.9,21.3,Pass,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825731,Málaga,88.8,19.5,Ball Recovery,José Luis García del Pozo,True,1,0.095,False,4.0
+3825731,Málaga,85.3,13.4,Duel,Gonzalo Castro Irizábal,False,0,0.0,False,
+3825731,Las Palmas,88.1,19.1,Duel,Roque Mesa Quevedo,False,0,0.0,False,
+3825731,Málaga,88.1,75.1,Pass,Pablo Fornals Malla,False,0,0.0,False,
+3825732,Celta Vigo,75.3,44.2,Interception,Pedro Pablo Hernández,False,0,0.0,False,
+3825732,Levante UD,96.0,77.7,Duel,Víctor Camarasa Ferrando,False,0,0.0,False,
+3825732,Levante UD,75.8,39.3,Ball Recovery,Mauricio Andrés Cuero Castillo,False,0,0.0,False,
+3825732,Celta Vigo,75.8,71.0,Duel,Jonathan Castro Otto,True,1,0.3405,True,32.0
+3825732,Celta Vigo,77.5,22.3,Duel,John Guidetti,False,0,0.0,False,
+3825732,Levante UD,76.2,72.0,Ball Recovery,Jefferson Andrés Lerma Solís,False,0,0.0,False,
+3825732,Levante UD,86.4,5.8,Ball Recovery,Víctor Camarasa Ferrando,True,1,0.0956,False,11.0
+3825732,Levante UD,82.6,49.8,Ball Recovery,Jefferson Andrés Lerma Solís,True,1,0.0442,False,7.0
+3825732,Celta Vigo,88.1,72.9,Pass,Jonathan Castro Otto,False,0,0.0,False,
+3825732,Levante UD,85.2,22.6,Ball Recovery,Roger Martí Salvador,True,1,0.0297,False,46.0
+3825732,Levante UD,114.9,60.1,Ball Recovery,José Luis Morales Nogales,True,1,0.0435,False,5.0
+3825732,Celta Vigo,86.8,3.2,Pass,Fabián Ariel Orellana Valenzuela,False,0,0.0,False,
+3825733,Málaga,79.0,68.8,Pass,Ignacio Camacho Barnola,False,0,0.0,False,
+3825733,Málaga,79.3,20.8,Duel,José Luis García del Pozo,True,1,0.0414,False,6.0
+3825733,Málaga,77.2,2.4,Ball Recovery,Gonzalo Castro Irizábal,False,0,0.0,False,
+3825733,Sevilla,83.7,74.5,Pass,Grzegorz Krychowiak,False,0,0.0,False,
+3825733,Málaga,83.4,65.7,Interception,Sérgio Paulo Barbosa Valente,False,0,0.0,False,
+3825734,Real Sociedad,75.4,36.5,Ball Recovery,Íñigo Martínez Berridi,False,0,0.0,False,
+3825734,RC Deportivo La Coruña,76.0,24.2,Ball Recovery,Luis Carlos Correia Pinto,False,0,0.0,False,
+3825734,Real Sociedad,77.0,17.0,Pass,Íñigo Martínez Berridi,False,0,0.0,False,
+3825735,Real Betis,82.5,35.2,Ball Recovery,Foued Kadir,False,0,0.0,False,
+3825735,Real Betis,95.2,71.8,Ball Recovery,Alfred John Momar N''Diaye,False,0,0.0,False,
+3825735,Villarreal,78.8,66.0,Pass,Mario Gaspar Pérez Martínez,False,0,0.0,False,
+3825736,Rayo Vallecano,94.0,77.7,Ball Recovery,Adrián Embarba Blázquez,False,0,0.0,False,
+3825736,Rayo Vallecano,105.5,67.4,Ball Recovery,Jozabed Sánchez Ruiz,True,1,0.1592,False,7.0
+3825736,Rayo Vallecano,79.3,23.8,Pass,Pablo Hernández Domínguez,True,1,0.0209,False,4.0
+3825736,Rayo Vallecano,78.8,42.5,Ball Recovery,Pablo Hernández Domínguez,True,1,0.0499,False,4.0
+3825737,Getafe,85.1,69.0,Duel,Pablo Sarabia García,True,1,0.0575,False,10.0
+3825737,Getafe,75.0,10.5,Ball Recovery,Pablo Sarabia García,False,0,0.0,False,
+3825737,Getafe,89.8,72.3,Pass,Damián Nicolás Suárez Suárez,False,0,0.0,False,
+3825738,Atlético Madrid,90.7,49.3,Ball Recovery,Luciano Vietto,True,1,0.4572,False,3.0
+3825738,Atlético Madrid,78.6,63.7,Pass,Jorge Resurrección Merodio,False,0,0.0,False,
+3825738,Atlético Madrid,85.0,66.1,Ball Recovery,Jorge Resurrección Merodio,False,0,0.0,False,
+3825738,Atlético Madrid,78.2,12.4,Pass,Filipe Luís Kasmirski,False,0,0.0,False,
+3825738,Atlético Madrid,86.6,76.9,Duel,Thomas Teye Partey,True,3,0.1957,False,14.0
+3825739,Real Madrid,83.3,60.3,Pass,Daniel Carvajal Ramos,True,1,0.0605,True,3.0
+3825739,Real Madrid,78.8,71.6,Ball Recovery,Gareth Frank Bale,True,1,0.0245,False,33.0
+3825739,Sporting Gijón,75.8,66.5,Pass,Daniel Arnaud N''Di	,False,0,0.0,False,
+3825739,Sporting Gijón,77.3,73.9,Pass,Ismael López Blanco,False,0,0.0,False,
+3825739,Sporting Gijón,91.4,62.4,Pass,Alberto Lora Ramos,False,0,0.0,False,
+3825739,Real Madrid,81.5,44.5,Pass,James David Rodríguez Rubio,False,0,0.0,False,
+3825739,Real Madrid,82.2,58.5,Pass,Daniel Carvajal Ramos,False,0,0.0,False,
+3825739,Real Madrid,114.2,6.5,Ball Recovery,Jesé Rodríguez Ruiz,False,0,0.0,False,
+3825740,Eibar,84.5,28.7,Ball Recovery,Borja González Tomás,True,1,0.1185,True,27.0
+3825740,Eibar,74.7,71.9,Pass,Sergio Gontán Gallardo,True,1,0.1067,False,30.0
+3825740,Eibar,88.1,22.3,Ball Recovery,Daniel García Carrillo,False,0,0.0,False,
+3825740,Granada,75.1,71.4,Pass,Dimitri Foulquier,False,0,0.0,False,
+3825740,Eibar,95.5,77.0,Duel,Sergio Gontán Gallardo,False,0,0.0,False,
+3825741,Sporting Gijón,96.1,72.4,Pass,Alberto Lora Ramos,False,0,0.0,False,
+3825742,Granada,76.4,73.8,Ball Recovery,Hugo Miguel Almeida Costa Lopes,False,0,0.0,False,
+3825742,Getafe,79.7,4.5,Ball Recovery,Pedro León Sánchez Gil,False,0,0.0,False,
+3825742,Granada,90.4,6.4,Interception,Rubén Rochina Naixes,False,0,0.0,False,
+3825742,Getafe,82.8,4.5,Interception,Víctor Rodríguez Romero,False,0,0.0,False,
+3825742,Getafe,75.4,67.1,Ball Recovery,Pedro León Sánchez Gil,False,0,0.0,False,
+3825742,Getafe,85.0,16.7,Pass,Moisés Gómez Bordonado,False,0,0.0,False,
+3825742,Getafe,83.9,18.3,Pass,Moisés Gómez Bordonado,False,0,0.0,False,
+3825742,Getafe,90.3,26.9,Pass,Stefan Šćepović,False,0,0.0,False,
+3825743,Rayo Vallecano,76.6,6.4,Ball Recovery,Tiago Manuel Dias Correia,True,1,0.0758,False,30.0
+3825743,Rayo Vallecano,78.3,68.2,Ball Recovery,Joaquín José Marín Ruiz,False,0,0.0,False,
+3825743,Rayo Vallecano,103.1,37.0,Pass,Tiago Manuel Dias Correia,False,0,0.0,False,
+3825743,Celta Vigo,78.1,36.6,Pass,Pape Cheikh Diop Gueye,False,0,0.0,False,
+3825744,Espanyol,74.5,21.7,Pass,Gerard Moreno Balaguero,False,0,0.0,False,
+3825744,Espanyol,98.6,34.8,Ball Recovery,Gerard Moreno Balaguero,True,2,0.0827,False,3.0
+3825745,RC Deportivo La Coruña,77.3,30.7,Ball Recovery,Fayçal Fajr,False,0,0.0,False,
+3825745,RC Deportivo La Coruña,74.7,19.6,Duel,Pedro Mosquera Parada,True,1,0.038,False,5.0
+3825745,RC Deportivo La Coruña,76.4,12.4,Ball Recovery,Fernando Navarro i Corbacho,False,0,0.0,False,
+3825745,Valencia,81.2,76.2,Interception,Antonio Barragán Fernández,False,0,0.0,False,
+3825745,RC Deportivo La Coruña,75.4,62.7,Interception,Alejandro Bergantiños García,False,0,0.0,False,
+3825745,RC Deportivo La Coruña,83.1,74.1,Interception,Alejandro Bergantiños García,True,1,0.1504,False,11.0
+3825746,Real Betis,88.5,52.8,Pass,Foued Kadir,False,0,0.0,False,
+3825747,Eibar,86.6,74.2,Ball Recovery,Sergio Gontán Gallardo,False,0,0.0,False,
+3825747,Eibar,77.5,10.0,Ball Recovery,José Ignacio Peleteiro Ramallo,False,0,0.0,False,
+3825748,Atlético Madrid,79.8,53.6,Pass,Luciano Vietto,False,0,0.0,False,
+3825748,Atlético Madrid,78.4,3.7,Duel,Gabriel Fernández Arenas,True,1,0.0117,False,47.0
+3825748,Atlético Madrid,87.7,18.4,Pass,Luciano Vietto,False,0,0.0,False,
+3825748,Atlético Madrid,94.3,3.4,Pass,Filipe Luís Kasmirski,False,0,0.0,False,
+3825748,Atlético Madrid,74.3,16.9,Pass,Filipe Luís Kasmirski,False,0,0.0,False,
+3825748,Sevilla,76.9,48.5,Pass,Fernando Llorente Torres,False,0,0.0,False,
+3825749,Las Palmas,75.3,29.5,Ball Recovery,Willian José da Silva,False,0,0.0,False,
+3825749,Levante UD,74.5,40.2,Pass,Víctor Camarasa Ferrando,False,0,0.0,False,
+3825749,Levante UD,80.0,25.8,Ball Recovery,Jefferson Andrés Lerma Solís,False,0,0.0,False,
+3825749,Las Palmas,79.9,74.4,Pass,David Simón Rodríguez Santana,False,0,0.0,False,
+3825749,Las Palmas,81.6,70.7,Pass,Jonathan Viera Ramos,False,0,0.0,False,
+3825749,Las Palmas,86.9,77.3,Pass,David Simón Rodríguez Santana,False,0,0.0,False,
+3825749,Levante UD,77.5,76.5,Pass,Iván López Mendoza,False,0,0.0,False,
+3825749,Levante UD,75.2,8.2,Pass,José Luis Morales Nogales,True,1,0.1312,True,7.0
+3825749,Las Palmas,77.9,5.1,Pass,Mubarak Wakaso,False,0,0.0,False,
+3825749,Las Palmas,84.2,1.6,Pass,Dani Castellano Betancor,False,0,0.0,False,
+3825750,Real Sociedad,74.6,62.6,Ball Recovery,Aritz Elustondo Irribaria,False,0,0.0,False,
+3825750,Real Betis,80.2,61.8,Ball Recovery,Alfred John Momar N''Diaye,False,0,0.0,False,
+3825750,Real Betis,84.8,71.6,Interception,Francisco José Molinero Calderón,False,0,0.0,False,
+3825750,Real Betis,76.9,2.0,Interception,Fabián Ruiz Peña,False,0,0.0,False,
+3825750,Real Sociedad,82.9,19.5,Ball Recovery,Rubén Pardo Gutiérrez,True,1,0.0982,False,8.0
+3825750,Real Sociedad,83.4,56.9,Duel,Jonathas Cristian de Jesus,False,0,0.0,False,
+3825750,Real Sociedad,88.2,55.5,Pass,Carlos Alberto Vela Garrido,True,1,0.0359,False,3.0
+3825750,Real Betis,94.0,21.6,Pass,Francisco Portillo Soler,False,0,0.0,False,
+3825751,Athletic Club,75.1,65.9,Pass,Carlos Gurpegi Nausia,False,0,0.0,False,
+3825751,Getafe,76.4,49.1,Pass,Pedro León Sánchez Gil,False,0,0.0,False,
+3825751,Getafe,84.4,29.2,Ball Recovery,Mehdi Lacen,False,0,0.0,False,
+3825751,Athletic Club,78.0,9.1,Pass,Mikel Balenziaga Oruesagasti,False,0,0.0,False,
+3825751,Athletic Club,87.7,71.5,Ball Recovery,Óscar de Marcos Arana,False,0,0.0,False,
+3825752,Málaga,89.3,4.8,Pass,José Luis García del Pozo,False,0,0.0,False,
+3825753,Granada,99.9,64.8,Pass,Isaac Ajayi Success,False,0,0.0,False,
+3825753,Granada,77.1,5.9,Pass,Robert Ibáñez Castro,False,0,0.0,False,
+3825753,Granada,79.8,2.4,Pass,Cristiano Biraghi,False,0,0.0,False,
+3825753,Granada,83.7,4.2,Pass,Cristiano Biraghi,False,0,0.0,False,
+3825753,Villarreal,108.9,68.5,Ball Recovery,Roberto Soldado Rillo,False,0,0.0,False,
+3825753,Granada,81.9,29.1,Ball Recovery,Robert Ibáñez Castro,False,0,0.0,False,
+3825753,Granada,111.0,69.9,Pass,Isaac Ajayi Success,False,0,0.0,False,
+3825753,Villarreal,77.3,22.3,Ball Recovery,Denis Suárez Fernández,False,0,0.0,False,
+3825753,Villarreal,103.3,70.4,Ball Recovery,Jonathan dos Santos Ramírez,False,0,0.0,False,
+3825753,Villarreal,77.9,5.6,Ball Recovery,Matías Nahuel Leiva Esquivel,False,0,0.0,False,
+3825754,Celta Vigo,93.5,46.8,Pass,Pedro Pablo Hernández,False,0,0.0,False,
+3825754,Las Palmas,89.0,5.7,Ball Recovery,Jonathan Viera Ramos,False,0,0.0,False,
+3825754,Las Palmas,76.7,74.0,Pass,Pedro Taunausú Domínguez Placeres,False,0,0.0,False,
+3825755,Sporting Gijón,86.3,64.7,Pass,Arnaldo Antonio Sanabria Ayala,False,0,0.0,False,
+3825755,Valencia,89.0,54.5,Ball Recovery,André Filipe Tavares Gomes,False,0,0.0,False,
+3825755,Valencia,78.9,7.9,Pass,José Luis Gayà Peña,False,0,0.0,False,
+3825755,Valencia,90.0,7.1,Ball Recovery,Álvaro Negredo Sánchez,True,1,0.2143,False,3.0
+3825755,Valencia,103.4,47.5,Pass,Álvaro Negredo Sánchez,True,1,0.2822,False,2.0
+3825756,Sevilla,76.0,77.7,Duel,José Antonio Reyes Calderón,False,0,0.0,False,
+3825756,Levante UD,94.3,27.6,Pass,Giuseppe Rossi,False,0,0.0,False,
+3825756,Levante UD,111.1,21.6,Pass,José Luis Morales Nogales,True,1,0.0385,False,2.0
+3825756,Sevilla,98.9,22.7,Interception,Yevhen Konoplyanka,True,1,0.0599,False,14.0
+3825756,Sevilla,87.5,65.8,Interception,Michael Krohn-Dehli,False,0,0.0,False,
+3825757,Real Madrid,79.4,11.2,Ball Recovery,Sergio Ramos García,True,1,0.0809,False,18.0
+3825757,Real Madrid,77.8,19.3,Duel,Marcelo Vieira da Silva Júnior,False,0,0.0,False,
+3825758,RC Deportivo La Coruña,92.4,59.6,Ball Recovery,Fayçal Fajr,True,1,0.1439,False,6.0
+3825758,RC Deportivo La Coruña,90.7,48.7,Ball Recovery,Luis Alberto Romero Alconchel,False,0,0.0,False,
+3825758,Rayo Vallecano,92.9,50.8,Interception,Nicolás Ladislao Fedor Flores,True,1,0.919,True,4.0
+3825758,RC Deportivo La Coruña,97.2,78.2,Pass,Fayçal Fajr,False,0,0.0,False,
+3825758,Rayo Vallecano,88.2,74.6,Ball Recovery,Nicolás Ladislao Fedor Flores,False,0,0.0,False,
+3825758,RC Deportivo La Coruña,80.8,67.3,Ball Recovery,Alejandro Bergantiños García,False,0,0.0,False,
+3825758,RC Deportivo La Coruña,81.4,40.1,Pass,Alejandro Bergantiños García,True,1,0.0099,False,5.0
+3825758,RC Deportivo La Coruña,85.2,66.1,Interception,Juan Francisco Moreno Fuertes,False,0,0.0,False,
+3825758,RC Deportivo La Coruña,81.4,72.3,Pass,Juan Francisco Moreno Fuertes,False,0,0.0,False,
+3825759,Getafe,81.0,73.5,Pass,Juan Antonio Rodríguez Villamuela,False,0,0.0,False,
+3825759,Málaga,80.5,72.6,Ball Recovery,Juan Pablo Añor Acosta,False,0,0.0,False,
+3825760,Atlético Madrid,80.7,26.5,Ball Recovery,Jorge Resurrección Merodio,False,0,0.0,False,
+3825760,Eibar,74.7,75.2,Pass,Ander Capa Rodríguez,False,0,0.0,False,
+3825760,Atlético Madrid,74.5,77.4,Pass,Ángel Martín Correa,True,1,0.0543,False,8.0
+3825760,Eibar,75.4,62.4,Pass,Gonzalo Escalante,False,0,0.0,False,
+3825760,Eibar,95.4,32.8,Pass,Sergio Enrich Ametller,True,1,0.1578,True,3.0
+3825760,Eibar,74.3,3.7,Pass,Adrián González Morales,False,0,0.0,False,
+3825760,Atlético Madrid,84.4,67.3,Ball Recovery,Luciano Vietto,False,0,0.0,False,
+3825760,Atlético Madrid,80.8,8.3,Ball Recovery,Gabriel Fernández Arenas,True,1,0.544,True,18.0
+3825761,Athletic Club,78.3,58.3,Pass,Javier Eraso Goñi,False,0,0.0,False,
+3825761,Athletic Club,76.0,69.1,Ball Recovery,Eneko Bóveda Altube,False,0,0.0,False,
+3825762,RC Deportivo La Coruña,80.6,4.4,Pass,Rubén Gracia Calmache,True,1,0.0494,False,7.0
+3825762,Sporting Gijón,80.9,73.0,Duel,Rachid Aït-Atmane,False,0,0.0,False,
+3825763,Las Palmas,90.4,10.2,Ball Recovery,Pedro Taunausú Domínguez Placeres,True,1,0.0072,False,6.0
+3825763,Rayo Vallecano,74.7,41.8,Ball Recovery,José Raúl Baena Urdiales,False,0,0.0,False,
+3825763,Rayo Vallecano,80.2,30.4,Ball Recovery,Jozabed Sánchez Ruiz,False,0,0.0,False,
+3825763,Las Palmas,82.8,47.7,Pass,Juan Carlos Valerón Santana,False,0,0.0,False,
+3825763,Las Palmas,88.2,32.4,Pass,Roque Mesa Quevedo,False,0,0.0,False,
+3825763,Rayo Vallecano,107.8,41.6,Ball Recovery,Diego Javier Llorente Ríos,False,0,0.0,False,
+3825763,Rayo Vallecano,86.2,35.5,Pass,Nicolás Ladislao Fedor Flores,False,0,0.0,False,
+3825763,Las Palmas,77.5,11.5,Ball Recovery,Dani Castellano Betancor,True,1,0.0466,False,45.0
+3825764,Granada,82.9,77.4,Pass,Hugo Miguel Almeida Costa Lopes,False,0,0.0,False,
+3825764,Real Madrid,76.0,60.6,Pass,Karim Benzema,False,0,0.0,False,
+3825764,Granada,75.6,71.5,Duel,Hugo Miguel Almeida Costa Lopes,False,0,0.0,False,
+3825764,Granada,90.3,70.7,Ball Recovery,Isaac Ajayi Success,True,1,0.0945,False,4.0
+3825764,Real Madrid,77.1,41.5,Pass,James David Rodríguez Rubio,False,0,0.0,False,
+3825764,Real Madrid,88.3,22.9,Interception,Toni Kroos,True,1,0.5521,False,7.0
+3825765,Sevilla,84.1,29.9,Pass,Steven N''Kemboanza Mike Christopher Nzonzi,False,0,0.0,False,
+3825765,Sevilla,91.0,73.9,Ball Recovery,Mariano Ferreira Filho,False,0,0.0,False,
+3825765,Celta Vigo,99.0,36.5,Ball Recovery,Pedro Pablo Hernández,True,1,0.0203,False,21.0
+3825765,Sevilla,85.3,48.1,Ball Recovery,Fernando Llorente Torres,False,0,0.0,False,
+3825765,Sevilla,78.1,37.0,Ball Recovery,Víctor Machín Pérez,True,1,0.043,False,12.0
+3825765,Celta Vigo,102.3,15.2,Duel,John Guidetti,False,0,0.0,False,
+3825765,Celta Vigo,75.8,73.2,Ball Recovery,Marcelo Alfonso Díaz Rojas,False,0,0.0,False,
+3825766,Valencia,82.3,32.7,Pass,Wilfried Aimeric Zahibo,False,0,0.0,False,
+3825766,Real Betis,75.6,29.5,Ball Recovery,Ricky van Wolfswinkel,False,0,0.0,False,
+3825766,Real Betis,86.9,16.5,Pass,Juan Manuel Vargas Risco,False,0,0.0,False,
+3825766,Real Betis,75.4,54.1,Duel,Alfred John Momar N''Diaye,False,0,0.0,False,
+3825767,Espanyol,92.3,76.1,Pass,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825767,Espanyol,76.8,8.5,Duel,Víctor Guillermo Álvarez Delgado,False,0,0.0,False,
+3825767,Real Sociedad,80.8,48.1,Duel,Asier Illarramendi Andonegi,True,2,0.5838,False,4.0
+3825767,Real Sociedad,83.2,36.0,Interception,Carlos Alberto Vela Garrido,False,0,0.0,False,
+3825767,Espanyol,87.4,18.2,Interception,Gerard Moreno Balaguero,False,0,0.0,False,
+3825768,Rayo Vallecano,77.6,5.2,Pass,José Antonio Dorado Ramírez,False,0,0.0,False,
+3825768,Rayo Vallecano,77.9,70.1,Pass,Jozabed Sánchez Ruiz,False,0,0.0,False,
+3825768,Rayo Vallecano,98.6,76.2,Pass,Joaquín José Marín Ruiz,False,0,0.0,False,
+3825768,Rayo Vallecano,107.0,62.1,Pass,Pablo Hernández Domínguez,True,1,0.0422,False,3.0
+3825768,Rayo Vallecano,77.5,62.4,Ball Recovery,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825768,Sporting Gijón,77.8,22.8,Ball Recovery,Jonathan Rodríguez Menéndez,True,1,0.0415,False,4.0
+3825768,Rayo Vallecano,76.7,13.2,Ball Recovery,Nicolás Ladislao Fedor Flores,False,0,0.0,False,
+3825768,Sporting Gijón,88.6,15.6,Duel,Rachid Aït-Atmane,False,0,0.0,False,
+3825768,Sporting Gijón,85.1,68.5,Ball Recovery,Sergio Álvarez Díaz,False,0,0.0,False,
+3825768,Sporting Gijón,76.2,43.1,Pass,Sergio Álvarez Díaz,True,1,0.057,False,6.0
+3825768,Rayo Vallecano,77.2,13.1,Pass,Jozabed Sánchez Ruiz,False,0,0.0,False,
+3825768,Rayo Vallecano,77.2,6.8,Pass,Adrián Embarba Blázquez,False,0,0.0,False,
+3825768,Rayo Vallecano,77.6,26.2,Pass,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825768,Rayo Vallecano,81.3,41.6,Ball Recovery,Manuel Rolando Iturra Urrutia,True,1,0.0492,False,6.0
+3825768,Rayo Vallecano,89.1,18.6,Ball Recovery,Jozabed Sánchez Ruiz,True,1,0.0261,False,2.0
+3825769,Málaga,81.2,17.2,Ball Recovery,Pablo Fornals Malla,False,0,0.0,False,
+3825769,Málaga,74.4,10.7,Ball Recovery,Juan Pablo Añor Acosta,False,0,0.0,False,
+3825769,Málaga,81.0,52.2,Pass,Roberto José Rosales Altuve,False,0,0.0,False,
+3825769,Villarreal,74.7,66.1,Ball Recovery,Roberto Soldado Rillo,False,0,0.0,False,
+3825770,Real Madrid,76.6,24.7,Ball Recovery,Karim Benzema,True,1,0.1269,True,6.0
+3825770,Athletic Club,94.4,32.7,Pass,Javier Eraso Goñi,False,0,0.0,False,
+3825770,Athletic Club,113.8,18.1,Pass,Íñigo Lekue Martínez,False,0,0.0,False,
+3825770,Athletic Club,76.1,12.6,50/50,Mikel Balenziaga Oruesagasti,True,1,0.0649,False,13.0
+3825770,Real Madrid,84.6,51.6,Ball Recovery,Karim Benzema,False,0,0.0,False,
+3825770,Real Madrid,80.0,71.6,Duel,Luka Modrić,True,1,0.0637,False,7.0
+3825770,Athletic Club,93.2,37.2,Pass,Gorka Elustondo Urkola,True,1,0.3129,False,3.0
+3825770,Athletic Club,77.0,62.8,Ball Recovery,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825770,Athletic Club,83.8,59.8,Pass,Iker Muniain Goñi,False,0,0.0,False,
+3825770,Athletic Club,91.0,60.9,Pass,Aritz Aduriz Zubeldia,False,0,0.0,False,
+3825770,Athletic Club,86.5,59.8,Pass,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825770,Athletic Club,117.3,67.7,Pass,Óscar de Marcos Arana,False,0,0.0,False,
+3825770,Athletic Club,77.5,49.0,Pass,Gorka Elustondo Urkola,False,0,0.0,False,
+3825770,Athletic Club,76.7,29.6,Pass,Gorka Elustondo Urkola,False,0,0.0,False,
+3825770,Athletic Club,77.0,65.8,Ball Recovery,Óscar de Marcos Arana,False,0,0.0,False,
+3825771,RC Deportivo La Coruña,88.7,30.4,Duel,Alejandro Bergantiños García,False,0,0.0,False,
+3825771,RC Deportivo La Coruña,77.2,14.6,Pass,Pedro Mosquera Parada,True,1,0.0261,False,9.0
+3825771,RC Deportivo La Coruña,95.1,69.2,Ball Recovery,Sidnei Rechel da Silva Júnior,False,0,0.0,False,
+3825771,Real Betis,96.8,53.1,Ball Receipt*,Ricky van Wolfswinkel,False,0,0.0,False,
+3825771,RC Deportivo La Coruña,86.4,8.2,Pass,Pedro Mosquera Parada,False,0,0.0,False,
+3825772,Valencia,85.1,2.8,Pass,Guilherme Magdalena Siqueira,False,0,0.0,False,
+3825772,Valencia,109.3,7.2,Ball Recovery,Denis Cheryshev,False,0,0.0,False,
+3825772,Espanyol,79.4,60.8,Pass,Papa Kouly Diop,True,1,0.0881,False,25.0
+3825773,Eibar,84.4,74.9,Ball Recovery,José Ignacio Peleteiro Ramallo,False,0,0.0,False,
+3825773,Levante UD,80.2,74.2,Interception,David Navarro Pedrós,False,0,0.0,False,
+3825773,Eibar,83.9,6.9,Pass,Adrián González Morales,False,0,0.0,False,
+3825773,Eibar,96.3,59.3,Duel,Gonzalo Escalante,True,1,0.1634,False,10.0
+3825773,Eibar,87.0,5.2,Ball Recovery,Manuel Castellano Castro,False,0,0.0,False,
+3825774,Atlético Madrid,75.1,10.8,Pass,Saúl Ñíguez Esclapez,True,1,0.0303,False,8.0
+3825775,Granada,85.7,9.2,Ball Recovery,Isaac Ajayi Success,False,0,0.0,False,
+3825775,Real Sociedad,75.5,13.0,Interception,Mikel Oyarzabal Ugarte,False,0,0.0,False,
+3825775,Real Sociedad,86.8,5.2,Ball Recovery,Mikel Oyarzabal Ugarte,False,0,0.0,False,
+3825775,Real Sociedad,91.3,55.1,Ball Recovery,Jonathas Cristian de Jesus,False,0,0.0,False,
+3825775,Granada,75.3,5.3,Pass,Cristiano Biraghi,False,0,0.0,False,
+3825775,Real Sociedad,84.8,63.7,Pass,Xabier Prieto Argarate,False,0,0.0,False,
+3825775,Granada,76.4,78.2,Duel,Rubén Rochina Naixes,False,0,0.0,False,
+3825776,Las Palmas,76.4,36.5,Pass,Mubarak Wakaso,False,0,0.0,False,
+3825776,Sevilla,81.2,44.8,Ball Recovery,Steven N''Kemboanza Mike Christopher Nzonzi,False,0,0.0,False,
+3825776,Sevilla,74.6,70.4,Pass,Sebastián Carlos Cristóforo Pepe,True,1,0.1539,False,8.0
+3825776,Sevilla,90.1,1.7,Interception,Sebastián Carlos Cristóforo Pepe,False,0,0.0,False,
+3825776,Las Palmas,81.5,74.3,Duel,Willian José da Silva,False,0,0.0,False,
+3825776,Sevilla,88.9,37.7,Pass,Michael Krohn-Dehli,False,0,0.0,False,
+3825776,Sevilla,115.0,53.9,Pass,Víctor Machín Pérez,True,1,0.8838,True,1.0
+3825776,Las Palmas,85.1,14.5,Duel,Jonathan Viera Ramos,True,1,0.0155,False,39.0
+3825776,Las Palmas,81.4,19.0,Ball Recovery,Jonathan Viera Ramos,False,0,0.0,False,
+3825776,Sevilla,90.3,55.3,Interception,Mariano Ferreira Filho,False,0,0.0,False,
+3825777,Getafe,76.2,14.5,Ball Recovery,Vicente Guaita Panadero,False,0,0.0,False,
+3825777,Getafe,75.5,65.2,Pass,Moisés Gómez Bordonado,False,0,0.0,False,
+3825777,Getafe,98.4,68.1,Pass,Pablo Sarabia García,False,0,0.0,False,
+3825777,Levante UD,85.2,67.0,Ball Recovery,Jefferson Andrés Lerma Solís,False,0,0.0,False,
+3825777,Getafe,97.5,20.2,Ball Receipt*,Álvaro Vázquez García,False,0,0.0,False,
+3825778,Sporting Gijón,85.2,22.2,Ball Recovery,Alen Halilović,False,0,0.0,False,
+3825778,Sporting Gijón,79.2,5.7,Pass,Alejandro Menéndez Díez,False,0,0.0,False,
+3825778,Real Betis,92.1,32.1,Pass,Ricky van Wolfswinkel,False,0,0.0,False,
+3825778,Real Betis,75.1,76.2,Ball Recovery,Foued Kadir,False,0,0.0,False,
+3825778,Real Betis,91.4,63.7,Ball Recovery,Alfred John Momar N''Diaye,True,1,0.2766,False,13.0
+3825779,Eibar,77.6,25.2,Pass,Takashi Inui,False,0,0.0,False,
+3825779,Celta Vigo,76.4,50.3,Ball Recovery,Iago Aspas Juncal,True,1,0.3357,True,4.0
+3825779,Celta Vigo,107.9,36.0,Ball Recovery,Sergi Gómez Solà,False,0,0.0,False,
+3825779,Celta Vigo,83.5,11.0,Pass,Jonathan Castro Otto,False,0,0.0,False,
+3825779,Eibar,85.7,16.8,Pass,David Juncà Reñé,True,1,0.3334,False,4.0
+3825779,Eibar,79.7,62.4,Pass,Gonzalo Escalante,False,0,0.0,False,
+3825779,Celta Vigo,82.1,7.8,Duel,Théo Bongonda Mbul''Ofeko Batombo,False,0,0.0,False,
+3825779,Eibar,79.9,14.3,Pass,Saúl Berjón Pérez,False,0,0.0,False,
+3825780,Espanyol,74.9,30.1,Pass,Jorge Franco Alviz,False,0,0.0,False,
+3825780,Espanyol,87.9,32.3,Pass,Felipe Salvador Caicedo Corozo,False,0,0.0,False,
+3825780,Espanyol,88.5,67.4,Ball Recovery,Marco Asensio Willemsen,False,0,0.0,False,
+3825780,RC Deportivo La Coruña,79.0,61.8,Pass,Fayçal Fajr,True,1,0.0084,False,7.0
+3825780,RC Deportivo La Coruña,85.3,45.5,Pass,Pedro Mosquera Parada,True,1,0.0524,False,35.0
+3825780,Espanyol,77.4,49.1,Ball Recovery,Felipe Salvador Caicedo Corozo,True,1,0.0375,False,5.0
+3825780,Espanyol,78.9,35.2,Interception,Gerard Moreno Balaguero,True,1,0.3183,False,5.0
+3825780,RC Deportivo La Coruña,97.1,66.7,Pass,Federico Nicolás Cartabia,False,0,0.0,False,
+3825780,Espanyol,86.0,61.3,Pass,Gerard Moreno Balaguero,False,0,0.0,False,
+3825780,Espanyol,76.7,62.9,Pass,Papa Kouly Diop,False,0,0.0,False,
+3825780,Espanyol,74.9,9.1,Pass,Abraham González Casanova,False,0,0.0,False,
+3825781,Sevilla,78.1,4.9,Ball Recovery,Sebastián Carlos Cristóforo Pepe,False,0,0.0,False,
+3825781,Rayo Vallecano,84.4,5.1,Ball Recovery,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825781,Rayo Vallecano,84.2,66.6,Pass,Roberto Román Triguero,False,0,0.0,False,
+3825781,Rayo Vallecano,102.7,58.2,Pass,Nicolás Ladislao Fedor Flores,False,0,0.0,False,
+3825781,Rayo Vallecano,110.0,72.1,Pass,Pablo Hernández Domínguez,False,0,0.0,False,
+3825781,Rayo Vallecano,114.8,20.3,Pass,Diego Javier Llorente Ríos,False,0,0.0,False,
+3825781,Rayo Vallecano,84.4,28.0,Pass,Jozabed Sánchez Ruiz,True,1,0.0282,False,9.0
+3825781,Sevilla,74.5,57.1,Ball Recovery,Vicente Iborra De La Fuente,True,2,0.9084,False,6.0
+3825781,Sevilla,77.5,73.1,Ball Recovery,Víctor Machín Pérez,False,0,0.0,False,
+3825782,Granada,98.2,11.5,Ball Recovery,Adalberto Peñaranda Maestre,False,0,0.0,False,
+3825782,Valencia,75.8,36.0,Interception,Denis Cheryshev,True,1,0.02,False,3.0
+3825782,Granada,77.5,52.1,Ball Recovery,Youssef El-Arabi,True,1,0.0182,False,3.0
+3825783,Athletic Club,76.2,54.7,Pass,Iker Muniain Goñi,False,0,0.0,False,
+3825784,Atlético Madrid,76.9,5.5,Ball Recovery,Ángel Martín Correa,False,0,0.0,False,
+3825784,Villarreal,98.5,7.0,Pass,Eric Bertrand Bailly,False,0,0.0,False,
+3825784,Atlético Madrid,85.1,7.6,Pass,Jorge Resurrección Merodio,False,0,0.0,False,
+3825785,Málaga,84.2,72.7,Duel,Ignacio Camacho Barnola,False,0,0.0,False,
+3825785,Real Madrid,83.5,68.6,Pass,Luka Modrić,False,0,0.0,False,
+3825785,Real Madrid,95.7,73.6,Pass,Jesé Rodríguez Ruiz,False,0,0.0,False,
+3825785,Málaga,79.0,73.5,Duel,Ignacio Camacho Barnola,True,1,0.2428,False,8.0
+3825785,Málaga,80.0,76.7,Ball Recovery,Juan Pablo Añor Acosta,False,0,0.0,False,
+3825785,Real Madrid,75.2,37.8,Ball Recovery,Luka Modrić,False,0,0.0,False,
+3825785,Málaga,83.4,68.7,Pass,Ignacio Camacho Barnola,False,0,0.0,False,
+3825785,Málaga,77.1,77.5,Pass,Roberto José Rosales Altuve,False,0,0.0,False,
+3825785,Málaga,91.0,78.5,Pass,Roberto José Rosales Altuve,False,0,0.0,False,
+3825785,Real Madrid,102.9,73.1,Pass,Cristiano Ronaldo dos Santos Aveiro,False,0,0.0,False,
+3825785,Real Madrid,90.4,68.6,Pass,Lucas Vázquez Iglesias,False,0,0.0,False,
+3825785,Real Madrid,82.3,2.4,Pass,Marcelo Vieira da Silva Júnior,False,0,0.0,False,
+3825785,Real Madrid,74.7,9.5,Pass,Mateo Kovačić,False,0,0.0,False,
+3825785,Real Madrid,106.2,65.5,Pass,Daniel Carvajal Ramos,True,1,0.0385,False,2.0
+3825785,Málaga,94.8,63.5,Pass,Sérgio Paulo Barbosa Valente,False,0,0.0,False,
+3825786,Eibar,74.9,6.3,Ball Recovery,David Juncà Reñé,False,0,0.0,False,
+3825786,Eibar,75.4,25.5,Pass,Gonzalo Escalante,False,0,0.0,False,
+3825786,Eibar,77.9,11.1,Ball Recovery,Adrián González Morales,False,0,0.0,False,
+3825786,Eibar,95.6,23.0,Ball Recovery,Borja González Tomás,False,0,0.0,False,
+3825787,Real Madrid,81.7,5.8,Duel,Danilo Luiz da Silva,False,0,0.0,False,
+3825787,Real Madrid,82.7,67.3,Pass,Francisco Román Alarcón Suárez,False,0,0.0,False,
+3825787,Real Madrid,77.6,47.7,Ball Recovery,Toni Kroos,False,0,0.0,False,
+3825787,Real Madrid,80.2,70.5,Pass,Daniel Carvajal Ramos,False,0,0.0,False,
+3825787,Real Madrid,84.2,75.7,Pass,Cristiano Ronaldo dos Santos Aveiro,False,0,0.0,False,
+3825788,Getafe,94.7,70.5,Ball Recovery,Wanderson Maciel Sousa Campos,False,0,0.0,False,
+3825789,Real Sociedad,75.2,36.0,Pass,Diego Antonio Reyes Rosales,False,0,0.0,False,
+3825789,Real Sociedad,80.0,65.3,Duel,Yuri Berchiche Izeta,False,0,0.0,False,
+3825789,Málaga,87.6,16.0,Pass,Federico Ricca Rostagnol,True,1,0.0506,False,3.0
+3825789,Real Sociedad,87.3,69.6,Pass,Xabier Prieto Argarate,False,0,0.0,False,
+3825789,Real Sociedad,115.4,54.3,Pass,Mikel Oyarzabal Ugarte,False,0,0.0,False,
+3825789,Real Sociedad,79.6,60.2,Ball Recovery,Mikel González de Martín Martínez,False,0,0.0,False,
+3825789,Real Sociedad,78.3,54.9,Pass,Xabier Prieto Argarate,False,0,0.0,False,
+3825789,Real Sociedad,82.0,27.5,Duel,Íñigo Martínez Berridi,False,0,0.0,False,
+3825790,Espanyol,81.2,75.9,Ball Recovery,Víctor Sánchez Mata,True,1,0.0259,True,5.0
+3825790,Sporting Gijón,76.9,7.5,Ball Recovery,Jonathan Rodríguez Menéndez,False,0,0.0,False,
+3825791,Real Betis,79.1,77.3,Pass,Petros Matheus dos Santos Araújo,False,0,0.0,False,
+3825791,Real Betis,89.0,6.4,Interception,Daniel Ceballos Fernández,True,1,0.1017,False,8.0
+3825791,Real Betis,93.3,19.5,Duel,Charly Musonda Junior,True,1,0.0356,False,6.0
+3825792,RC Deportivo La Coruña,74.5,12.6,Interception,Celso Borges Mora,False,0,0.0,False,
+3825792,RC Deportivo La Coruña,79.6,73.5,Pass,Juan Francisco Moreno Fuertes,False,0,0.0,False,
+3825792,RC Deportivo La Coruña,84.0,71.3,Pass,Alejandro Bergantiños García,False,0,0.0,False,
+3825792,RC Deportivo La Coruña,93.0,66.4,Pass,Luis Alberto Romero Alconchel,False,0,0.0,False,
+3825792,RC Deportivo La Coruña,94.2,76.5,Pass,Juan Francisco Moreno Fuertes,False,0,0.0,False,
+3825792,RC Deportivo La Coruña,97.8,68.6,Pass,Alejandro Bergantiños García,False,0,0.0,False,
+3825792,RC Deportivo La Coruña,106.0,74.1,Pass,Juan Francisco Moreno Fuertes,False,0,0.0,False,
+3825793,Valencia,84.9,64.3,Ball Recovery,Santiago Mina Lorenzo,False,0,0.0,False,
+3825793,Athletic Club,75.4,5.4,Ball Recovery,Sabin Merino Zuloaga,False,0,0.0,False,
+3825793,Valencia,85.8,23.4,Pass,Enzo Nicolás Pérez,False,0,0.0,False,
+3825793,Valencia,74.8,69.7,Duel,Shkodran Mustafi,False,0,0.0,False,
+3825793,Valencia,79.7,52.2,Interception,André Filipe Tavares Gomes,False,0,0.0,False,
+3825793,Athletic Club,77.8,70.4,Pass,Mikel Rico Moreno,False,0,0.0,False,
+3825793,Athletic Club,74.6,23.9,Ball Recovery,Mikel Rico Moreno,True,1,0.3838,True,7.0
+3825794,Villarreal,77.9,68.2,Interception,Matías Nahuel Leiva Esquivel,False,0,0.0,False,
+3825794,Levante UD,84.5,11.9,Ball Recovery,Joan Verdú Fernández,False,0,0.0,False,
+3825794,Levante UD,81.5,33.7,Duel,José Antonio García Rabasco,True,1,0.2643,False,5.0
+3825794,Villarreal,85.6,75.4,Pass,Matías Nahuel Leiva Esquivel,False,0,0.0,False,
+3825795,Real Sociedad,82.4,48.1,Pass,Jonathas Cristian de Jesus,False,0,0.0,False,
+3825795,Atlético Madrid,75.4,73.9,Pass,José María Giménez de Vargas,False,0,0.0,False,
+3825795,Real Sociedad,82.2,62.5,Pass,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825795,Real Sociedad,80.3,72.7,Pass,Aritz Elustondo Irribaria,False,0,0.0,False,
+3825795,Atlético Madrid,87.2,65.0,Ball Recovery,Antoine Griezmann,True,1,0.0846,True,6.0
+3825795,Real Sociedad,86.2,9.7,Ball Recovery,Xabier Prieto Argarate,False,0,0.0,False,
+3825795,Real Sociedad,92.6,72.7,Interception,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825796,Getafe,79.7,34.9,Ball Recovery,Álvaro Medrán Just,False,0,0.0,False,
+3825796,Getafe,83.2,55.5,Duel,Álvaro Medrán Just,False,0,0.0,False,
+3825796,Getafe,78.0,69.4,Interception,Abdoul Karim Yoda,False,0,0.0,False,
+3825797,Athletic Club,79.4,22.2,Duel,Mikel San José Domínguez,False,0,0.0,False,
+3825797,RC Deportivo La Coruña,83.9,8.1,Duel,Fernando Navarro i Corbacho,False,0,0.0,False,
+3825797,Athletic Club,90.2,57.0,Ball Recovery,Beñat Etxebarria Urkiaga,True,1,0.6081,True,5.0
+3825797,RC Deportivo La Coruña,77.9,69.7,Duel,Pedro Mosquera Parada,False,0,0.0,False,
+3825797,RC Deportivo La Coruña,76.3,72.4,Ball Recovery,Pedro Mosquera Parada,False,0,0.0,False,
+3825798,Levante UD,90.4,2.4,Duel,Jefferson Andrés Lerma Solís,False,0,0.0,False,
+3825798,Real Madrid,95.2,60.9,Pass,Lucas Vázquez Iglesias,False,0,0.0,False,
+3825798,Real Madrid,101.1,75.4,Pass,Danilo Luiz da Silva,False,0,0.0,False,
+3825798,Real Madrid,99.9,65.3,Pass,Lucas Vázquez Iglesias,False,0,0.0,False,
+3825798,Real Madrid,97.2,72.2,Pass,Danilo Luiz da Silva,False,0,0.0,False,
+3825798,Real Madrid,91.8,7.6,Duel,James David Rodríguez Rubio,False,0,0.0,False,
+3825798,Levante UD,74.8,46.8,Pass,Jefferson Andrés Lerma Solís,False,0,0.0,False,
+3825798,Real Madrid,87.2,60.5,Ball Recovery,Borja Mayoral Moya,False,0,0.0,False,
+3825798,Real Madrid,82.5,42.6,Duel,Raphaël Varane,False,0,0.0,False,
+3825798,Real Madrid,91.6,30.1,Duel,Mateo Kovačić,False,0,0.0,False,
+3825798,Levante UD,77.5,73.7,Pass,José Antonio García Rabasco,False,0,0.0,False,
+3825798,Levante UD,84.1,78.9,Pass,Rubén García Santos,False,0,0.0,False,
+3825798,Levante UD,77.5,65.0,Pass,Jefferson Andrés Lerma Solís,False,0,0.0,False,
+3825798,Levante UD,101.0,21.1,Pass,Víctor Casadesús Castaño,False,0,0.0,False,
+3825799,Valencia,78.1,73.1,Pass,Antonio Barragán Fernández,False,0,0.0,False,
+3825799,Málaga,78.8,4.0,Duel,Ignacio Camacho Barnola,False,0,0.0,False,
+3825799,Málaga,81.3,73.5,Pass,Roberto José Rosales Altuve,False,0,0.0,False,
+3825799,Málaga,92.0,5.1,Ball Recovery,Charles Días Barbosa de Oliveira,False,0,0.0,False,
+3825799,Málaga,92.9,47.4,Pass,Charles Días Barbosa de Oliveira,False,0,0.0,False,
+3825799,Málaga,97.4,7.2,Pass,José Luis García del Pozo,False,0,0.0,False,
+3825799,Málaga,85.8,5.5,Ball Recovery,Gonzalo Castro Irizábal,False,0,0.0,False,
+3825800,Celta Vigo,97.0,13.3,Pass,Jonathan Castro Otto,False,0,0.0,False,
+3825800,Celta Vigo,85.3,23.5,Pass,Fabián Ariel Orellana Valenzuela,False,0,0.0,False,
+3825800,Celta Vigo,88.4,41.7,Pass,Marcelo Alfonso Díaz Rojas,False,0,0.0,False,
+3825800,Villarreal,75.8,30.8,Ball Recovery,Leonardo Carrilho Baptistão,True,1,0.1773,False,5.0
+3825800,Celta Vigo,97.3,5.5,Pass,Sergi Gómez Solà,True,1,0.0379,False,17.0
+3825800,Celta Vigo,91.3,73.5,Interception,Théo Bongonda Mbul''Ofeko Batombo,False,0,0.0,False,
+3825801,Sevilla,74.9,27.3,Pass,Fernando Llorente Torres,False,0,0.0,False,
+3825801,Eibar,87.1,75.3,Interception,Gonzalo Escalante,False,0,0.0,False,
+3825801,Sevilla,79.1,31.6,Ball Recovery,Fernando Llorente Torres,False,0,0.0,False,
+3825801,Eibar,80.9,57.6,Duel,Gonzalo Escalante,True,1,0.0519,False,6.0
+3825801,Eibar,85.6,56.5,Ball Recovery,Saúl Berjón Pérez,False,0,0.0,False,
+3825802,Espanyol,94.8,22.0,Ball Recovery,Gerard Moreno Balaguero,False,0,0.0,False,
+3825803,Sporting Gijón,83.2,6.2,Pass,Jonathan Rodríguez Menéndez,False,0,0.0,False,
+3825803,Granada,96.6,64.8,Duel,Abdoulaye Doucouré,True,1,0.6365,True,8.0
+3825804,RC Deportivo La Coruña,84.4,12.0,Interception,Celso Borges Mora,False,0,0.0,False,
+3825805,Villarreal,74.6,69.7,Pass,Tomás Pina Isla,False,0,0.0,False,
+3825805,Las Palmas,105.6,54.9,Ball Recovery,Willian José da Silva,True,1,0.0188,False,1.0
+3825805,Villarreal,93.7,25.0,Ball Recovery,Roberto Soldado Rillo,False,0,0.0,False,
+3825805,Villarreal,77.0,41.4,Pass,Víctor Ruíz Torre,False,0,0.0,False,
+3825805,Villarreal,79.4,54.1,Pass,Samuel Castillejo Azuaga,False,0,0.0,False,
+3825805,Villarreal,105.0,74.8,Pass,Mario Gaspar Pérez Martínez,False,0,0.0,False,
+3825805,Villarreal,87.5,56.7,Pass,Tomás Pina Isla,True,1,0.0386,False,42.0
+3825805,Las Palmas,80.6,47.6,Pass,Jonathan Viera Ramos,True,1,0.0069,False,14.0
+3825805,Villarreal,76.9,39.0,Ball Recovery,Bruno Soriano Llido,False,0,0.0,False,
+3825805,Las Palmas,79.9,57.6,Duel,Sergio Ezequiel Araújo,False,0,0.0,False,
+3825806,Celta Vigo,84.8,56.4,Pass,Iago Aspas Juncal,False,0,0.0,False,
+3825806,Real Madrid,77.8,7.3,Duel,Borja Mayoral Moya,False,0,0.0,False,
+3825806,Real Madrid,78.1,13.3,Duel,Carlos Henrique Casimiro,True,1,0.8744,True,8.0
+3825806,Real Madrid,76.4,74.5,Pass,Kléper Laveran Lima Ferreira,False,0,0.0,False,
+3825806,Celta Vigo,81.4,68.9,Ball Recovery,Hugo Mallo Novegil,False,0,0.0,False,
+3825806,Real Madrid,88.3,44.2,Duel,Sergio Ramos García,False,0,0.0,False,
+3825807,Atlético Madrid,86.7,21.4,Ball Recovery,Saúl Ñíguez Esclapez,True,1,0.0541,False,7.0
+3825807,Atlético Madrid,91.8,65.5,Duel,Luciano Vietto,True,1,0.0472,True,2.0
+3825807,Valencia,74.9,25.7,Ball Recovery,Enzo Nicolás Pérez,False,0,0.0,False,
+3825807,Valencia,76.2,60.2,Duel,Denis Cheryshev,False,0,0.0,False,
+3825807,Valencia,85.2,9.6,Pass,Guilherme Magdalena Siqueira,False,0,0.0,False,
+3825808,Athletic Club,85.2,21.8,Ball Recovery,Aritz Aduriz Zubeldia,False,0,0.0,False,
+3825809,Granada,108.8,4.9,Ball Recovery,Adalberto Peñaranda Maestre,True,1,0.0145,False,3.0
+3825809,Granada,78.5,73.7,Ball Recovery,Rubén Rochina Naixes,False,0,0.0,False,
+3825809,Granada,76.4,61.2,Ball Recovery,Rubén Rochina Naixes,False,0,0.0,False,
+3825810,Real Sociedad,82.6,74.4,Duel,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825810,Real Sociedad,80.9,74.8,Pass,Aritz Elustondo Irribaria,False,0,0.0,False,
+3825811,Rayo Vallecano,78.8,69.5,Pass,Adrián Embarba Blázquez,False,0,0.0,False,
+3825811,Espanyol,111.6,7.2,Duel,Jorge Franco Alviz,False,0,0.0,False,
+3825811,Espanyol,84.2,68.9,Duel,Gerard Moreno Balaguero,True,1,0.1019,False,10.0
+3825811,Espanyol,75.6,65.4,Pass,Álvaro González Soberón,True,1,0.3208,False,10.0
+3825811,Espanyol,78.1,75.0,Pass,Papa Kouly Diop,False,0,0.0,False,
+3825811,Rayo Vallecano,80.7,68.6,Interception,Aras Özbiliz,False,0,0.0,False,
+3825811,Rayo Vallecano,75.8,67.7,Pass,Adrián Embarba Blázquez,False,0,0.0,False,
+3825812,Málaga,90.8,75.3,Ball Recovery,Roberto José Rosales Altuve,False,0,0.0,False,
+3825812,Málaga,93.5,8.3,Ball Recovery,Juan Pablo Añor Acosta,True,1,0.0267,False,9.0
+3825812,Sporting Gijón,84.3,51.7,Pass,Alberto Lora Ramos,True,1,0.0784,False,14.0
+3825812,Sporting Gijón,86.5,4.6,Ball Recovery,Jorge Meré Pérez,False,0,0.0,False,
+3825813,Atlético Madrid,80.6,69.0,Ball Recovery,Gabriel Fernández Arenas,False,0,0.0,False,
+3825813,Atlético Madrid,83.7,54.6,Ball Recovery,Luciano Vietto,True,1,0.2141,False,6.0
+3825813,Atlético Madrid,91.8,9.2,Ball Recovery,Jorge Resurrección Merodio,True,1,0.0287,False,3.0
+3825813,RC Deportivo La Coruña,79.6,77.5,Pass,Laureano Sanabria Ruiz,False,0,0.0,False,
+3825813,RC Deportivo La Coruña,81.3,72.2,Pass,Federico Nicolás Cartabia,False,0,0.0,False,
+3825813,Atlético Madrid,80.7,64.5,Ball Recovery,Jorge Resurrección Merodio,False,0,0.0,False,
+3825814,Celta Vigo,78.0,10.7,Pass,Jonathan Castro Otto,False,0,0.0,False,
+3825814,Celta Vigo,78.0,11.3,Ball Recovery,Marcelo Alfonso Díaz Rojas,True,1,0.0839,False,6.0
+3825814,Celta Vigo,77.3,70.9,Duel,Iago Aspas Juncal,False,0,0.0,False,
+3825814,Real Sociedad,75.4,77.5,Ball Recovery,Joseba Zaldúa Bengoetxea,False,0,0.0,False,
+3825814,Real Sociedad,84.1,20.2,Ball Recovery,Rubén Pardo Gutiérrez,True,1,0.0125,False,2.0
+3825814,Celta Vigo,74.6,24.6,Pass,Manuel Agudo Durán,False,0,0.0,False,
+3825814,Celta Vigo,87.0,9.9,Ball Recovery,Nemanja Radoja,False,0,0.0,False,
+3825815,Valencia,79.0,33.3,Pass,Javier Fuego Martínez,True,1,0.4307,False,4.0
+3825815,Valencia,86.7,29.0,Pass,Daniel Parejo Muñoz,False,0,0.0,False,
+3825815,Levante UD,80.9,5.1,Ball Recovery,Zouhair Feddal,False,0,0.0,False,
+3825816,Sevilla,87.9,76.5,Pass,Vicente Iborra De La Fuente,False,0,0.0,False,
+3825816,Sevilla,104.8,55.7,Ball Recovery,Michael Krohn-Dehli,True,1,0.0464,False,0.0
+3825816,Sevilla,87.6,4.0,Pass,Benoît Trémoulinas,True,1,0.1787,False,37.0
+3825816,Villarreal,81.8,11.0,Ball Recovery,Samuel Castillejo Azuaga,True,1,0.0267,False,6.0
+3825817,Eibar,77.3,76.1,Pass,Ander Capa Rodríguez,False,0,0.0,False,
+3825817,Getafe,115.5,73.2,Pass,Álvaro Vázquez García,False,0,0.0,False,
+3825817,Eibar,78.3,64.6,Ball Recovery,Sergio Gontán Gallardo,True,1,0.0612,False,5.0
+3825817,Eibar,76.7,69.8,Pass,Sergio Gontán Gallardo,False,0,0.0,False,
+3825817,Getafe,86.0,62.9,Ball Recovery,Álvaro Vázquez García,True,1,0.0835,False,3.0
+3825818,Real Sociedad,110.6,70.6,Pass,Aritz Elustondo Irribaria,True,1,0.1029,False,1.0
+3825818,Las Palmas,78.6,65.8,Pass,Nabil El Zhar,False,0,0.0,False,
+3825818,Real Sociedad,86.7,17.4,Interception,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825818,Real Sociedad,85.0,32.6,Pass,Esteban Félix Granero Molina,False,0,0.0,False,
+3825818,Real Sociedad,78.9,19.9,Pass,Esteban Félix Granero Molina,False,0,0.0,False,
+3825819,Celta Vigo,77.8,12.0,Ball Recovery,Manuel Agudo Durán,False,0,0.0,False,
+3825819,Valencia,92.7,64.5,Ball Recovery,Rodrigo Moreno Machado,True,1,0.0108,False,1.0
+3825819,Valencia,75.0,17.7,Ball Recovery,André Filipe Tavares Gomes,False,0,0.0,False,
+3825820,Sevilla,75.2,74.5,Pass,Jorge Andújar Moreno,False,0,0.0,False,
+3825820,Sevilla,77.4,64.6,Pass,Vicente Iborra De La Fuente,False,0,0.0,False,
+3825820,Sevilla,74.9,75.7,Pass,Jorge Andújar Moreno,False,0,0.0,False,
+3825820,Sevilla,82.6,23.5,Pass,Sergio Escudero Palomo,False,0,0.0,False,
+3825820,Sevilla,84.2,10.2,Pass,Sebastián Carlos Cristóforo Pepe,False,0,0.0,False,
+3825820,Sevilla,95.3,4.5,Pass,Benoît Trémoulinas,False,0,0.0,False,
+3825820,Sevilla,110.5,2.8,Pass,Sergio Escudero Palomo,False,0,0.0,False,
+3825820,Sevilla,91.7,7.2,Pass,Sebastián Carlos Cristóforo Pepe,False,0,0.0,False,
+3825820,Real Madrid,78.9,75.5,Pass,Gareth Frank Bale,False,0,0.0,False,
+3825820,Real Madrid,100.2,15.8,Duel,Karim Benzema,False,0,0.0,False,
+3825820,Real Madrid,84.5,72.3,Pass,Luka Modrić,False,0,0.0,False,
+3825820,Real Madrid,98.0,61.1,Ball Recovery,Cristiano Ronaldo dos Santos Aveiro,True,1,0.0298,False,3.0
+3825820,Real Madrid,88.3,5.3,Pass,Cristiano Ronaldo dos Santos Aveiro,False,0,0.0,False,
+3825821,Athletic Club,99.1,61.5,Ball Recovery,Aritz Aduriz Zubeldia,True,1,0.0519,False,6.0
+3825821,Athletic Club,75.8,4.6,Pass,Javier Eraso Goñi,True,1,0.0279,False,9.0
+3825821,Espanyol,86.9,44.5,Ball Recovery,Abraham González Casanova,True,1,0.0409,False,8.0
+3825821,Athletic Club,76.4,76.0,Pass,Óscar de Marcos Arana,False,0,0.0,False,
+3825821,Athletic Club,74.3,61.4,Pass,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825821,Athletic Club,76.7,62.8,Pass,Mikel San José Domínguez,False,0,0.0,False,
+3825822,Las Palmas,90.2,5.1,Duel,Jerónimo Figueroa Cabrera,False,0,0.0,False,
+3825822,Valencia,75.5,40.0,Ball Recovery,Daniel Parejo Muñoz,False,0,0.0,False,
+3825822,Valencia,84.9,68.3,Ball Recovery,Daniel Parejo Muñoz,False,0,0.0,False,
+3825822,Valencia,80.5,29.3,Pass,Francisco Alcácer García,False,0,0.0,False,
+3825822,Las Palmas,79.4,58.4,Pass,Pedro Taunausú Domínguez Placeres,False,0,0.0,False,
+3825822,Valencia,76.9,4.5,Interception,André Filipe Tavares Gomes,False,0,0.0,False,
+3825823,Real Sociedad,81.6,7.2,Pass,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825823,Real Sociedad,75.5,42.2,Pass,Markel Bergara Larrañaga,True,1,0.0338,False,7.0
+3825823,Real Sociedad,77.2,68.9,Duel,David Zurutuza Veillet,False,0,0.0,False,
+3825823,Sevilla,75.8,64.4,Pass,Éver Maximiliano David Banega,False,0,0.0,False,
+3825823,Sevilla,97.3,74.5,Pass,Mariano Ferreira Filho,False,0,0.0,False,
+3825823,Sevilla,77.5,70.7,Pass,Éver Maximiliano David Banega,False,0,0.0,False,
+3825823,Sevilla,77.0,23.6,Pass,Timothée Kolodziejczak,False,0,0.0,False,
+3825823,Sevilla,99.2,42.3,Pass,Vicente Iborra De La Fuente,False,0,0.0,False,
+3825823,Sevilla,84.8,47.1,Duel,Éver Maximiliano David Banega,False,0,0.0,False,
+3825824,Eibar,82.0,25.5,Pass,Daniel García Carrillo,False,0,0.0,False,
+3825824,Eibar,79.6,18.6,Ball Recovery,Borja González Tomás,False,0,0.0,False,
+3825824,Eibar,75.9,63.2,Pass,Daniel García Carrillo,True,1,0.091,False,15.0
+3825824,Villarreal,87.5,58.3,Ball Recovery,Samuel Castillejo Azuaga,False,0,0.0,False,
+3825824,Villarreal,94.9,34.5,Pass,Adrián López Álvarez,False,0,0.0,False,
+3825824,Eibar,93.2,73.2,Pass,Gonzalo Escalante,False,0,0.0,False,
+3825824,Villarreal,104.6,76.6,Pass,Cédric Bakambu,False,0,0.0,False,
+3825824,Eibar,93.2,75.9,Duel,Gonzalo Escalante,False,0,0.0,False,
+3825825,Sporting Gijón,87.8,6.7,Duel,Ignacio Cases Mora,False,0,0.0,False,
+3825825,Levante UD,84.2,74.0,Ball Recovery,Jefferson Andrés Lerma Solís,False,0,0.0,False,
+3825825,Sporting Gijón,75.3,8.5,Ball Recovery,Jonathan Rodríguez Menéndez,True,1,0.0159,False,14.0
+3825826,Málaga,80.6,7.8,Ball Recovery,Federico Ricca Rostagnol,False,0,0.0,False,
+3825827,Real Betis,74.7,6.3,Pass,Martín Montoya Torralbo,False,0,0.0,False,
+3825827,Levante UD,93.0,74.9,Ball Recovery,Joan Verdú Fernández,False,0,0.0,False,
+3825827,Levante UD,87.6,64.0,Ball Recovery,José María Martín-Bejarano Serrano,False,0,0.0,False,
+3825828,Espanyol,82.6,55.9,Interception,Víctor Sánchez Mata,False,0,0.0,False,
+3825829,Rayo Vallecano,75.0,22.9,Pass,José Raúl Baena Urdiales,False,0,0.0,False,
+3825829,Athletic Club,79.0,26.2,Ball Recovery,Íñigo Lekue Martínez,False,0,0.0,False,
+3825829,Athletic Club,84.0,71.9,Duel,Markel Susaeta Laskurain,False,0,0.0,False,
+3825829,Athletic Club,77.0,3.4,Duel,Iker Muniain Goñi,True,1,0.0063,False,6.0
+3825829,Athletic Club,86.5,26.9,Pass,Iker Muniain Goñi,True,1,0.0452,False,2.0
+3825829,Rayo Vallecano,74.9,6.4,Pass,José Raúl Baena Urdiales,False,0,0.0,False,
+3825830,Villarreal,91.6,77.9,Ball Recovery,Leonardo Carrilho Baptistão,True,1,0.0381,False,21.0
+3825831,Valencia,77.5,29.8,Ball Recovery,Rodrigo Moreno Machado,False,0,0.0,False,
+3825831,Valencia,82.2,74.6,Duel,Antonio Barragán Fernández,False,0,0.0,False,
+3825831,Valencia,83.2,49.7,Pass,Aymen Abdennour,True,1,0.0078,False,6.0
+3825831,Valencia,75.4,69.1,Ball Recovery,Javier Fuego Martínez,False,0,0.0,False,
+3825831,Sevilla,102.2,68.1,Pass,Víctor Machín Pérez,False,0,0.0,False,
+3825831,Sevilla,99.2,51.6,Pass,Michael Krohn-Dehli,False,0,0.0,False,
+3825831,Sevilla,95.4,53.5,Pass,Jorge Andújar Moreno,False,0,0.0,False,
+3825831,Sevilla,98.9,48.9,Pass,Michael Krohn-Dehli,False,0,0.0,False,
+3825831,Sevilla,100.0,40.5,Pass,Fernando Llorente Torres,True,1,0.2326,False,2.0
+3825831,Valencia,111.5,16.2,Ball Recovery,Francisco Alcácer García,False,0,0.0,False,
+3825832,Celta Vigo,89.0,26.5,Ball Recovery,John Guidetti,True,1,0.0099,False,8.0
+3825832,Celta Vigo,104.7,63.8,Pass,Fabián Ariel Orellana Valenzuela,False,0,0.0,False,
+3825832,Celta Vigo,85.9,64.4,Pass,Jonathan Castro Otto,False,0,0.0,False,
+3825832,Celta Vigo,80.9,53.9,Pass,Daniel Wass,False,0,0.0,False,
+3825832,Celta Vigo,81.4,74.7,Pass,Jonathan Castro Otto,False,0,0.0,False,
+3825833,Getafe,82.4,73.3,Ball Recovery,Juan Antonio Rodríguez Villamuela,False,0,0.0,False,
+3825833,Getafe,93.7,8.1,Pass,Stefan Šćepović,False,0,0.0,False,
+3825833,Getafe,103.6,8.3,Pass,Pablo Sarabia García,False,0,0.0,False,
+3825833,Real Madrid,85.4,13.8,Pass,Marcelo Vieira da Silva Júnior,False,0,0.0,False,
+3825833,Getafe,84.6,5.5,Ball Recovery,Pablo Sarabia García,True,2,0.1038,False,5.0
+3825833,Real Madrid,107.2,64.0,Pass,Lucas Vázquez Iglesias,True,1,0.0917,False,1.0
+3825834,Atlético Madrid,75.0,72.9,Pass,Saúl Ñíguez Esclapez,False,0,0.0,False,
+3825834,Granada,74.5,17.7,Pass,Rene Krhin,False,0,0.0,False,
+3825835,Athletic Club,87.3,57.9,Ball Recovery,Mikel Rico Moreno,True,1,0.1572,False,27.0
+3825835,Athletic Club,90.0,74.6,Pass,Eneko Bóveda Altube,False,0,0.0,False,
+3825835,Athletic Club,91.9,56.0,Ball Recovery,Mikel Rico Moreno,False,0,0.0,False,
+3825835,Málaga,83.9,75.3,Ball Recovery,Juan Pablo Añor Acosta,False,0,0.0,False,
+3825835,Málaga,75.1,68.4,Ball Recovery,Miguel Torres Gómez,True,1,0.0108,False,9.0
+3825835,Athletic Club,108.2,48.9,Pass,Raúl García Escudero,False,0,0.0,False,
+3825835,Athletic Club,76.7,72.2,Ball Recovery,Mikel San José Domínguez,False,0,0.0,False,
+3825835,Athletic Club,79.4,5.0,Ball Recovery,Óscar de Marcos Arana,False,0,0.0,False,
+3825836,Rayo Vallecano,77.8,66.2,Pass,Pablo Hernández Domínguez,False,0,0.0,False,
+3825837,Real Betis,83.2,54.0,Pass,Alfred John Momar N''Diaye,False,0,0.0,False,
+3825837,Real Betis,78.8,76.7,Pass,Germán Alejandro Pezzella,True,1,0.0535,False,45.0
+3825837,Las Palmas,90.0,22.5,Pass,Willian José da Silva,False,0,0.0,False,
+3825838,Athletic Club,77.9,16.7,Ball Recovery,Raúl García Escudero,True,1,0.0235,False,86.0
+3825838,Athletic Club,79.3,11.1,Ball Recovery,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825838,Athletic Club,84.3,60.3,Pass,Óscar de Marcos Arana,False,0,0.0,False,
+3825838,Athletic Club,81.4,64.5,Ball Recovery,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825838,Atlético Madrid,81.8,4.3,Pass,Fernando José Torres Sanz,False,0,0.0,False,
+3825838,Atlético Madrid,83.9,15.0,Pass,Jorge Resurrección Merodio,False,0,0.0,False,
+3825838,Atlético Madrid,102.0,15.7,Pass,Filipe Luís Kasmirski,False,0,0.0,False,
+3825838,Atlético Madrid,90.6,56.7,Pass,Juan Francisco Torres Belén,True,1,0.2042,False,3.0
+3825838,Atlético Madrid,77.1,2.7,Ball Recovery,Saúl Ñíguez Esclapez,True,1,0.0247,False,8.0
+3825838,Athletic Club,87.4,4.6,Pass,Raúl García Escudero,False,0,0.0,False,
+3825839,Sporting Gijón,78.8,74.5,Pass,Ignacio Cases Mora,False,0,0.0,False,
+3825839,Sevilla,95.3,57.3,Ball Recovery,Grzegorz Krychowiak,True,1,0.0684,False,3.0
+3825839,Sevilla,114.7,74.9,Ball Recovery,Mariano Ferreira Filho,False,0,0.0,False,
+3825839,Sevilla,75.3,15.7,Ball Recovery,Sergio Escudero Palomo,False,0,0.0,False,
+3825839,Sporting Gijón,78.3,54.9,Pass,Sergio Álvarez Díaz,False,0,0.0,False,
+3825839,Sporting Gijón,86.7,76.5,Ball Recovery,Alberto Lora Ramos,False,0,0.0,False,
+3825840,Eibar,75.2,25.7,Duel,Borja González Tomás,False,0,0.0,False,
+3825840,Eibar,84.8,31.0,Duel,Borja González Tomás,False,0,0.0,False,
+3825840,Eibar,94.2,18.2,Ball Recovery,Adrián González Morales,False,0,0.0,False,
+3825840,Eibar,88.4,7.2,Pass,Manuel Castellano Castro,False,0,0.0,False,
+3825841,Real Sociedad,86.1,5.6,Pass,Mikel Oyarzabal Ugarte,False,0,0.0,False,
+3825841,Real Sociedad,79.4,6.1,Ball Recovery,Íñigo Martínez Berridi,False,0,0.0,False,
+3825841,Real Sociedad,80.1,57.4,Duel,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825841,Getafe,77.1,66.5,Duel,Álvaro Medrán Just,False,0,0.0,False,
+3825841,Getafe,77.8,1.8,Ball Recovery,Carlos Martín Vigaray,False,0,0.0,False,
+3825841,Real Sociedad,75.0,13.3,Duel,Jonathas Cristian de Jesus,False,0,0.0,False,
+3825841,Real Sociedad,78.1,66.6,Pass,Rubén Pardo Gutiérrez,False,0,0.0,False,
+3825841,Real Sociedad,81.4,4.6,Ball Recovery,Íñigo Martínez Berridi,True,2,0.094,False,17.0
+3825841,Real Sociedad,81.1,12.4,Pass,Íñigo Martínez Berridi,False,0,0.0,False,
+3825841,Real Sociedad,87.8,4.4,Pass,Alberto De La Bella Madureño,False,0,0.0,False,
+3825841,Real Sociedad,85.6,7.8,Duel,David Zurutuza Veillet,False,0,0.0,False,
+3825842,Levante UD,81.8,57.7,Interception,Víctor Camarasa Ferrando,False,0,0.0,False,
+3825842,Athletic Club,78.7,57.5,Pass,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825842,Athletic Club,100.3,69.9,Pass,Markel Susaeta Laskurain,False,0,0.0,False,
+3825842,Athletic Club,91.5,58.6,Pass,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825842,Athletic Club,116.2,56.4,Pass,Markel Susaeta Laskurain,False,0,0.0,False,
+3825842,Athletic Club,90.7,74.9,Duel,Raúl García Escudero,True,1,0.0133,False,5.0
+3825842,Athletic Club,78.6,55.5,Pass,Markel Susaeta Laskurain,False,0,0.0,False,
+3825842,Athletic Club,86.8,62.0,Ball Recovery,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825843,Málaga,82.5,23.0,Pass,Ricardo Jorge Luz Horta,False,0,0.0,False,
+3825843,Málaga,104.2,6.7,Pass,Federico Ricca Rostagnol,False,0,0.0,False,
+3825844,Athletic Club,82.6,55.7,Ball Recovery,Mikel Rico Moreno,False,0,0.0,False,
+3825844,Athletic Club,78.9,75.6,Interception,Iker Muniain Goñi,False,0,0.0,False,
+3825844,Athletic Club,76.9,72.6,Ball Recovery,Mikel San José Domínguez,True,1,0.0434,False,58.0
+3825844,Athletic Club,88.4,62.0,Pass,Sabin Merino Zuloaga,False,0,0.0,False,
+3825844,Athletic Club,78.9,59.5,Ball Recovery,Mikel San José Domínguez,True,2,0.1457,True,8.0
+3825844,Athletic Club,75.6,72.4,Pass,Markel Susaeta Laskurain,False,0,0.0,False,
+3825844,Real Betis,76.2,3.8,Pass,Charly Musonda Junior,False,0,0.0,False,
+3825844,Real Betis,91.2,27.7,Pass,Joaquín Sánchez Rodríguez,True,1,0.2484,False,2.0
+3825845,Espanyol,76.0,58.7,Pass,Papa Kouly Diop,False,0,0.0,False,
+3825845,Espanyol,82.2,74.3,Pass,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825845,Sevilla,78.3,2.2,Pass,José Joaquín Matos García,False,0,0.0,False,
+3825845,Sevilla,85.7,69.4,Duel,Francisco José Sánchez Rodríguez,False,0,0.0,False,
+3825846,RC Deportivo La Coruña,76.9,12.5,Pass,Pedro Mosquera Parada,False,0,0.0,False,
+3825846,RC Deportivo La Coruña,78.9,62.0,Ball Recovery,Federico Nicolás Cartabia,True,1,0.0688,False,8.0
+3825846,Real Madrid,78.1,51.5,Ball Recovery,Luka Modrić,False,0,0.0,False,
+3825847,Eibar,91.5,5.2,Ball Recovery,Izet Hajrović,False,0,0.0,False,
+3825847,Eibar,74.6,66.4,Ball Recovery,Sergio Gontán Gallardo,False,0,0.0,False,
+3825847,Eibar,74.5,75.7,Duel,Sergio Gontán Gallardo,False,0,0.0,False,
+3825847,Eibar,80.2,74.9,Duel,Ander Capa Rodríguez,False,0,0.0,False,
+3825847,Eibar,77.5,62.6,Ball Recovery,Adrián González Morales,False,0,0.0,False,
+3825848,Levante UD,86.9,55.8,Ball Recovery,Nabil Ghilas,True,1,0.0747,False,4.0
+3825848,Levante UD,116.4,73.5,Ball Recovery,Víctor Casadesús Castaño,False,0,0.0,False,
+3825848,Levante UD,81.9,73.9,Interception,Víctor Casadesús Castaño,False,0,0.0,False,
+3825848,Eibar,93.3,72.1,Ball Recovery,Gonzalo Escalante,True,1,0.0212,False,13.0
+3825849,Valencia,83.6,4.2,Ball Recovery,Pablo Daniel Piatti,False,0,0.0,False,
+3825849,Valencia,78.0,58.2,Interception,Santiago Mina Lorenzo,False,0,0.0,False,
+3825849,Valencia,78.2,5.1,Duel,Pablo Daniel Piatti,False,0,0.0,False,
+3825849,Valencia,95.1,14.4,Ball Recovery,Santiago Mina Lorenzo,False,0,0.0,False,
+3825849,Real Sociedad,85.9,72.3,Ball Recovery,David Zurutuza Veillet,False,0,0.0,False,
+3825849,Real Sociedad,77.9,6.5,Duel,David Zurutuza Veillet,False,0,0.0,False,
+3825849,Real Sociedad,75.7,72.4,Pass,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825849,Valencia,91.9,13.5,Duel,Francisco Alcácer García,True,1,0.0315,False,8.0
+3825849,Valencia,82.5,38.1,Pass,Francisco Alcácer García,False,0,0.0,False,
+3825849,Valencia,88.5,44.3,Pass,Álvaro Negredo Sánchez,True,1,0.1438,False,3.0
+3825851,RC Deportivo La Coruña,77.1,60.0,Ball Recovery,Alejandro Bergantiños García,False,0,0.0,False,
+3825851,RC Deportivo La Coruña,83.9,68.8,Pass,Federico Nicolás Cartabia,False,0,0.0,False,
+3825851,Villarreal,80.1,14.0,Pass,Antonio Rukavina,False,0,0.0,False,
+3825851,Villarreal,81.3,76.6,Pass,Mario Gaspar Pérez Martínez,False,0,0.0,False,
+3825851,Villarreal,90.8,13.6,Ball Recovery,Jonathan dos Santos Ramírez,True,1,0.0393,False,12.0
+3825852,Las Palmas,75.0,55.9,Pass,Roque Mesa Quevedo,False,0,0.0,False,
+3825852,Sporting Gijón,75.2,19.8,Pass,Ismael López Blanco,False,0,0.0,False,
+3825852,Sporting Gijón,83.5,62.4,Duel,Sergio Álvarez Díaz,False,0,0.0,False,
+3825852,Sporting Gijón,77.8,58.6,Interception,Alen Halilović,True,1,0.0234,False,27.0
+3825852,Sporting Gijón,81.9,31.3,Duel,Ismael López Blanco,False,0,0.0,False,
+3825853,Granada,79.5,6.5,Pass,Cristiano Biraghi,False,0,0.0,False,
+3825853,Granada,76.8,16.8,Duel,Adalberto Peñaranda Maestre,False,0,0.0,False,
+3825854,Eibar,84.4,60.9,Ball Recovery,Sergio Enrich Ametller,False,0,0.0,False,
+3825854,Eibar,80.3,65.8,Pass,Gonzalo Escalante,False,0,0.0,False,
+3825854,Sporting Gijón,89.3,12.1,Pass,Ismael López Blanco,False,0,0.0,False,
+3825854,Eibar,78.1,43.5,Pass,Daniel García Carrillo,True,1,0.0113,False,22.0
+3825855,Levante UD,86.1,79.1,Ball Recovery,Pedro López Muñoz,False,0,0.0,False,
+3825855,Levante UD,80.4,78.5,Pass,Víctor Casadesús Castaño,False,0,0.0,False,
+3825855,Málaga,84.0,40.5,Interception,Duje Čop,False,0,0.0,False,
+3825855,Levante UD,78.7,61.4,Pass,José María Martín-Bejarano Serrano,False,0,0.0,False,
+3825855,Málaga,76.8,32.4,Pass,Juan Pablo Añor Acosta,False,0,0.0,False,
+3825855,Levante UD,84.6,69.0,Duel,Deyverson Brum Silva Acosta,True,1,0.0938,False,6.0
+3825855,Levante UD,75.9,9.7,Ball Recovery,Víctor Camarasa Ferrando,False,0,0.0,False,
+3825856,Real Madrid,86.7,21.9,Pass,Jesé Rodríguez Ruiz,False,0,0.0,False,
+3825857,Levante UD,78.2,21.2,Ball Recovery,Jefferson Andrés Lerma Solís,False,0,0.0,False,
+3825857,Levante UD,91.7,71.8,Duel,Carl Medjani,False,0,0.0,False,
+3825857,Levante UD,87.4,8.6,Duel,Juan Francisco García García,False,0,0.0,False,
+3825858,Rayo Vallecano,85.6,73.0,Ball Recovery,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825858,Eibar,76.8,30.4,Ball Recovery,Adrián González Morales,False,0,0.0,False,
+3825858,Rayo Vallecano,77.5,76.8,Ball Recovery,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825858,Eibar,75.8,5.4,Pass,Daniel García Carrillo,True,1,0.1371,False,7.0
+3825858,Rayo Vallecano,76.8,50.3,Pass,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825859,Granada,84.2,66.4,Pass,Rubén Salvador Pérez Del Mármol,False,0,0.0,False,
+3825859,Granada,79.4,60.1,Ball Recovery,Juan Isaac Cuenca López,False,0,0.0,False,
+3825859,Granada,99.2,20.3,Ball Recovery,Youssef El-Arabi,True,1,0.0339,False,11.0
+3825859,Granada,81.9,19.1,Ball Recovery,Youssef El-Arabi,False,0,0.0,False,
+3825859,Granada,98.9,59.5,Interception,Rubén Rochina Naixes,False,0,0.0,False,
+3825859,Granada,107.4,4.1,Ball Recovery,Juan Isaac Cuenca López,True,1,0.482,False,5.0
+3825860,Levante UD,85.6,22.6,Ball Recovery,Víctor Casadesús Castaño,False,0,0.0,False,
+3825860,Atlético Madrid,91.7,65.1,Pass,Thomas Teye Partey,True,1,0.0589,False,5.0
+3825860,Levante UD,75.4,68.4,Interception,Simão Mate,False,0,0.0,False,
+3825860,Atlético Madrid,83.6,8.7,Pass,Yannick Ferreira Carrasco,False,0,0.0,False,
+3825860,Atlético Madrid,78.0,20.6,Pass,Jorge Resurrección Merodio,False,0,0.0,False,
+3825860,Atlético Madrid,118.5,68.2,Pass,Juan Francisco Torres Belén,True,1,0.0512,False,2.0
+3825861,Rayo Vallecano,75.7,20.1,Pass,Nicolás Ladislao Fedor Flores,False,0,0.0,False,
+3825861,Rayo Vallecano,80.1,38.3,Ball Recovery,Pablo Hernández Domínguez,False,0,0.0,False,
+3825861,Real Sociedad,75.0,57.4,Pass,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825861,Real Sociedad,89.8,48.4,Pass,David Zurutuza Veillet,False,0,0.0,False,
+3825861,Real Sociedad,79.8,62.5,Ball Recovery,Jon Bautista Orgilles,False,0,0.0,False,
+3825861,Rayo Vallecano,90.9,9.7,Pass,Pablo Hernández Domínguez,False,0,0.0,False,
+3825861,Rayo Vallecano,75.6,59.5,Ball Recovery,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825861,Rayo Vallecano,92.5,22.5,Pass,Pablo Hernández Domínguez,False,0,0.0,False,
+3825861,Rayo Vallecano,112.0,9.0,Pass,Jonhatan Montiel Caballero,False,0,0.0,False,
+3825861,Rayo Vallecano,117.2,46.5,Pass,Alberto Mateus Contreiras Gonçalves,False,0,0.0,False,
+3825861,Rayo Vallecano,80.1,71.4,Pass,Joaquín José Marín Ruiz,False,0,0.0,False,
+3825862,Celta Vigo,85.2,61.8,Pass,Jonathan Castro Otto,False,0,0.0,False,
+3825862,Celta Vigo,117.9,63.7,Ball Receipt*,Fabián Ariel Orellana Valenzuela,False,0,0.0,False,
+3825862,Espanyol,74.3,25.8,Ball Recovery,Abraham González Casanova,False,0,0.0,False,
+3825862,Celta Vigo,102.8,3.7,Pass,Pedro Pablo Hernández,False,0,0.0,False,
+3825862,Celta Vigo,78.0,19.0,Ball Recovery,Marcelo Alfonso Díaz Rojas,False,0,0.0,False,
+3825862,Espanyol,105.0,8.9,Pass,Jorge Franco Alviz,False,0,0.0,False,
+3825863,RC Deportivo La Coruña,80.5,23.6,Pass,Celso Borges Mora,False,0,0.0,False,
+3825863,RC Deportivo La Coruña,88.4,72.9,Duel,Federico Nicolás Cartabia,False,0,0.0,False,
+3825863,Las Palmas,77.4,72.6,Duel,Pedro Taunausú Domínguez Placeres,False,0,0.0,False,
+3825863,RC Deportivo La Coruña,79.8,20.2,Ball Recovery,Luis Alberto Romero Alconchel,False,0,0.0,False,
+3825863,RC Deportivo La Coruña,91.3,37.1,Duel,Jonathan Javier Rodríguez Portillo,True,2,0.4296,False,6.0
+3825864,Real Madrid,103.6,73.6,Ball Recovery,Gareth Frank Bale,False,0,0.0,False,
+3825864,Real Madrid,108.1,73.8,Ball Recovery,Gareth Frank Bale,True,1,0.0108,False,9.0
+3825864,Real Madrid,108.9,6.7,Pass,Sergio Ramos García,False,0,0.0,False,
+3825864,Real Madrid,76.2,1.8,Pass,Lucas Vázquez Iglesias,False,0,0.0,False,
+3825864,Real Madrid,93.1,5.5,Pass,James David Rodríguez Rubio,False,0,0.0,False,
+3825864,Real Madrid,87.0,70.4,Duel,Borja Mayoral Moya,False,0,0.0,False,
+3825864,Real Sociedad,79.2,63.1,Pass,Markel Bergara Larrañaga,False,0,0.0,False,
+3825864,Real Madrid,78.3,75.7,Pass,Lucas Vázquez Iglesias,False,0,0.0,False,
+3825864,Real Madrid,81.4,42.6,Pass,Gareth Frank Bale,False,0,0.0,False,
+3825864,Real Madrid,84.8,53.4,Pass,James David Rodríguez Rubio,False,0,0.0,False,
+3825865,Sporting Gijón,76.1,71.2,Ball Recovery,Carlos Carmona Bonet,False,0,0.0,False,
+3825865,Getafe,75.2,8.7,Ball Recovery,Álvaro Medrán Just,False,0,0.0,False,
+3825865,Sporting Gijón,88.3,11.6,Duel,Ignacio Cases Mora,False,0,0.0,False,
+3825865,Sporting Gijón,78.4,77.4,Pass,Alberto Lora Ramos,False,0,0.0,False,
+3825865,Getafe,85.4,21.0,Pass,Pablo Sarabia García,False,0,0.0,False,
+3825865,Getafe,82.6,30.3,Pass,Emiliano Buendía,True,1,0.0241,False,14.0
+3825866,Las Palmas,77.0,68.7,Ball Recovery,Pedro Taunausú Domínguez Placeres,False,0,0.0,False,
+3825866,Athletic Club,75.8,15.7,Pass,Mikel Balenziaga Oruesagasti,False,0,0.0,False,
+3825866,Athletic Club,92.2,15.5,Ball Recovery,Iker Muniain Goñi,False,0,0.0,False,
+3825866,Athletic Club,80.3,73.4,Duel,Raúl García Escudero,False,0,0.0,False,
+3825866,Athletic Club,76.0,25.3,Pass,Gorka Elustondo Urkola,False,0,0.0,False,
+3825867,Getafe,96.5,45.5,Ball Recovery,Álvaro Vázquez García,True,1,0.0295,False,3.0
+3825867,Getafe,74.3,75.0,Pass,Pablo Sarabia García,False,0,0.0,False,
+3825867,Getafe,74.7,68.3,Pass,Emiliano Buendía,False,0,0.0,False,
+3825867,Getafe,80.8,37.1,Pass,Mehdi Lacen,False,0,0.0,False,
+3825867,Getafe,99.8,8.6,Pass,Abdoul Karim Yoda,False,0,0.0,False,
+3825868,Granada,76.3,73.4,Ball Recovery,Youssef El-Arabi,False,0,0.0,False,
+3825869,Athletic Club,77.7,66.2,Duel,Íñigo Lekue Martínez,True,1,0.1164,False,6.0
+3825869,Athletic Club,106.6,25.7,Ball Recovery,Raúl García Escudero,True,2,0.6347,True,0.0
+3825869,Athletic Club,82.0,27.9,Interception,Markel Susaeta Laskurain,True,1,0.1286,False,4.0
+3825869,Athletic Club,75.1,51.0,Pass,Carlos Gurpegi Nausia,False,0,0.0,False,
+3825869,Sevilla,78.6,40.7,Ball Recovery,Steven N''Kemboanza Mike Christopher Nzonzi,False,0,0.0,False,
+3825869,Athletic Club,76.3,12.9,Ball Recovery,Mikel Balenziaga Oruesagasti,False,0,0.0,False,
+3825869,Sevilla,75.3,5.0,Duel,Sebastián Carlos Cristóforo Pepe,False,0,0.0,False,
+3825869,Athletic Club,96.5,41.3,Ball Recovery,Aritz Aduriz Zubeldia,False,0,0.0,False,
+3825869,Athletic Club,76.5,38.9,Ball Recovery,Aritz Aduriz Zubeldia,False,0,0.0,False,
+3825869,Athletic Club,111.1,12.4,Pass,Iñaki Williams Arthuer,False,0,0.0,False,
+3825869,Athletic Club,102.3,7.7,Pass,Íñigo Lekue Martínez,False,0,0.0,False,
+3825870,Celta Vigo,83.3,42.7,Ball Recovery,Daniel Wass,True,1,0.0102,False,11.0
+3825870,Celta Vigo,81.1,22.1,Ball Recovery,Pedro Pablo Hernández,False,0,0.0,False,
+3825870,Athletic Club,82.7,46.3,Pass,Beñat Etxebarria Urkiaga,False,0,0.0,False,
+3825871,Las Palmas,86.6,13.9,Pass,Jerónimo Figueroa Cabrera,False,0,0.0,False,
+3825871,Espanyol,84.4,72.8,Interception,Gerard Moreno Balaguero,False,0,0.0,False,
+3825871,Espanyol,77.1,57.0,Ball Recovery,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825871,Las Palmas,78.1,9.6,Pass,Mubarak Wakaso,False,0,0.0,False,
+3825871,Las Palmas,75.2,76.5,Pass,Juan Carlos Valerón Santana,False,0,0.0,False,
+3825871,Espanyol,85.9,54.7,Ball Recovery,Salvador Sevilla López,True,2,0.1297,False,8.0
+3825872,Atlético Madrid,96.9,74.9,Ball Recovery,Juan Francisco Torres Belén,False,0,0.0,False,
+3825872,Atlético Madrid,78.3,16.7,Interception,Antoine Griezmann,True,1,0.2863,False,8.0
+3825872,Atlético Madrid,81.8,10.8,Pass,Fernando José Torres Sanz,False,0,0.0,False,
+3825872,Atlético Madrid,82.5,24.5,Duel,Filipe Luís Kasmirski,False,0,0.0,False,
+3825872,Atlético Madrid,79.1,12.2,Ball Recovery,Gabriel Fernández Arenas,False,0,0.0,False,
+3825872,Real Betis,80.8,24.6,Ball Recovery,Rubén Castro Martín,False,0,0.0,False,
+3825873,Villarreal,86.1,13.6,Duel,Samuel Castillejo Azuaga,False,0,0.0,False,
+3825873,Villarreal,77.0,41.7,Ball Recovery,Rodrigo Hernández Cascante,False,0,0.0,False,
+3825873,Villarreal,90.9,10.0,Ball Recovery,Roberto Soldado Rillo,True,1,0.0833,True,6.0
+3825873,Valencia,77.7,15.1,Ball Recovery,Álvaro Negredo Sánchez,False,0,0.0,False,
+3825873,Valencia,81.1,73.1,Ball Recovery,Rodrigo Moreno Machado,False,0,0.0,False,
+3825874,Getafe,99.3,56.6,Pass,Stefan Šćepović,False,0,0.0,False,
+3825874,Getafe,96.7,11.5,Pass,Víctor Rodríguez Romero,True,1,0.0602,False,4.0
+3825874,Getafe,82.7,12.0,Ball Recovery,Juan Antonio Rodríguez Villamuela,False,0,0.0,False,
+3825874,Getafe,81.8,70.8,Duel,Juan Antonio Rodríguez Villamuela,False,0,0.0,False,
+3825874,Sevilla,77.8,60.7,Ball Recovery,Michael Krohn-Dehli,False,0,0.0,False,
+3825875,Real Sociedad,102.9,69.2,Duel,Carlos Alberto Vela Garrido,False,0,0.0,False,
+3825875,Villarreal,98.9,23.6,Pass,Cédric Bakambu,True,1,0.0535,False,3.0
+3825875,Villarreal,78.1,15.6,Interception,Bruno Soriano Llido,False,0,0.0,False,
+3825875,Real Sociedad,82.8,6.0,Pass,Yuri Berchiche Izeta,False,0,0.0,False,
+3825875,Villarreal,74.7,1.3,Pass,Samuel Castillejo Azuaga,True,1,0.0296,False,7.0
+3825876,Getafe,98.5,74.8,Pass,Damián Nicolás Suárez Suárez,True,1,0.0404,False,15.0
+3825876,Getafe,83.4,21.6,Pass,Stefan Šćepović,True,1,0.0815,False,4.0
+3825876,Real Betis,76.0,36.9,Ball Recovery,Daniel Ceballos Fernández,False,0,0.0,False,
+3825876,Getafe,82.0,15.7,Ball Recovery,Abdoul Karim Yoda,False,0,0.0,False,
+3825876,Getafe,85.9,56.0,Ball Recovery,Pablo Sarabia García,False,0,0.0,False,
+3825877,Granada,75.4,28.1,Ball Recovery,Juan Isaac Cuenca López,False,0,0.0,False,
+3825877,Athletic Club,83.7,59.5,Interception,Markel Susaeta Laskurain,True,2,0.2888,False,4.0
+3825877,Athletic Club,85.2,55.8,Pass,Raúl García Escudero,False,0,0.0,False,
+3825877,Athletic Club,88.4,41.2,Pass,Íñigo Lekue Martínez,False,0,0.0,False,
+3825878,Atlético Madrid,90.8,36.1,Ball Recovery,Luciano Vietto,True,1,0.1276,False,3.0
+3825878,Atlético Madrid,88.0,30.7,Pass,Ángel Martín Correa,False,0,0.0,False,
+3825878,Atlético Madrid,81.9,23.5,Ball Recovery,Ángel Martín Correa,False,0,0.0,False,
+3825878,Rayo Vallecano,83.2,4.1,Pass,Francisco Medina Luna,False,0,0.0,False,
+3825878,Rayo Vallecano,94.1,8.2,Pass,Javier Guerra Rodríguez,False,0,0.0,False,
+3825878,Rayo Vallecano,87.0,6.0,Pass,Francisco Medina Luna,False,0,0.0,False,
+3825878,Rayo Vallecano,84.1,20.3,Pass,Jozabed Sánchez Ruiz,False,0,0.0,False,
+3825878,Atlético Madrid,77.8,19.9,Ball Recovery,Jorge Resurrección Merodio,True,1,0.0276,False,4.0
+3825879,Las Palmas,75.1,6.2,Pass,Jerónimo Figueroa Cabrera,True,1,0.0496,False,6.0
+3825879,Real Madrid,90.3,56.4,Interception,Luka Modrić,False,0,0.0,False,
+3825879,Real Madrid,81.1,40.3,Pass,Carlos Henrique Casimiro,True,1,0.0376,False,47.0
+3825879,Real Madrid,79.1,72.0,Ball Recovery,Daniel Carvajal Ramos,False,0,0.0,False,
+3825879,Real Madrid,84.9,58.7,Ball Recovery,Mateo Kovačić,True,1,0.2061,False,6.0
+3825879,Las Palmas,77.7,24.3,Ball Recovery,Jerónimo Figueroa Cabrera,True,1,0.2705,True,6.0
+3825880,RC Deportivo La Coruña,80.0,3.7,Pass,Luis Carlos Correia Pinto,False,0,0.0,False,
+3825880,Levante UD,91.8,75.3,Pass,Simão Mate,False,0,0.0,False,
+3825881,Espanyol,82.3,75.4,Ball Recovery,Marco Asensio Willemsen,False,0,0.0,False,
+3825881,Espanyol,82.6,72.7,Ball Recovery,Marco Asensio Willemsen,True,1,0.1061,False,25.0
+3825882,Celta Vigo,92.7,6.9,Pass,Manuel Agudo Durán,False,0,0.0,False,
+3825882,Atlético Madrid,92.9,65.7,Ball Recovery,Gabriel Fernández Arenas,False,0,0.0,False,
+3825882,Celta Vigo,98.7,28.1,Pass,Daniel Wass,False,0,0.0,False,
+3825882,Celta Vigo,113.0,75.0,Interception,Jonathan Castro Otto,False,0,0.0,False,
+3825882,Atlético Madrid,108.6,77.0,Ball Recovery,Antoine Griezmann,False,0,0.0,False,
+3825882,Atlético Madrid,79.2,22.2,Ball Recovery,Gabriel Fernández Arenas,False,0,0.0,False,
+3825882,Atlético Madrid,75.4,31.9,Duel,Diego Roberto Godín Leal,False,0,0.0,False,
+3825883,Málaga,88.5,14.9,Ball Recovery,José Luis García del Pozo,False,0,0.0,False,
+3825883,Málaga,88.7,67.1,Ball Recovery,Juan Pablo Añor Acosta,True,1,0.0606,False,8.0
+3825883,Las Palmas,78.6,68.7,Ball Recovery,Roque Mesa Quevedo,False,0,0.0,False,
+3825883,Málaga,90.6,59.8,Interception,Charles Días Barbosa de Oliveira,True,1,0.1993,True,12.0
+3825883,Málaga,92.7,35.1,Duel,José Luis García del Pozo,True,1,0.0119,False,45.0
+3825883,Las Palmas,84.6,68.2,Ball Recovery,Willian José da Silva,False,0,0.0,False,
+3825883,Las Palmas,81.8,44.9,Pass,Nabil El Zhar,True,1,0.0374,False,2.0
+3825883,Las Palmas,89.9,77.3,Pass,David Simón Rodríguez Santana,False,0,0.0,False,
+3825883,Las Palmas,85.1,63.9,Pass,José Vicente Gómez Umpiérrez,False,0,0.0,False,
+3825883,Las Palmas,92.7,62.1,Pass,Nabil El Zhar,False,0,0.0,False,
+3825883,Las Palmas,96.7,74.1,Pass,David Simón Rodríguez Santana,False,0,0.0,False,
+3825884,Sevilla,86.9,4.4,Ball Recovery,Sergio Escudero Palomo,False,0,0.0,False,
+3825884,Real Betis,83.6,8.5,Duel,Petros Matheus dos Santos Araújo,False,0,0.0,False,
+3825884,Sevilla,97.3,54.6,Ball Recovery,Éver Maximiliano David Banega,True,1,0.0685,False,2.0
+3825885,Rayo Vallecano,78.6,60.6,Ball Recovery,José Raúl Baena Urdiales,False,0,0.0,False,
+3825885,Rayo Vallecano,82.5,76.6,Duel,Pablo Hernández Domínguez,False,0,0.0,False,
+3825885,Rayo Vallecano,87.5,76.4,Ball Recovery,Diego Javier Llorente Ríos,True,1,0.1542,True,6.0
+3825885,Getafe,77.4,3.5,Ball Recovery,Roberto Lago Soto,False,0,0.0,False,
+3825885,Getafe,82.8,72.8,Interception,Carlos Martín Vigaray,False,0,0.0,False,
+3825886,Real Madrid,86.7,48.1,Ball Recovery,Mateo Kovačić,False,0,0.0,False,
+3825886,Real Madrid,75.1,20.9,Pass,Francisco Román Alarcón Suárez,False,0,0.0,False,
+3825886,Rayo Vallecano,86.7,4.2,Ball Recovery,Tiago Manuel Dias Correia,True,1,0.0622,False,7.0
+3825887,Rayo Vallecano,92.6,4.0,Pass,Adrián Embarba Blázquez,False,0,0.0,False,
+3825887,Granada,83.4,19.8,Ball Recovery,Abdoulaye Doucouré,False,0,0.0,False,
+3825887,Rayo Vallecano,74.7,69.7,Interception,Adrián Embarba Blázquez,False,0,0.0,False,
+3825888,Las Palmas,74.3,32.9,Pass,Roque Mesa Quevedo,False,0,0.0,False,
+3825888,Las Palmas,110.8,61.1,Ball Recovery,Sergio Ezequiel Araújo,False,0,0.0,False,
+3825888,Las Palmas,76.5,15.2,Duel,Pedro Taunausú Domínguez Placeres,True,1,0.0442,False,9.0
+3825888,Las Palmas,78.2,74.6,Interception,Roque Mesa Quevedo,False,0,0.0,False,
+3825888,Las Palmas,78.4,46.9,Ball Recovery,Jerónimo Figueroa Cabrera,False,0,0.0,False,
+3825888,Valencia,76.6,65.2,Pass,Sofiane Feghouli,False,0,0.0,False,
+3825888,Las Palmas,80.9,40.8,Duel,Hernán Daniel Santana Trujillo,True,1,0.2212,False,5.0
+3825889,Real Betis,79.9,51.0,Ball Recovery,Rubén Castro Martín,False,0,0.0,False,
+3825889,Celta Vigo,78.1,65.8,Duel,Daniel Wass,False,0,0.0,False,
+3825889,Real Betis,82.3,37.3,Pass,Alfred John Momar N''Diaye,False,0,0.0,False,
+3825889,Real Betis,92.4,75.4,Ball Recovery,Francisco José Molinero Calderón,True,1,0.0046,False,42.0
+3825889,Celta Vigo,75.5,10.6,Duel,Manuel Agudo Durán,True,1,0.0913,False,6.0
+3825889,Celta Vigo,87.2,15.4,Ball Recovery,Carles Planas Antolínez,False,0,0.0,False,
+3825889,Celta Vigo,106.7,31.2,Ball Recovery,Fabián Ariel Orellana Valenzuela,True,2,0.5886,False,47.0
+3825889,Celta Vigo,89.0,52.6,Ball Recovery,Rubén Blanco Veiga,False,0,0.0,False,
+3825890,Atlético Madrid,75.5,43.0,Pass,Gabriel Fernández Arenas,False,0,0.0,False,
+3825890,Atlético Madrid,86.6,71.2,Pass,Gabriel Fernández Arenas,False,0,0.0,False,
+3825890,Atlético Madrid,90.8,54.6,Ball Recovery,Yannick Ferreira Carrasco,False,0,0.0,False,
+3825890,Atlético Madrid,100.6,77.2,Ball Recovery,Saúl Ñíguez Esclapez,False,0,0.0,False,
+3825890,Málaga,74.9,9.6,Pass,Duje Čop,False,0,0.0,False,
+3825891,Las Palmas,74.7,71.0,Ball Recovery,Roque Mesa Quevedo,False,0,0.0,False,
+3825891,Espanyol,94.2,4.6,Pass,Gerard Moreno Balaguero,False,0,0.0,False,
+3825891,Espanyol,107.9,4.4,Duel,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825892,Granada,86.3,10.6,Pass,Cristiano Biraghi,False,0,0.0,False,
+3825892,Real Sociedad,87.6,55.6,Pass,Sergio Canales Madrazo,False,0,0.0,False,
+3825892,Real Sociedad,93.3,64.7,Pass,Carlos Alberto Vela Garrido,False,0,0.0,False,
+3825892,Real Sociedad,90.0,48.5,Pass,Imanol Agirretxe Arruti,False,0,0.0,False,
+3825892,Real Sociedad,93.0,56.3,Pass,Carlos Alberto Vela Garrido,False,0,0.0,False,
+3825892,Real Sociedad,107.4,67.4,Pass,Sergio Canales Madrazo,False,0,0.0,False,
+3825892,Granada,97.2,62.6,Pass,Isaac Ajayi Success,False,0,0.0,False,
+3825892,Real Sociedad,82.0,8.9,Pass,Asier Illarramendi Andonegi,False,0,0.0,False,
+3825892,Granada,100.3,6.3,Duel,Thievy Guivane Bifouma Koulossa,False,0,0.0,False,
+3825892,Granada,80.8,10.7,Pass,Isaac Ajayi Success,False,0,0.0,False,
+3825892,Granada,89.2,68.5,Pass,Hugo Miguel Almeida Costa Lopes,False,0,0.0,False,
+3825893,Real Madrid,77.1,65.2,Pass,Raphaël Varane,False,0,0.0,False,
+3825893,Real Madrid,88.2,47.3,Pass,Toni Kroos,False,0,0.0,False,
+3825893,Real Madrid,77.9,15.2,Pass,Luka Modrić,False,0,0.0,False,
+3825893,Real Madrid,76.9,66.8,Pass,Carlos Henrique Casimiro,True,1,0.0325,False,38.0
+3825893,Villarreal,77.5,3.4,Pass,Antonio Rukavina,False,0,0.0,False,
+3825893,Real Madrid,88.9,57.1,Ball Recovery,Luka Modrić,False,0,0.0,False,
+3825893,Real Madrid,85.6,10.2,Duel,Marcelo Vieira da Silva Júnior,False,0,0.0,False,
+3825894,RC Deportivo La Coruña,80.5,59.9,Duel,Laureano Sanabria Ruiz,True,1,0.0226,False,9.0
+3825894,Getafe,74.3,57.0,Ball Recovery,Mehdi Lacen,False,0,0.0,False,
+3825894,RC Deportivo La Coruña,84.2,11.7,Pass,Fayçal Fajr,True,1,0.0427,False,37.0
+3825894,RC Deportivo La Coruña,74.9,20.5,Ball Recovery,Pedro Mosquera Parada,False,0,0.0,False,
+3825894,RC Deportivo La Coruña,95.9,37.5,Ball Recovery,Lucas Pérez Martínez,True,1,0.0145,False,4.0
+3825894,Getafe,84.1,76.1,Ball Recovery,Pedro León Sánchez Gil,False,0,0.0,False,
+3825895,Sevilla,80.9,6.2,Ball Recovery,Víctor Machín Pérez,False,0,0.0,False,
+3825896,Granada,93.3,9.0,Interception,Abdoulaye Doucouré,False,0,0.0,False,
+3825896,Granada,78.1,8.5,Ball Recovery,Abdoulaye Doucouré,False,0,0.0,False,
+3825896,Levante UD,80.3,78.3,Pass,Víctor Camarasa Ferrando,False,0,0.0,False,
+3825896,Levante UD,94.8,77.2,Pass,Mauricio Andrés Cuero Castillo,False,0,0.0,False,
+3825896,Levante UD,91.5,64.1,Pass,Víctor Camarasa Ferrando,False,0,0.0,False,
+3825896,Levante UD,76.1,71.8,Pass,Jefferson Andrés Lerma Solís,False,0,0.0,False,
+3825896,Levante UD,77.8,62.1,Pass,José Antonio García Rabasco,False,0,0.0,False,
+3825896,Levante UD,97.2,74.6,Pass,Víctor Camarasa Ferrando,True,1,0.0512,False,11.0
+3825896,Granada,83.7,68.4,Pass,Isaac Ajayi Success,False,0,0.0,False,
+3825896,Granada,87.4,49.2,Pass,Youssef El-Arabi,False,0,0.0,False,
+3825897,Real Sociedad,80.4,11.9,Ball Recovery,David Zurutuza Veillet,False,0,0.0,False,
+3825897,Eibar,77.5,6.5,Pass,Antonio Manuel Luna Rodríguez,False,0,0.0,False,
+3825897,Eibar,75.1,9.2,Duel,Takashi Inui,False,0,0.0,False,
+3825897,Eibar,78.0,42.6,Ball Recovery,Borja González Tomás,False,0,0.0,False,
+3825897,Eibar,100.6,25.1,Ball Recovery,Sergio Gontán Gallardo,False,0,0.0,False,
+3825897,Real Sociedad,115.1,47.3,Ball Recovery,David Zurutuza Veillet,False,0,0.0,False,
+3825897,Eibar,76.4,11.8,Pass,Sergio Enrich Ametller,False,0,0.0,False,
+3825898,Celta Vigo,84.4,35.0,Pass,Théo Bongonda Mbul''Ofeko Batombo,False,0,0.0,False,
+3825898,Celta Vigo,83.8,36.1,Pass,Fabián Ariel Orellana Valenzuela,True,1,0.0529,True,1.0
+3825898,Celta Vigo,93.3,76.6,Ball Recovery,Théo Bongonda Mbul''Ofeko Batombo,False,0,0.0,False,
+3825899,Valencia,85.8,44.9,Ball Recovery,Francisco Alcácer García,True,1,0.0831,False,3.0
+3825899,Valencia,88.8,64.9,Ball Recovery,André Filipe Tavares Gomes,False,0,0.0,False,
+3825899,Getafe,117.1,9.8,Ball Recovery,Álvaro Vázquez García,False,0,0.0,False,
+3825899,Getafe,76.0,49.4,Ball Recovery,Moisés Gómez Bordonado,True,1,0.0326,False,7.0
+3825899,Getafe,78.3,24.2,Ball Recovery,Stefan Šćepović,True,1,0.0484,False,21.0
+3825900,Sporting Gijón,115.9,10.8,Duel,Jonathan Rodríguez Menéndez,False,0,0.0,False,
+3825900,Sporting Gijón,74.8,34.4,Ball Recovery,Sergio Álvarez Díaz,False,0,0.0,False,
+3825900,Sporting Gijón,75.6,53.4,Ball Recovery,Carlos Carmona Bonet,False,0,0.0,False,
+3825900,Sporting Gijón,80.6,43.8,Pass,Rachid Aït-Atmane,True,1,0.0261,False,3.0
+3825900,Sporting Gijón,75.0,5.1,Pass,Arnaldo Antonio Sanabria Ayala,True,1,0.0806,False,4.0
+3825900,Sporting Gijón,79.9,13.5,Pass,Jonathan Rodríguez Menéndez,False,0,0.0,False,
+3825900,Sporting Gijón,86.1,13.2,Pass,Arnaldo Antonio Sanabria Ayala,False,0,0.0,False,
+3825900,Sporting Gijón,83.3,4.6,Pass,Carlos Castro García,False,0,0.0,False,
+3825900,Villarreal,83.3,15.2,Ball Recovery,Denis Suárez Fernández,False,0,0.0,False,
+3825901,Valencia,78.2,63.1,Pass,João Pedro Cavaco Cancelo,False,0,0.0,False,
+3825901,Valencia,77.8,76.9,Pass,Antonio Barragán Fernández,False,0,0.0,False,
+3825901,Real Madrid,84.9,56.8,Pass,Lucas Vázquez Iglesias,False,0,0.0,False,
+3825901,Valencia,86.2,2.5,Pass,Rodrigo Moreno Machado,True,1,0.0321,False,30.0
+3825901,Real Madrid,89.6,31.2,Ball Recovery,Karim Benzema,True,1,0.0627,False,6.0
+3825901,Real Madrid,75.2,13.7,Duel,Sergio Ramos García,False,0,0.0,False,
+3825902,Rayo Vallecano,98.3,38.3,Block,Jozabed Sánchez Ruiz,False,0,0.0,False,
+3825902,Rayo Vallecano,88.2,28.1,Pass,Diego Javier Llorente Ríos,False,0,0.0,False,
+3825902,Rayo Vallecano,75.4,64.3,Ball Receipt*,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825902,Rayo Vallecano,79.5,60.6,Ball Recovery,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825902,Rayo Vallecano,77.0,60.6,Ball Recovery,Adrián Embarba Blázquez,False,0,0.0,False,
+3825902,Rayo Vallecano,76.0,68.1,Pass,Roberto Trashorras Gayoso,False,0,0.0,False,
+3825902,Rayo Vallecano,77.3,20.6,Pass,Javier Guerra Rodríguez,False,0,0.0,False,
+3825903,Málaga,77.5,49.3,Pass,Roberto José Rosales Altuve,True,1,0.095,False,9.0
+3825903,Málaga,78.5,49.4,Ball Recovery,José Luis García del Pozo,False,0,0.0,False,
+3825903,Málaga,81.0,55.4,Ball Recovery,Gonzalo Castro Irizábal,False,0,0.0,False,
+3825903,Real Betis,77.4,29.0,Pass,Juan Manuel Vargas Risco,False,0,0.0,False,
+3825903,Real Betis,74.6,32.1,Ball Recovery,Leandro Damião da Silva dos Santos,True,1,0.0419,False,5.0
+3825903,Real Betis,76.4,19.2,Pass,Rubén Castro Martín,False,0,0.0,False,
+3825903,Real Betis,80.5,9.4,Pass,Charly Musonda Junior,False,0,0.0,False,
+3825903,Real Betis,79.6,16.1,Pass,Rubén Castro Martín,False,0,0.0,False,
+3825903,Real Betis,76.5,67.5,Pass,Foued Kadir,False,0,0.0,False,
+3825903,Málaga,76.5,73.6,Ball Recovery,Ignacio Camacho Barnola,False,0,0.0,False,
+3825903,Málaga,82.6,78.1,Ball Recovery,Ignacio Camacho Barnola,False,0,0.0,False,
+3825904,Eibar,81.4,65.0,Pass,Josip Radošević,False,0,0.0,False,
+3825904,Eibar,74.6,67.5,Ball Recovery,Borja González Tomás,False,0,0.0,False,
+3825904,Eibar,87.5,6.5,Pass,Daniel García Carrillo,False,0,0.0,False,
+3825904,Real Betis,76.5,21.8,Duel,Petros Matheus dos Santos Araújo,False,0,0.0,False,
+3825904,Eibar,82.5,74.2,Ball Recovery,Ander Capa Rodríguez,False,0,0.0,False,
+3825904,Eibar,85.1,55.5,Duel,Sergio Enrich Ametller,True,2,0.6611,False,11.0
+3825904,Eibar,88.1,62.7,Pass,Daniel García Carrillo,False,0,0.0,False,
+3825905,Málaga,82.1,37.9,Interception,Ignacio Camacho Barnola,False,0,0.0,False,
+3825905,Espanyol,89.4,64.8,Ball Recovery,Papa Kouly Diop,False,0,0.0,False,
+3825906,RC Deportivo La Coruña,81.5,28.7,Duel,Luis Alberto Romero Alconchel,False,0,0.0,False,
+3825906,RC Deportivo La Coruña,83.8,72.4,Pass,Lucas Pérez Martínez,False,0,0.0,False,
+3825906,RC Deportivo La Coruña,89.7,60.4,Pass,Fayçal Fajr,False,0,0.0,False,
+3825906,Sevilla,80.3,69.0,Pass,Jorge Andújar Moreno,False,0,0.0,False,
+3825906,Sevilla,85.1,73.6,Pass,Jorge Andújar Moreno,False,0,0.0,False,
+3825906,Sevilla,103.0,5.8,Pass,Yevhen Konoplyanka,False,0,0.0,False,
+3825906,RC Deportivo La Coruña,76.5,55.5,Duel,Celso Borges Mora,False,0,0.0,False,
+3825907,Sporting Gijón,88.0,13.0,Pass,Sergio Álvarez Díaz,False,0,0.0,False,
+3825907,Sporting Gijón,78.9,74.0,Ball Recovery,Arnaldo Antonio Sanabria Ayala,False,0,0.0,False,
+3825907,Sporting Gijón,77.3,50.7,Ball Recovery,Luis Hernández Rodríguez,False,0,0.0,False,
+3825907,Sporting Gijón,79.5,45.5,Pass,Ignacio Cases Mora,False,0,0.0,False,
+3825907,Atlético Madrid,75.3,14.4,Pass,Filipe Luís Kasmirski,False,0,0.0,False,
+3825908,Espanyol,86.9,7.7,Ball Recovery,Marco Asensio Willemsen,False,0,0.0,False,
+3825908,Espanyol,82.0,35.9,Pass,Hernán Arsenio Pérez González,False,0,0.0,False,
+3825908,Eibar,76.4,44.2,Pass,Borja González Tomás,False,0,0.0,False,
+3825908,Eibar,79.4,16.2,Pass,Borja González Tomás,False,0,0.0,False,
+3825908,Espanyol,84.2,65.6,Duel,Óscar Esau Duarte Gaitán,False,0,0.0,False,
+3825908,Eibar,74.9,8.3,Pass,Takashi Inui,False,0,0.0,False,
+3825908,Eibar,94.6,76.1,Pass,Sergio Gontán Gallardo,False,0,0.0,False,
